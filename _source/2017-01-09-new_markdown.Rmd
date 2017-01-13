@@ -1,0 +1,12 @@
+---
+title: "Nothing here"
+author: "Thomas"
+date: "January 10, 2017"
+output: html_document
+layout: post
+tags: [jekyll, markdown]
+permalink: blog_test
+comments: yes
+---
+
+Haven't written any posts yet.

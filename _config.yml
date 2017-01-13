@@ -1,0 +1,32 @@
+markdown:         kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
+
+gems: ["jekyll-paginate"]
+
+highlighter:      pygments
+
+excerpt_separator: <!--more-->  
+permalink:        pretty
+title:            ''
+tagline:          'Thomas Nagler'
+description:	  '<a href="https://scholar.google.ca/citations?user=tZR1rZoAAAAJ&hl=en" target="_blank">Google Scholar</a>, <a href="https://github.com/tnagler">Github</a>, <a href="mailto:mail@tnagler.com">email</a>, <a href="https://www.researchgate.net/profile/Thomas_Nagler"> researchgate </a>'
+url:              https://tnagler.com/
+baseurl:          '/'
+paginate:         5
+
+author:
+  name: 'Thomas Nagler'
+  email: mail@tnagler.com
+  github: tnagler
+  bio: PhD Student
+  google_scholar: https://scholar.google.ca/citations?user=tZR1rZoAAAAJ&hl=en
+  researchgate: https://www.researchgate.net/profile/Thomas_Nagler
+
+version:          2.1.0
+
+
+

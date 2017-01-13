@@ -1,0 +1,61 @@
+---
+layout: default
+title: About
+---
+
+<!-- <div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <hr>
+
+    {{ post.excerpt }}
+    <a href="{{ post.url }}" class="read-more-btn"> <b>Read more &#187;</b> </a>
+  </div>
+  {% endfor %}
+</div> -->
+
+<!-- <div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Previous</a>
+  {% else %}
+    <span class="pagination-item older">Previous</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Next</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Next</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Next</span>
+  {% endif %}
+</div> -->
+## Hi! I'm Thomas,
+PhD student in mathematical statistics at the [Technical University of 
+Munich](https://www.statistics.ma.tum.de/en/home/). 
+
+My research interests are 
+
+  * Dependence modeling with copulas
+  * Nonparamteric estimation
+  * Asymptotic statistics
+  * Statistical computing and software
+
+I develop and maintain several R packages and a C++ library, see <a href="software">
+Software<a>.
+
+<script type="text/javascript"
+    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+<!--<ul class="toc">
+  {% include package-nav.html %}
+</ul>-->
