@@ -3,7 +3,7 @@ layout: page
 title: "Software"
 ---
 
-I spent a lot of my time writing open source software for statistical computing.
+I spend a lot of my time writing open source software for statistical computing.
 You can find an overview of my projects below.
 
 -----
