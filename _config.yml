@@ -7,7 +7,7 @@ redcarpet:
 
 gems: ["jekyll-paginate"]
 
-highlighter:      pygments
+highlighter:      rouge
 
 excerpt_separator: <!--more-->  
 permalink:        pretty
