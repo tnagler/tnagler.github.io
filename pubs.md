@@ -38,5 +38,3 @@ Vatter, T. and **Nagler, T.** (2016)
 **Nagler, T.** (2014)  
 [Kernel methods for vine copula estimation](https://mediatum.ub.tum.de/node?id=1231221)  
 *Master's thesis, Technische Universität München*
-
-\\( 1/x^{2} \\)
