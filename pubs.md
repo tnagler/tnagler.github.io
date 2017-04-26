@@ -18,18 +18,18 @@ simplified vine copulas](https://arxiv.org/abs/1503.03305)
 
 ## Preprints
 
+**Nagler, T.** (2017)  
+[A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/pdf/1704.07457.pdf)  
+
 **Nagler, T.**, Schellhase, C. and Czado, C. (2017)   
 [Nonparametric estimation of simplified vine copula models: comparison of 
 methods](https://arxiv.org/abs/1701.00845)  
-*Under review*
 
 Vatter, T. and **Nagler, T.** (2016)  
 [Generalized additive models for pair-copula constructions](https://arxiv.org/abs/1608.01593)   
-*Under review*
 
 **Nagler, T.** (2016)  
 [kdecopula: An R package for the kernel estimation of copula densities](https://arxiv.org/abs/1603.04229)  
-*Under review*
 
 ----------
 
