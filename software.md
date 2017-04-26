@@ -20,7 +20,7 @@ Kernel smoothing for bivariate copula densities
 Multivariate kernel density estimation with vine copulas
 
 [cctols](https://github.com/tnagler/cctools):
-Tools for continuous convolution in nonparametric estimation Edit
+Tools for continuous convolution in nonparametric estimation
 
 [jdify](https://github.com/tnagler/jdify):
 Joint density classifiers
