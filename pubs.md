@@ -8,22 +8,27 @@ title: "Publications"
 
 ## Journal articles  
 
+**Nagler, T.**, Schellhase, C. and Czado, C. (2017)   
+[Nonparametric estimation of simplified vine copula models: comparison of 
+methods](https://arxiv.org/abs/1701.00845)  
+To appear in *Dependence Modeling*
+
 **Nagler, T.** and Czado, C. (2016)  
 [Evading the curse of dimensionality in nonparametric density estimation with
 simplified vine copulas](https://arxiv.org/abs/1503.03305)  
-*Journal of Multivariate Analysis 151, 69-89*
+*Journal of Multivariate Analysis, 151, pp. 69-89*
 ([doi:10.1016/j.jmva.2016.07.003](http://www.sciencedirect.com/science/article/pii/S0047259X16300471))  
+
 
 ----------
 
 ## Preprints
 
 **Nagler, T.** (2017)  
-[A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/pdf/1704.07457.pdf)  
+[Asymptotic analysis of the continuous convolution kernel density estimator](https://arxiv.org/abs/1705.05431)   
 
-**Nagler, T.**, Schellhase, C. and Czado, C. (2017)   
-[Nonparametric estimation of simplified vine copula models: comparison of 
-methods](https://arxiv.org/abs/1701.00845)  
+**Nagler, T.** (2017)  
+[A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/pdf/1704.07457.pdf)  
 
 Vatter, T. and **Nagler, T.** (2016)  
 [Generalized additive models for pair-copula constructions](https://arxiv.org/abs/1608.01593)   
