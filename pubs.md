@@ -6,7 +6,26 @@ title: "Publications"
 
 ----------
 
+## Preprints
+
+**Nagler, T.** (2017)  
+[Asymptotic analysis of the continuous convolution kernel density estimator](https://arxiv.org/abs/1705.05431)   
+
+**Nagler, T.** (2017)  
+[A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/pdf/1704.07457.pdf)  
+
+Vatter, T. and **Nagler, T.** (2016)  
+[Generalized additive models for pair-copula constructions](https://arxiv.org/abs/1608.01593)   
+
+
+
+----------
+
 ## Journal articles  
+
+**Nagler, T.** (2017)  
+[kdecopula: An R package for the kernel estimation of copula densities](https://arxiv.org/abs/1603.04229)  
+To appear in *Journal of Statistical Software*
 
 **Nagler, T.**, Schellhase, C. and Czado, C. (2017)   
 [Nonparametric estimation of simplified vine copula models: comparison of 
@@ -19,22 +38,6 @@ simplified vine copulas](https://arxiv.org/abs/1503.03305)
 *Journal of Multivariate Analysis, 151, pp. 69-89*
 ([doi:10.1016/j.jmva.2016.07.003](http://www.sciencedirect.com/science/article/pii/S0047259X16300471))  
 
-
-----------
-
-## Preprints
-
-**Nagler, T.** (2017)  
-[Asymptotic analysis of the continuous convolution kernel density estimator](https://arxiv.org/abs/1705.05431)   
-
-**Nagler, T.** (2017)  
-[A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/pdf/1704.07457.pdf)  
-
-Vatter, T. and **Nagler, T.** (2016)  
-[Generalized additive models for pair-copula constructions](https://arxiv.org/abs/1608.01593)   
-
-**Nagler, T.** (2016)  
-[kdecopula: An R package for the kernel estimation of copula densities](https://arxiv.org/abs/1603.04229)  
 
 ----------
 
