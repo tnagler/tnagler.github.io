@@ -7,6 +7,9 @@ title: "Publications"
 ----------
 
 ## Preprints
+ 
+Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C. (2017)  
+[D-vine quantile regression with discrete variables](http://arxiv.org/abs/1705.08310)
 
 **Nagler, T.** (2017)  
 [Asymptotic analysis of the continuous convolution kernel density estimator](https://arxiv.org/abs/1705.05431)   
