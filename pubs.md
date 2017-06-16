@@ -52,9 +52,9 @@ simplified vine copulas](https://arxiv.org/abs/1503.03305)
 
 ----------
 
-## Other 
+## Contribution to discussions 
 
 **Nagler, T.** (2017)  
 [Comment on "A coupled stochastic rainfall-evapotranspiration model for 
 hydrological impact analysis" by Minh Tu Pham et al.](http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1-supplement.pdf)  
-*Interactive comment on Hydrol. Earth Syst. Sci. Discuss.*, ([doi:10.5194/hess-2017-161-RC1](http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1.pdf))
+*Interactive comment on Hydrol. Earth Syst. Sci. Discuss.* ([doi:10.5194/hess-2017-161-RC1](http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1.pdf))
