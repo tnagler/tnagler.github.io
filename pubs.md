@@ -52,7 +52,7 @@ simplified vine copulas](https://arxiv.org/abs/1503.03305)
 
 ----------
 
-## Contribution to discussions 
+## Other 
 
 **Nagler, T.** (2017)  
 [Comment on "A coupled stochastic rainfall-evapotranspiration model for 
