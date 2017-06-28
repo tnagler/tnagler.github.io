@@ -32,13 +32,13 @@ To appear in *Journal of Statistical Software*
 
 **Nagler, T.**, Schellhase, C. and Czado, C. (2017)   
 [Nonparametric estimation of simplified vine copula models: comparison of 
-methods](https://arxiv.org/abs/1701.00845)  
-To appear in *Dependence Modeling*
+methods](https://www.degruyter.com/downloadpdf/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.pdf)  
+*Dependence Modeling, 5:99-120* ([doi:doi.org/10.1515/demo-2017-0007](https://www.degruyter.com/view/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.xml))
 
 **Nagler, T.** and Czado, C. (2016)  
 [Evading the curse of dimensionality in nonparametric density estimation with
 simplified vine copulas](https://arxiv.org/abs/1503.03305)  
-*Journal of Multivariate Analysis, 151, pp. 69-89*
+*Journal of Multivariate Analysis, 151:69-89*
 ([doi:10.1016/j.jmva.2016.07.003](http://www.sciencedirect.com/science/article/pii/S0047259X16300471))  
 
 
