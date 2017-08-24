@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_Index on </title>
+    <link>https://tnagler.github.io/publication/</link>
+    <description>Recent content in _Index on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Thomas Nagler</copyright>
+    <lastBuildDate>Thu, 24 Aug 2017 01:19:31 +0200</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
