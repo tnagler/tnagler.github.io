@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.38.2" />
+  <meta name="generator" content="Hugo 0.40" />
   <meta name="author" content="Thomas Nagler">
 
   
@@ -354,7 +354,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    8 min read
+    0 min read
   </span>
   
 
@@ -376,6 +376,227 @@
   <div class="article-style" itemprop="articleBody">
     
     <p>This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about <a href="/post/writing-markdown-latex/" target="_blank">writing content with Markdown, LaTeX, and Shortcodes</a>.</p>
+
+<p>To enable LaTeX math rendering for a page, you should include <code>math = true</code> in the page&rsquo;s <code>+++</code> preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set <code>math = true</code> in <code>config.toml</code>.</p>
+
+<p>To disable source code highlighting by default for all pages, set <code>highlight = false</code> in <code>config.toml</code>. You can then enable source code highlighting only on pages that need it by setting <code>highlight = true</code> in that page&rsquo;s preamble. See the <a href="/post/writing-markdown-latex/#code-highlighting" target="_blank">code-highlighting docs</a> for more details.</p>
+
+<p>To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&rsquo;s <code>+++</code> preamble. It is assumed that the image is located in your <code>static/img/</code> folder, so the full path in the example below will be <code>static/img/headers/getting-started.png</code>. The <code>caption</code> parameter can be used to write an image caption or credit.</p>
+
+<pre><code class="language-toml">[header]
+image = &quot;headers/getting-started.png&quot;
+caption = &quot;Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)&quot;
+
+</code></pre>
+
+<div class="alert alert-note">
+  <p>If you wish to prevent a featured image automatically being used for a post&rsquo;s thumbnail on the homepage, the <code>preview = false</code> parameter can be added to <code>[header]</code>.</p>
+
+</div>
+
+
+<h2>Table of Contents</h2>
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#create-a-publication">Create a publication</a></li>
+<li><a href="#create-a-blog-post">Create a blog post</a></li>
+<li><a href="#create-a-project">Create a project</a></li>
+<li><a href="#create-a-talk">Create a talk</a></li>
+<li><a href="#create-a-widget-page">Create a widget page</a></li>
+<li><a href="#create-other-pages-e-g-cv">Create other pages (e.g. CV)</a></li>
+<li><a href="#manage-archive-pages">Manage archive pages</a></li>
+<li><a href="#removing-content">Removing content</a></li>
+<li><a href="#view-your-updated-site">View your updated site</a></li>
+<li><a href="#deploy-your-site">Deploy your site</a></li>
+</ul></li>
+</ul>
+</nav>
+
+
+<h2 id="create-a-publication">Create a publication</h2>
+
+<p>To create a new publication:</p>
+
+<pre><code>hugo new publication/my-paper-name.md
+</code></pre>
+
+<p>Then edit the default variables at the top of <code>content/publication/my-paper-name.md</code> to include the details of your publication. The <code>url_</code> variables are used to generate links associated with your publication, such as for viewing PDFs of papers. Here is an example:</p>
+
+<pre><code>+++
+title = &quot;A publication title, such as title of a paper&quot;
+
+# Date first published.
+date = &quot;2013-07-01&quot;
+
+# Authors. Comma separated list, e.g. `[&quot;Bob Smith&quot;, &quot;David Jones&quot;]`.
+authors = [&quot;First author's name&quot;, &quot;Second author's name&quot;]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = [&quot;1&quot;]
+
+# Publication name and optional abbreviated version.
+publication = &quot;In *International Conference on Academic*. You may use *Markdown* for italics etc.&quot;
+publication_short = &quot;In *ICA*&quot;
+
+# Abstract and optional shortened version.
+abstract = &quot;The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below).&quot;
+abstract_short = &quot;A short version of the abstract.&quot;
+
+# Featured image thumbnail (optional)
+image_preview = &quot;&quot;
+
+# Is this a selected publication? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+#   E.g. `projects = [&quot;deep-learning&quot;]` references `content/project/deep-learning.md`.
+projects = []
+
+# Links (optional).
+url_pdf = &quot;pdf/my-paper-name.pdf&quot;
+url_preprint = &quot;&quot;
+url_code = &quot;&quot;
+url_dataset = &quot;&quot;
+url_project = &quot;&quot;
+url_slides = &quot;&quot;
+url_video = &quot;&quot;
+url_poster = &quot;&quot;
+url_source = &quot;&quot;
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = &quot;Custom Link&quot;, url = &quot;http://example.org&quot;}]
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = &quot;example.jpg&quot;`.
+[header]
+image = &quot;headers/bubbles-wide.jpg&quot;
+caption = &quot;My caption 😄&quot;
+
++++
+
+Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
+</code></pre>
+
+<p>The <code>url_</code> links can either point to local or web content. Associated local publication content, such as PDFs, may be copied to a <code>static/pdf/</code> folder and referenced like <code>url_pdf = &quot;pdf/my-paper-name.pdf&quot;</code>.</p>
+
+<p>You can also associate custom link buttons with the publication by adding the following block within the variable preamble above, which is denoted by <code>+++</code>:</p>
+
+<pre><code>url_custom = [{name = &quot;Custom Link 1&quot;, url = &quot;http://example.org&quot;},
+              {name = &quot;Custom Link 2&quot;, url = &quot;http://example.org&quot;}]
+</code></pre>
+
+<p>If you set <code>list_format=2</code> to enable a detailed listing of publications in the Publication Widget (<code>home/publications.md</code>) or Publication Archive (<code>publication/_index.md</code>), then there are a few more optional variables that you can include in the publication page preamble. You may use <code>abstract_short = &quot;friendly summary of abstract&quot;</code> and <code>publication_short = &quot;abbreviated publication details&quot;</code> to display a friendly summary of the abstract and abbreviate the publication details, respectively. Furthermore, there is the option to display a different image on the homepage to the publication detail page by setting <code>image_preview = &quot;my-image.jpg&quot;</code>. This can be useful if you wish to scale down the image for the homepage or simply if you just wish to show a different image for the preview.</p>
+
+<div class="alert alert-warning">
+  <p>Any double quotes (<code>&quot;</code>) or backslashes (e.g. LaTeX <code>\times</code>) occurring within the value of any frontmatter parameter (such as the <em>abstract</em>) should be escaped with a backslash (<code>\</code>). For example, the symbol <code>&quot;</code> and LaTeX text <code>\times</code> become <code>\&quot;</code> and <code>\\times</code>, respectively. Refer to the <a href="https://github.com/toml-lang/toml#user-content-string" target="_blank">TOML documentation</a> for more info.</p>
+
+</div>
+
+
+<h2 id="create-a-blog-post">Create a blog post</h2>
+
+<p>To create a blog/news article:</p>
+
+<pre><code>hugo new post/my-article-name.md
+</code></pre>
+
+<p>Then edit the newly created file <code>content/post/my-article-name.md</code> with your full title and content.</p>
+
+<p>Hugo will automatically generate summaries of posts that appear on the homepage. If you are dissatisfied with an automated summary, you can either limit the summary length by appropriately placing <code>&#60;&#33;&#45;&#45;more&#45;&#45;&#62;</code> in the article body, or completely override the automated summary by adding a <code>summary</code> parameter to the <code>+++</code> preamble such that:</p>
+
+<pre><code>summary = &quot;Summary of my post.&quot;
+</code></pre>
+
+<p>To disable commenting for a specific post, you can add <code>disable_comments = true</code> to the post <code>+++</code> preamble. Or to disable commenting for all posts, you can either set <code>disqusShortname = &quot;&quot;</code> or <code>disable_comments = true</code> in <code>config.toml</code>.</p>
+
+<h2 id="create-a-project">Create a project</h2>
+
+<p>To create a project:</p>
+
+<pre><code>hugo new project/my-project-name.md
+</code></pre>
+
+<p>Then edit the newly created file <code>content/project/my-project-name.md</code>. Either you can link the project to an external project website by setting the <code>external_link = &quot;http://external-project.com&quot;</code> variable at the top of the file, or you can add content (below the final <code>+++</code>) in order to render a project page on your website.</p>
+
+<h2 id="create-a-talk">Create a talk</h2>
+
+<p>To create a talk:</p>
+
+<pre><code>hugo new talk/my-talk-name.md
+</code></pre>
+
+<p>Then edit the newly created file <code>content/talk/my-talk-name.md</code> with your full talk title and details. Note that many of the talk parameters are similar to the publication parameters.</p>
+
+<h2 id="create-a-widget-page">Create a widget page</h2>
+
+<p>So you would like to create a page which utilizes Academic&rsquo;s widget system, similar to the homepage?</p>
+
+<p>Create a new folder in your <code>content</code> folder, naming it with your new page name. In this example, we will create a <em>courses</em> page by creating a <code>content/courses/</code> folder.</p>
+
+<p>Within your new <code>content/courses/</code> folder, create a file named <code>_index.md</code> containing the following parameters:</p>
+
+<pre><code>+++
+title = &quot;Courses&quot;
+date = 2017-01-01
+widgets = true
++++
+</code></pre>
+
+<p>Install widgets into your <code>content/courses/</code> folder. To achieve this, widgets can be copied from your <code>content/home/</code> folder or downloaded from <a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/home" target="_blank">Github</a>.</p>
+
+<h2 id="create-other-pages-e-g-cv">Create other pages (e.g. CV)</h2>
+
+<p>For other types of content, it is possible to create your own custom pages. For example, let&rsquo;s create a <code>cv.md</code> page for your Curriculum Vitae in your <code>content</code> folder. Copy across the frontmatter from the top of one of your post files, adapting it as necessary, and editing your Markdown content below. You can then link to your new page by adding the code <code>[My CV]{{&lt; ref &quot;cv.md&quot; &gt;}}</code> to any of your existing content.</p>
+
+<p>Alternatively, for the above example, we could use a PDF of your Curriculum Vitae. For this purpose, create a folder called <code>files</code> within your <code>static</code> folder and move a PDF file named <code>cv.pdf</code> to that location, so we have a <code>static/files/cv.pdf</code> file path. The PDF can then be linked to from any content by using the code: <code>{{% staticref &quot;files/cv.pdf&quot; %}}Download my CV{{% /staticref %}}</code>.</p>
+
+<h2 id="manage-archive-pages">Manage archive pages</h2>
+
+<p>The archive (or <em>node index</em>) pages (e.g. <code>/post/</code>) are the special pages which list all of your content. They can exist for blog posts, publications, and talks. The homepage widgets will automatically link to the archive pages when you have more items of content than can be displayed in the widget. Therefore, if you don&rsquo;t have much content, you may not see the automatic links yet - but you can also manually link to them using a normal Markdown formatted link in your content.</p>
+
+<p>You can edit the title and add your own content, such as an introduction, by copying the following content <code>_index.md</code> files from the example site to the same structure within your <code>content/</code> folder:</p>
+
+<pre><code>/themes/academic/exampleSite/content/post/_index.md
+/themes/academic/exampleSite/content/publication/_index.md
+/themes/academic/exampleSite/content/talk/_index.md
+</code></pre>
+
+<p>Then edit the <code>title</code> parameter in each <code>_index.md</code> as desired and add any content after the <code>+++</code> preamble/frontmatter ends. You will notice that the <code>_index.md</code> files differ slightly, with some having special options available for the associated content type. For example, <code>publication/_index.md</code> contains an option for setting the citation style of the listings which appear on the publication archive page.</p>
+
+<h2 id="removing-content">Removing content</h2>
+
+<p>Generally, to remove content, simply delete the relevant file from your <code>content/post</code>, <code>content/publication</code>, <code>content/project</code>, or <code>content/talk</code> folder.</p>
+
+<h2 id="view-your-updated-site">View your updated site</h2>
+
+<p>After you have made changes to your site, you can view it by running the <code>hugo server</code> command and then opening <a href="http://localhost:1313" target="_blank">localhost:1313</a> in your web browser.</p>
+
+<h2 id="deploy-your-site">Deploy your site</h2>
+
+<p>Finally, you can build the static website to a <code>public/</code> folder ready for deployment using the <code>hugo</code> command.</p>
+
+<p>You may then deploy your site by copying the <code>public/</code> directory (by FTP, SFTP, WebDAV, Rsync, git push, etc.) to your production web server.</p>
+
+<p>Note that running <code>hugo</code> does not remove any previously generated files before building. Therefore, it&rsquo;s best practice to delete your <code>public/</code> directory prior to running <code>hugo</code> to ensure no old or interim files are deployed to your server.</p>
     
   </div>
   <p class="read-more" itemprop="mainEntityOfPage">
@@ -407,7 +628,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    7 min read
+    0 min read
   </span>
   
 
@@ -429,6 +650,413 @@
   <div class="article-style" itemprop="articleBody">
     
     <p>Content can be written using <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown</a>, <a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank">LaTeX math</a>, and <a href="http://gohugo.io/extras/shortcodes/" target="_blank">Hugo Shortcodes</a>. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.</p>
+
+<h2>Table of Contents</h2>
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#sub-headings">Sub-headings</a></li>
+<li><a href="#emphasis">Emphasis</a></li>
+<li><a href="#ordered-lists">Ordered lists</a></li>
+<li><a href="#unordered-lists">Unordered lists</a></li>
+<li><a href="#images">Images</a></li>
+<li><a href="#links">Links</a></li>
+<li><a href="#emojis">Emojis</a></li>
+<li><a href="#blockquote">Blockquote</a></li>
+<li><a href="#footnotes">Footnotes</a></li>
+<li><a href="#code-highlighting">Code highlighting</a>
+<ul>
+<li><a href="#highlighting-options">Highlighting options</a>
+<ul>
+<li><a href="#option-highlight">Option <code>highlight</code></a></li>
+<li><a href="#option-highlight-languages">Option <code>highlight_languages</code></a></li>
+<li><a href="#option-highlight-style">Option <code>highlight_style</code></a></li>
+</ul></li>
+</ul></li>
+<li><a href="#twitter-tweet">Twitter tweet</a></li>
+<li><a href="#youtube">Youtube</a></li>
+<li><a href="#vimeo">Vimeo</a></li>
+<li><a href="#github-gist">GitHub gist</a></li>
+<li><a href="#speaker-deck">Speaker Deck</a></li>
+<li><a href="#rm-latex-math">$\rm \LaTeX$ math</a>
+<ul>
+<li><a href="#multiline-equations">Multiline equations</a></li>
+<li><a href="#publication-abstracts">Publication abstracts</a></li>
+</ul></li>
+<li><a href="#table">Table</a></li>
+<li><a href="#alerts">Alerts</a></li>
+<li><a href="#table-of-contents">Table of Contents</a></li>
+</ul></li>
+</ul>
+</nav>
+
+
+<h2 id="sub-headings">Sub-headings</h2>
+
+<pre><code>## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+</code></pre>
+
+<h2 id="emphasis">Emphasis</h2>
+
+<pre><code>Italics with *asterisks* or _underscores_.
+
+Bold with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough with ~~two tildes~~.
+</code></pre>
+
+<h2 id="ordered-lists">Ordered lists</h2>
+
+<pre><code>1. First item
+2. Another item
+</code></pre>
+
+<h2 id="unordered-lists">Unordered lists</h2>
+
+<pre><code>* First item
+* Another item
+</code></pre>
+
+<h2 id="images">Images</h2>
+
+<p>Images may be added to a page by placing them in your <code>static/img/</code> folder and referencing them using one of the following two notations:</p>
+
+<p>A general image:</p>
+
+<pre><code>![alternative text for search engines](/img/screenshot.png)
+</code></pre>
+
+<p>A numbered figure with caption:</p>
+
+<pre><code>{{&lt; figure src=&quot;/img/screenshot.png&quot; title=&quot;Figure Caption&quot; &gt;}}
+</code></pre>
+
+<h2 id="links">Links</h2>
+
+<pre><code>[I'm a link](https://www.google.com)
+[A post]({{&lt; ref &quot;post/hi.md&quot; &gt;}})
+[A publication]({{&lt; ref &quot;publication/hi.md&quot; &gt;}})
+[A project]({{&lt; ref &quot;project/hi.md&quot; &gt;}})
+[Another section]({{&lt; relref &quot;hi.md#who&quot; &gt;}})
+</code></pre>
+
+<p>To enable linking to a file, such as a PDF, first place the file in your <code>static/files/</code> folder and then link to it using the following form:</p>
+
+<pre><code>{{% staticref &quot;files/cv.pdf&quot; &quot;newtab&quot; %}}Download my CV{{% /staticref %}}
+</code></pre>
+
+<p>The optional <code>&quot;newtab&quot;</code> argument for <code>staticref</code> will cause the link to be opened in a new tab.</p>
+
+<h2 id="emojis">Emojis</h2>
+
+<p>See the <a href="http://www.webpagefx.com/tools/emoji-cheat-sheet/" target="_blank">Emoji cheat sheet</a> for available emoticons. The following serves as an example, but you should remove the spaces between each emoji name and pair of semicolons:</p>
+
+<pre><code>I : heart : Academic : smile :
+</code></pre>
+
+<p>I ❤️ Academic 😄</p>
+
+<h2 id="blockquote">Blockquote</h2>
+
+<pre><code>&gt; This is a blockquote.
+</code></pre>
+
+<blockquote>
+<p>This is a blockquote.</p>
+</blockquote>
+
+<h2 id="footnotes">Footnotes</h2>
+
+<pre><code>I have more [^1] to say.
+
+[^1]: Footnote example.
+</code></pre>
+
+<p>I have more <sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup> to say.</p>
+
+<h2 id="code-highlighting">Code highlighting</h2>
+
+<p>Pass the <em>language</em> of the code, such as <code>python</code>, as a parameter after three backticks:</p>
+
+<pre><code>```python
+# Example of code highlighting
+input_string_var = input(&quot;Enter some data: &quot;)
+print(&quot;You entered: {}&quot;.format(input_string_var))
+```
+</code></pre>
+
+<p>Result:</p>
+
+<pre><code class="language-python"># Example of code highlighting
+input_string_var = input(&quot;Enter some data: &quot;)
+print(&quot;You entered: {}&quot;.format(input_string_var))
+</code></pre>
+
+<h3 id="highlighting-options">Highlighting options</h3>
+
+<p>The Academic theme uses <a href="https://highlightjs.org" target="_blank">highlight.js</a> for source code highlighting, and highlighting is enabled by default for all pages. However, several configuration options are supported that allow finer-grained control over highlight.js.</p>
+
+<p>The following table lists the supported options for configuring highlight.js, along with their expected type and a short description. A &ldquo;yes&rdquo; in the <strong>config.toml</strong> column means the value can be set globally in <code>config.toml</code>, and a &ldquo;yes&rdquo; in the <strong>preamble</strong> column means that the value can be set locally in a particular page&rsquo;s preamble.</p>
+
+<table>
+<thead>
+<tr>
+<th>option</th>
+<th>type</th>
+<th>description</th>
+<th>config.toml</th>
+<th>preamble</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><code>highlight</code></td>
+<td>boolean</td>
+<td>enable/disable highlighting</td>
+<td>yes</td>
+<td>yes</td>
+</tr>
+
+<tr>
+<td><code>highlight_languages</code></td>
+<td>slice</td>
+<td>choose additional languages</td>
+<td>yes</td>
+<td>yes</td>
+</tr>
+
+<tr>
+<td><code>highlight_style</code></td>
+<td>string</td>
+<td>choose a highlighting style</td>
+<td>yes</td>
+<td>no</td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="option-highlight">Option <code>highlight</code></h4>
+
+<p>The <code>highlight</code> option allows enabling or disabling the inclusion of highlight.js, either globally or for a particular page. If the option is unset, it has the same effect as if you had specified <code>highlight = true</code>. That is, the highlight.js javascript and css files will be included in every page. If you&rsquo;d like to only include highlight.js files on pages that actually require source code highlighting, you can set <code>highlight = false</code> in <code>config.toml</code>, and then override it by setting <code>highlight = true</code> in the preamble of any pages that require source code highlighting. Conversely, you could enable highlighting globally, and disable it locally for pages that do not require it. Here is a table that shows whether highlighting will be enabled for a page, based on the values of <code>highlight</code> set in <code>config.toml</code> and/or the page&rsquo;s preamble.</p>
+
+<table>
+<thead>
+<tr>
+<th>config.toml</th>
+<th>page preamble</th>
+<th>highlighting enabled for page?</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>unset or true</td>
+<td>unset or true</td>
+<td>yes</td>
+</tr>
+
+<tr>
+<td>unset or true</td>
+<td>false</td>
+<td>no</td>
+</tr>
+
+<tr>
+<td>false</td>
+<td>unset or false</td>
+<td>no</td>
+</tr>
+
+<tr>
+<td>false</td>
+<td>true</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="option-highlight-languages">Option <code>highlight_languages</code></h4>
+
+<p>The <code>highlight_languages</code> option allows you to specify additional languages that are supported by highlight.js, but are not considered &ldquo;common&rdquo; and therefore are not supported by default. For example, if you want source code highlighting for Go and clojure in all pages, set <code>highlight_languages = [&quot;go&quot;, &quot;clojure&quot;]</code> in <code>config.toml</code>. If, on the other hand, you want to enable a language only for a specific page, you can set <code>highlight_languages</code> in that page&rsquo;s preamble.</p>
+
+<p>The <code>highlight_languages</code> options specified in <code>config.toml</code> and in a page&rsquo;s preamble are additive. That is, if <code>config.toml</code> contains, <code>highlight_languages = [&quot;go&quot;]</code> and the page&rsquo;s preamble contains <code>highlight_languages = [&quot;ocaml&quot;]</code>, then javascript files for <em>both</em> go and ocaml will be included for that page.</p>
+
+<p>If the <code>highlight_languages</code> option is set, then the corresponding javascript files will be served from the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs server</a>. To see a list of available languages, visit the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs page</a> and search for links with the word &ldquo;languages&rdquo;.</p>
+
+<p>The <code>highlight_languages</code> option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&rsquo;t meet your needs, you can include javascript files for additional language support via one of the methods described in the <a href="/post/getting-started/#third-party-and-local-scripts-js" target="_blank">getting started guide</a>.</p>
+
+<h4 id="option-highlight-style">Option <code>highlight_style</code></h4>
+
+<p>The <code>highlight_style</code> option allows you to select an alternate css style for highlighted code. For example, if you wanted to use the solarized-dark style, you could set <code>highlight_style = &quot;solarized-dark&quot;</code> in <code>config.toml</code>.</p>
+
+<p>If the <code>highlight_style</code> option is unset, the default is to use the file <code>/css/highlight.min.css</code>, either the one provided by the Academic theme, or else the one in your local <code>static</code> directory.  The <code>/css/highlight.min.css</code> file provided by Academic is equivalent to the <code>github</code> style from highlight.js.</p>
+
+<p>If the <code>highlight_style</code> option <em>is</em> set, then <code>/css/highlight.min.css</code> is ignored, and the corresponding css file will be served from the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs server</a>. To see a list of available styles, visit the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs page</a> and search for links with the word &ldquo;styles&rdquo;.</p>
+
+<p>See the <a href="https://highlightjs.org/static/demo/" target="_blank">highlight.js demo page</a> for examples of available styles.</p>
+
+<div class="alert alert-note">
+  <p>Not all styles listed on the <a href="https://highlightjs.org/static/demo/" target="_blank">highlight.js demo page</a> are available from the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs server</a>. If you want to use a style that is not served by cdnjs, just leave <code>highlight_style</code> unset, and place the corresponding css file in <code>/static/css/highlight.min.css</code>.</p>
+
+</div>
+
+
+<div class="alert alert-note">
+  <p>If you don&rsquo;t want to change the default style that ships with Academic but you do want the style file served from the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs server</a>, set <code>highlight_style = &quot;github&quot;</code> in <code>config.toml</code>.</p>
+
+</div>
+
+
+<p>The <code>highlight_style</code> option is only recognized when set in <code>config.toml</code>. Setting <code>highlight_style</code> in your page&rsquo;s preamble has no effect.</p>
+
+<h2 id="twitter-tweet">Twitter tweet</h2>
+
+<p>To include a single tweet, pass the tweet’s ID from the tweet&rsquo;s URL as parameter to the shortcode:</p>
+
+<pre><code>{{&lt; tweet 666616452582129664 &gt;}}
+</code></pre>
+
+<h2 id="youtube">Youtube</h2>
+
+<pre><code>{{&lt; youtube w7Ft2ymGmfc &gt;}}
+</code></pre>
+
+<h2 id="vimeo">Vimeo</h2>
+
+<pre><code>{{&lt; vimeo 146022717 &gt;}}
+</code></pre>
+
+<h2 id="github-gist">GitHub gist</h2>
+
+<pre><code>{{&lt; gist USERNAME GIST-ID  &gt;}}
+</code></pre>
+
+<h2 id="speaker-deck">Speaker Deck</h2>
+
+<pre><code>{{&lt; speakerdeck 4e8126e72d853c0060001f97 &gt;}}
+</code></pre>
+
+<h2 id="rm-latex-math">$\rm \LaTeX$ math</h2>
+
+<pre><code class="language-TeX">$$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$
+</code></pre>
+
+<p>$$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$</p>
+
+<p>Alternatively, inline math can be written by wrapping the formula with only a single <code>$</code>:</p>
+
+<pre><code>This is inline: $\mathbf{y} = \mathbf{X}\boldsymbol\beta + \boldsymbol\varepsilon$
+</code></pre>
+
+<p>This is inline: $\mathbf{y} = \mathbf{X}\boldsymbol\beta + \boldsymbol\varepsilon$</p>
+
+<p>Note that Markdown special characters need to be escaped with a backslash so they are treated as math rather than Markdown. For example, <code>*</code> and <code>_</code> become <code>\*</code> and <code>\_</code> respectively.</p>
+
+<h3 id="multiline-equations">Multiline equations</h3>
+
+<p>The standard LaTeX line break consisting of 2 backslashes needs to be replaced with 6 backslashes:</p>
+
+<pre><code class="language-TeX">$$f(k;p\_0^\*) = \begin{cases} p\_0^\* &amp; \text{if }k=1, \\\\\\
+1-p\_0^\* &amp; \text {if }k=0.\end{cases}$$
+</code></pre>
+
+<p>$$f(k;p_0^*) = \begin{cases} p_0^* &amp; \text{if }k=1, \\<br />
+1-p_0^* &amp; \text {if }k=0.\end{cases}$$</p>
+
+<h3 id="publication-abstracts">Publication abstracts</h3>
+
+<p>As Hugo and Academic attempt to parse TOML, Markdown, and LaTeX content in the abstract, the following guidelines should be followed just for the publication <code>abstract</code> and <code>abstract_short</code> fields:</p>
+
+<ul>
+<li>escape each LaTeX backslash (<code>\</code>) with an extra backslash, yielding <code>\\</code></li>
+<li>escape each LaTeX underscore (<code>_</code>) with two backslashes, yielding <code>\\_</code></li>
+</ul>
+
+<p>Hence, <code>abstract = &quot;${O(d_{\max})}$&quot;</code> becomes <code>abstract = &quot;${O(d\\_{\\max})}$&quot;</code>.</p>
+
+<h2 id="table">Table</h2>
+
+<p>Code:</p>
+
+<pre><code class="language-Markdown">| Command           | Description                    |
+| ------------------| ------------------------------ |
+| `hugo`            | Build your website.            |
+| `hugo serve -w`   | View your website.             |
+</code></pre>
+
+<p>Result:</p>
+
+<table>
+<thead>
+<tr>
+<th>Command</th>
+<th>Description</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><code>hugo</code></td>
+<td>Build your website.</td>
+</tr>
+
+<tr>
+<td><code>hugo serve -w</code></td>
+<td>View your website.</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="alerts">Alerts</h2>
+
+<p>Alerts are a useful feature that add side content such as tips, notes, or warnings to your articles. They are especially handy when writing educational tutorial-style articles. Use the corresponding shortcodes to enable alerts inside your content:</p>
+
+<pre><code>{{% alert note %}}
+Here's a tip or note...
+{{% /alert %}}
+</code></pre>
+
+<p>This will display the following <em>note</em> block:</p>
+
+<div class="alert alert-note">
+  <p>Here&rsquo;s a tip or note&hellip;</p>
+
+</div>
+
+
+<pre><code>{{% alert warning %}}
+Here's some important information...
+{{% /alert %}}
+</code></pre>
+
+<p>This will display the following <em>warning</em> block:</p>
+
+<div class="alert alert-warning">
+  <p>Here&rsquo;s some important information&hellip;</p>
+
+</div>
+
+
+<h2 id="table-of-contents">Table of Contents</h2>
+
+<p>A table of contents may be particularly useful for long posts or tutorial/documentation type content. Use the <code>{{% toc %}}</code> shortcode anywhere you wish within your Markdown content to automatically generate a table of contents.</p>
+<div class="footnotes">
+
+<hr />
+
+<ol>
+<li id="fn:1">Footnote example.
+ <a class="footnote-return" href="#fnref:1"><sup>^</sup></a></li>
+</ol>
+</div>
     
   </div>
   <p class="read-more" itemprop="mainEntityOfPage">
