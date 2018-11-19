@@ -31,12 +31,12 @@
 R-friendly multi-threading in C++
 Möller, A., Spazzini, L., Kraus, D., Nagler, T., Czado, C.
 Vine copula based post-processing of ensemble forecasts for temperature 
-Jäger, W.S., Nagler, T., Czado, C., McCall, R.T.
-A Statistical Simulation Method for Joint Time Series of Non-stationary Hourly Wave Parameters
 Nagler, T., Vatter, T.
 Solving estimating equations with copulas
 Nagler, T., Bumann, C., Czado, C.
-Model selection for sparse high-dimensional vine copulas with application to portfolio risk</description>
+Model selection for sparse high-dimensional vine copulas with application to portfolio risk
+Schallhorn, N., Kraus, D., Nagler, T. and Czado, C.
+D-vine quantile regression with discrete variables</description>
     </item>
     
     <item>
