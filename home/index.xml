@@ -55,7 +55,7 @@ VineCopula: Statistical inference of vine copulas
 wdm: R interface to the wdm C++ library
 kde1d: Univariate kernel density estimators for bounded and discrete data
 vinereg: D-vine copula quantile regression
-kdecopula: Kernel smoothing for bivariate copula densities</description>
+VC2copula: Extend the &amp;lsquo;copula&amp;rsquo; Package with Families and Models from &amp;lsquo;VineCopula&amp;rsquo;</description>
     </item>
     
     <item>
