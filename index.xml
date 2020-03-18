@@ -11,6 +11,283 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>
+
+&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Vatter, T.&lt;br /&gt;
+&lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34;&gt;Solving estimating equations with copulas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Möller, A., Spazzini, L., Kraus, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Czado, C.&lt;br /&gt;
+&lt;a href=&#34;http://arxiv.org/abs/1811.02255&#34; target=&#34;_blank&#34;&gt;Vine copula based post-processing of ensemble forecasts for temperature
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Schallhorn, N., Kraus, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt; and Czado, C.&lt;br /&gt;
+&lt;a href=&#34;http://arxiv.org/abs/1705.08310&#34; target=&#34;_blank&#34;&gt;D-vine quantile regression with discrete variables&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;journal-and-conference-papers&#34;&gt;Journal and conference papers&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&#34;http://arxiv.org/abs/1811.00450&#34; target=&#34;_blank&#34;&gt;R-friendly multi-threading in C++&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Journal of Statistical Software, to appear&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Bumann, C., Czado, C. (2019)&lt;br /&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1801.09739&#34; target=&#34;_blank&#34;&gt;Model selection for sparse high-dimensional vine copulas with application to
+portfolio risk&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Journal of Multivariate Analysis, 172: 180-192&lt;/em&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.jmva.2019.03.004&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jäger, W.S., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Czado, C., McCall, R.T. (2018)&lt;br /&gt;
+&lt;a href=&#34;http://arxiv.org/abs/1810.12389&#34; target=&#34;_blank&#34;&gt;A statistical simulation method for joint time series of non-stationary hourly wave parameters&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Coastal Engineering, 146: 14-31&lt;/em&gt; &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0378383918301777&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Urbano, J., &lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br /&gt;
+&lt;a href=&#34;http://julian-urbano.info/files/publications/065-stochastic-simulation-test-collections-evaluation-scores.pdf&#34; target=&#34;_blank&#34;&gt;Stochastic simulation of test collections: evaluation scores&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;The 41st International ACM SIGIR Conference on Research &amp;amp; Development in Information Retrieval, p. 695-704&lt;/em&gt;
+&lt;a href=&#34;https://dl.acm.org/citation.cfm?doid=3209978.3210043&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Höhndorf, L., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Koppitz, P., Czado, C., Holzapfel, F. (2018)&lt;br /&gt;
+Statistical dependence analyses of operational flight data used for landing
+reconstruction enhancement&lt;br /&gt;
+&lt;em&gt;22nd ATRS World Conference&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Vatter, T. and &lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br /&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1608.01593&#34; target=&#34;_blank&#34;&gt;Generalized additive models for pair-copula constructions&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Journal of Computational and Graphical Statistics, 27(4): 715-727&lt;/em&gt; &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1451338&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br /&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1704.07457&#34; target=&#34;_blank&#34;&gt;A generic approach to nonparametric function estimation with mixed data&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Statistics &amp;amp; Probability Letters, 137:326–330&lt;/em&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0167715218300853&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br /&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1705.05431&#34; target=&#34;_blank&#34;&gt;Asymptotic analysis of the jittering kernel density estimator&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Mathematical Methods of Statistics, 27(1): 32-46&lt;/em&gt;
+&lt;a href=&#34;https://link.springer.com/article/10.3103/S1066530718010027&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br /&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1603.04229&#34; target=&#34;_blank&#34;&gt;kdecopula: An R package for the kernel estimation of copula densities&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Journal of Statistical Software, 48(7)&lt;/em&gt;
+&lt;a href=&#34;https://www.jstatsoft.org/article/view/v084i07&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Schellhase, C. and Czado, C. (2017)&lt;br /&gt;
+&lt;a href=&#34;https://www.degruyter.com/downloadpdf/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.pdf&#34; target=&#34;_blank&#34;&gt;Nonparametric estimation of simplified vine copula models: comparison of
+methods&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Dependence Modeling, 5:99-120&lt;/em&gt;
+&lt;a href=&#34;https://www.degruyter.com/view/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.xml&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; and Czado, C. (2016)&lt;br /&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1503.03305&#34; target=&#34;_blank&#34;&gt;Evading the curse of dimensionality in nonparametric density estimation with
+simplified vine copulas&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Journal of Multivariate Analysis, 151:69-89&lt;/em&gt;
+&lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0047259X16300471&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;other&#34;&gt;Other&lt;/h2&gt;
+
+&lt;p&gt;Czado, C., Müller, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br /&gt;
+&lt;a href=&#34;https://mediatum.ub.tum.de/doc/1439506/1439506.pdf&#34; target=&#34;_blank&#34;&gt;Dependence modelling in ultra high dimensions with vine copulas&lt;/a&gt;&lt;br /&gt;
+Book chapter in &lt;em&gt;High Performance Computing in Science and Engineering; Garching/Munich 2018&lt;/em&gt;, to appear&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br /&gt;
+&lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1447138&#34; target=&#34;_blank&#34;&gt;Nonparametric estimation in simplified vine copula models&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Dissertation, Technical University of Munich&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2017)&lt;br /&gt;
+&lt;a href=&#34;http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1-supplement.pdf&#34; target=&#34;_blank&#34;&gt;Comment on &amp;ldquo;A coupled stochastic rainfall-evapotranspiration model for
+hydrological impact analysis&amp;rdquo; by Minh Tu Pham et al.&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Interactive comment on Hydrol. Earth Syst. Sci. Discuss.&lt;/em&gt;
+&lt;a href=&#34;http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1.pdf&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2014)&lt;br /&gt;
+&lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1231221&#34; target=&#34;_blank&#34;&gt;Kernel methods for vine copula estimation&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Master&amp;rsquo;s thesis, Technical University of Munich&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/software/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/software/</guid>
+      <description>
+
+&lt;h2 id=&#34;c&#34;&gt;C++&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/vinecopulib/vinecopulib&#34; target=&#34;_blank&#34;&gt;vinecopulib&lt;/a&gt;:
+A C++ library for vine copulas&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/RcppThread&#34; target=&#34;_blank&#34;&gt;RcppThread&lt;/a&gt;: R-friendly threading in
+C++&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/wdm&#34; target=&#34;_blank&#34;&gt;wdm&lt;/a&gt;: Efficient implementation of weighted
+dependence measures and related independence tests&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/vinecopulib/rvinecopulib&#34; target=&#34;_blank&#34;&gt;rvinecopulib&lt;/a&gt;:
+R interface to the &lt;a href=&#34;https://github.com/vinecopulib/vinecopulib&#34; target=&#34;_blank&#34;&gt;vinecopulib&lt;/a&gt; C++ library&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/VineCopula&#34; target=&#34;_blank&#34;&gt;VineCopula&lt;/a&gt;:
+Statistical inference of vine copulas&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/wdm-r&#34; target=&#34;_blank&#34;&gt;wdm&lt;/a&gt;: R interface to the
+&lt;a href=&#34;https://github.com/tnagler/wdm&#34; target=&#34;_blank&#34;&gt;wdm&lt;/a&gt; C++ library&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/kde1d&#34; target=&#34;_blank&#34;&gt;kde1d&lt;/a&gt;:
+Univariate kernel density estimators for bounded and discrete data&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/vinereg&#34; target=&#34;_blank&#34;&gt;vinereg&lt;/a&gt;:
+D-vine copula quantile regression&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/VC2copula&#34; target=&#34;_blank&#34;&gt;VC2copula&lt;/a&gt;:
+Extend the &amp;lsquo;copula&amp;rsquo; Package with Families and Models from &amp;lsquo;VineCopula&amp;rsquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/kdecopula&#34; target=&#34;_blank&#34;&gt;kdecopula&lt;/a&gt;:
+Kernel smoothing for bivariate copula densities&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/kdevine&#34; target=&#34;_blank&#34;&gt;kdevine&lt;/a&gt;:
+Multivariate kernel density estimation with vine copulas&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/cctools&#34; target=&#34;_blank&#34;&gt;cctols&lt;/a&gt;:
+Tools for continuous convolution in nonparametric estimation&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/jdify&#34; target=&#34;_blank&#34;&gt;jdify&lt;/a&gt;:
+Joint density classifiers&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/tvatter/gamCopula&#34; target=&#34;_blank&#34;&gt;gamCopula&lt;/a&gt;:
+Generalized additive models for bivariate conditional dependence structures and vine copulas&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistics seminar</title>
+      <link>/seminar/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;The Statistics group of the Mathematical Institute meets weekly on &lt;strong&gt;Mondays,
+13.00-13.45&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Due to the Corona virus, the seminar is held online for an
+indefinite time.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;30-03-2020&lt;/strong&gt; | Dirk van der Hoeven&lt;br /&gt;
+&lt;em&gt;Adaptive methods in online learning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;06-04-2020&lt;/strong&gt; | Elena Sellentin&lt;br /&gt;
+&lt;strong&gt;20-04-2020&lt;/strong&gt; | Geerten Koers&lt;br /&gt;
+&lt;strong&gt;11-05-2020&lt;/strong&gt; | Lasse Vuursteen&lt;br /&gt;
+&lt;strong&gt;18-05-2020&lt;/strong&gt; | Bart Eggen&lt;br /&gt;
+&lt;strong&gt;25-05-2020&lt;/strong&gt; | Laura Zwep&lt;br /&gt;
+&lt;strong&gt;08-06-2020&lt;/strong&gt; | Maarten Kampert&lt;br /&gt;
+&lt;strong&gt;15-06-2020&lt;/strong&gt; | Willem Heiser&lt;br /&gt;
+&lt;strong&gt;22-06-2020&lt;/strong&gt; | Valentina Masarotto&lt;/p&gt;
+
+&lt;h2 id=&#34;past-meetings&#34;&gt;Past meetings&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;02-03-2020&lt;/strong&gt; |    Tim van Erven&lt;br /&gt;
+&lt;em&gt;The many faces of exponential weights in online learning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;24-02-2020&lt;/strong&gt; |    Botond Szabó&lt;br /&gt;
+&lt;em&gt;Variational Bayes for high-dimensional linear regression with sparse priors.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;17-02-2020&lt;/strong&gt; |    Magnus Münch&lt;br /&gt;
+&lt;em&gt;Predicting drug sensitivity from cell lines informed by external data.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10-02-2020&lt;/strong&gt; |    Aad van der Vaart&lt;br /&gt;
+&lt;em&gt;Tolerance regions.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;03-02-2020&lt;/strong&gt; |    Stefan Franssen&lt;br /&gt;
+&lt;em&gt;The Bernstein-Von Mises theorem for the Pitman-Yor process.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;27-01-2020&lt;/strong&gt; |    Amine Hadji&lt;br /&gt;
+&lt;em&gt;Distributed methods for Bayesian regression: contraction rate &amp;amp; uncertainty quantification.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;20-01-2020&lt;/strong&gt; |    Marta Fiocco&lt;br /&gt;
+&lt;em&gt;Marginal structural models with  joint-exposure for counterfactual histological response.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;13-01-2020&lt;/strong&gt; |    Magnus Münch&lt;br /&gt;
+&lt;em&gt;(Cancelled)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;09-12-2019&lt;/strong&gt; |    Richard Gill&lt;br /&gt;
+&lt;em&gt;Lies, damned lies, and statistics. The case of Ben Geen. An English Lucia de B. New data, new insights.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;02-12-2019&lt;/strong&gt; |    Kevin Duisters&lt;br /&gt;
+&lt;em&gt;On frequentist coverage of Bayesian credible sets for estimation of the mean under constraints.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;25-11-2019&lt;/strong&gt; |    Peter Grünwald&lt;br /&gt;
+&lt;em&gt;Safe statistics.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;18-11-2019&lt;/strong&gt; |    Anja Rüten-Budde&lt;br /&gt;
+&lt;em&gt;Assessment of predictive accuracy of an intermittently observed binary time-dependent marker.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;04-11-2019&lt;/strong&gt; |    Thomas Nagler&lt;br /&gt;
+&lt;em&gt;Vine copula models – past, present, and future.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;28-10-2019&lt;/strong&gt; |    Jeanne Nguyen&lt;br /&gt;
+&lt;em&gt;CDRodeo: Greedy selection of multivariate bandwidths for kernel conditional density estimation.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>
+
+&lt;h2 id=&#34;lectures&#34;&gt;Lectures&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://studiegids.universiteitleiden.nl/en/courses/81861/statistics-for-astronomy-and-physics-students&#34; target=&#34;_blank&#34;&gt;Statistics for astronomy and physics students&lt;/a&gt;, Leiden University (Spring 2020)
+&lt;a href=&#34;https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1621737&amp;amp;pOrgNr=14178&#34; target=&#34;_blank&#34;&gt;Nonparametric statistical learning&lt;/a&gt;, TU Munich (Summer 2019)&lt;/p&gt;
+
+&lt;h2 id=&#34;teaching-assistant&#34;&gt;Teaching assistant&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950369579&#34; target=&#34;_blank&#34;&gt;Analysis for computer scientists&lt;/a&gt;, TU Munich (Winter 2018)&lt;br /&gt;
+&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950343773&amp;amp;pSpracheNr=1&#34; target=&#34;_blank&#34;&gt;Stochastics for vocational school teachers&lt;/a&gt;, TU Munich (Summer 2018)&lt;br /&gt;
+&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950342068&amp;amp;pSpracheNr=1&#34; target=&#34;_blank&#34;&gt;Computational statistics&lt;/a&gt;, TU Munich (Summer 2018)&lt;br /&gt;
+&lt;a href=&#34;https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1196252&amp;amp;pOrgNr=14178&#34; target=&#34;_blank&#34;&gt;Rank-based nonparametric statistics&lt;/a&gt;, TU Munich (Summer 2016)&lt;/p&gt;
+
+&lt;h2 id=&#34;seminars-for-master-s-students&#34;&gt;Seminars for Master&amp;rsquo;s students&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950313777&#34; target=&#34;_blank&#34;&gt;Functional data analysis&lt;/a&gt;, TU Munich (Summer 2017)&lt;br /&gt;
+&lt;a href=&#34;https://www.ma.tum.de/Studium/AnsichtMasterDiplom?ID=376&#34; target=&#34;_blank&#34;&gt;Mathematical introduction to neural networks&lt;/a&gt;, TU Munich (Winter 2016)&lt;br /&gt;
+&lt;a href=&#34;https://www.ma.tum.de/Studium/AnsichtMasterDiplom?ID=326&#34; target=&#34;_blank&#34;&gt;Nonparametric statistical methods&lt;/a&gt;, TU Munich (Summer 2016)&lt;/p&gt;
+
+&lt;h2 id=&#34;supervision-of-master-s-theses&#34;&gt;Supervision of Master&amp;rsquo;s theses&lt;/h2&gt;
+
+&lt;p&gt;Krüger, D. (2018).  General vine copula models for stationary multivariate time series.&lt;br /&gt;
+Weber, R. (2018). Value at Risk Estimation with
+Subset Simulation.&lt;br /&gt;
+Jebabli, E. (2018). Statistical methods for the objective assessment of subjective ratings of advanced driver assistance systems.&lt;br /&gt;
+Kreuzer, A. (2016).  &lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338821&#34; target=&#34;_blank&#34;&gt;Analysing the spatial dependency among fire danger indices.&lt;/a&gt;&lt;br /&gt;
+Brauer, A. (2016).  &lt;a href=&#34;https://mediatum.ub.tum.de/doc/1342845/1342845.pdf&#34; target=&#34;_blank&#34;&gt;Kernel estimation of conditional copula densities.&lt;/a&gt;&lt;br /&gt;
+Bumann, C. (2016).  &lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338822&#34; target=&#34;_blank&#34;&gt;Sparse structure selection for high-dimensional vine copula models.&lt;/a&gt;&lt;br /&gt;
+Annoh, I. (2016).  &lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338820&#34; target=&#34;_blank&#34;&gt;Comparing two-part models for estimation of actuarial total loss.&lt;/a&gt;&lt;br /&gt;
+Zhang, S. (2015).  &lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338819&#34; target=&#34;_blank&#34;&gt;Copula-based total loss estimation with group effects on the dependence
+structure.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>

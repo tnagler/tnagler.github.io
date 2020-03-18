@@ -19,60 +19,7 @@
       
       <guid>/home/about/</guid>
       <description>I am Assistant Professor for Statistical Science at the Mathematical Institute, Leiden University. In 2018, I obtained a PhD in Mathematical Statistics from TU Munich under the supervision of Claudia Czado.
-My methodological research mainly focuses on dependence models and nonparametric estimation. I also develop open source research software and collaborate with applied scientists to find statistical answers to their challenges.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/home/publications/</link>
-      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/home/publications/</guid>
-      <description>Preprints Nagler, T., Vatter, T.
-Solving estimating equations with copulas
-Möller, A., Spazzini, L., Kraus, D., Nagler, T., Czado, C.
-Vine copula based post-processing of ensemble forecasts for temperature 
-Schallhorn, N., Kraus, D., Nagler, T. and Czado, C.
-D-vine quantile regression with discrete variables
-Journal and conference papers Nagler, T.
-R-friendly multi-threading in C++
-Journal of Statistical Software, to appear
-Nagler, T., Bumann, C., Czado, C. (2019)
-Model selection for sparse high-dimensional vine copulas with application to portfolio risk</description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>/home/software/</link>
-      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/home/software/</guid>
-      <description>C++ vinecopulib: A C++ library for vine copulas
-RcppThread: R-friendly threading in C++
-wdm: Efficient implementation of weighted dependence measures and related independence tests
-R rvinecopulib: R interface to the vinecopulib C++ library
-VineCopula: Statistical inference of vine copulas
-wdm: R interface to the wdm C++ library
-kde1d: Univariate kernel density estimators for bounded and discrete data
-vinereg: D-vine copula quantile regression
-VC2copula: Extend the &amp;lsquo;copula&amp;rsquo; Package with Families and Models from &amp;lsquo;VineCopula&amp;rsquo;</description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>/home/teaching/</link>
-      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/home/teaching/</guid>
-      <description>Lecturer Nonparametric statistical learning, TU Munich (Summer 2019)
-Teaching assistant Analysis for computer scientists, TU Munich (Winter 2018)
-Stochastics for vocational school teachers, TU Munich (Summer 2018)
-Computational statistics, TU Munich (Summer 2018)
-Rank-based nonparametric statistics, TU Munich (Summer 2016)
-Seminars for Master&amp;rsquo;s students Functional data analysis, TU Munich (Summer 2017)
-Mathematical introduction to neural networks, TU Munich (Winter 2016)
-Nonparametric statistical methods, TU Munich (Summer 2016)
-Supervision of Master&amp;rsquo;s theses Krüger, D.</description>
+My methodological research evolves around on dependence models and nonparametric estimation. I also develop open source research software and collaborate with other scientists on statistical applications.</description>
     </item>
     
     <item>
