@@ -191,6 +191,10 @@ indefinite time.&lt;/li&gt;
 &lt;p&gt;&lt;strong&gt;30-03-2020&lt;/strong&gt; | Dirk van der Hoeven&lt;br /&gt;
 &lt;em&gt;Adaptive methods in online learning.&lt;/em&gt;&lt;/p&gt;
 
+&lt;p&gt;In this talk I will discuss some advantages of adaptive algorithms in the prediction with expert advice setting. In particular, I will discuss an algorithm called squint. The talk mainly concerns one specific application of squint, which is playing Rock Paper Scissors.&lt;/p&gt;
+
+&lt;p&gt;To prepare for the talk (and to fight social distancing boredom) you can play rock paper scissor against squint. You can download Rock Paper Squint &lt;a href=&#34;https://drive.google.com/drive/folders/1CKQ-33MFOdrZQnfeAte1_C09mEl976U9?usp=sharing&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. Make sure you download the entire folder! You can play it by executing RPS_cool.exe (only tested on Windows 10). Depending on your hardware, it may take some time to load.&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;06-04-2020&lt;/strong&gt; | Elena Sellentin&lt;br /&gt;
 &lt;strong&gt;20-04-2020&lt;/strong&gt; | Geerten Koers&lt;br /&gt;
 &lt;strong&gt;11-05-2020&lt;/strong&gt; | Lasse Vuursteen&lt;br /&gt;
