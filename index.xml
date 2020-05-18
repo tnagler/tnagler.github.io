@@ -196,7 +196,7 @@ indefinite time.&lt;/li&gt;
 
 &lt;p&gt;&lt;em&gt;Mathematical statistical theory for causal inference&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Causal inference is an important field of study and a hot topic in recent years. Unfortunately, there are not many theoretical results available. I will first discuss the Neumann-Rubin potential outcome model to understand the basics behind causal inference. Next, I will talk about a recent paper by Kolyan and Aad with some frequentist-bayesian theoretical results. Lastly, I will discuss an article by Daniel Scharfstein which poses a claim which we are trying to prove.&lt;/p&gt;
+&lt;p&gt;Causal inference is an import field of study and a hot topic in recent years. Unfortunately, there are not many theoretical results available. I will first discuss the Neyman-Rubin potential outcome model to understand the basic notations. Next, I will talk about a recent paper by Kolyan and Aad with some frequentist-Bayesian theoretical results. Lastly, I will discuss an article by Scharfstein et al which poses a claim we are trying to prove.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;25-05-2020&lt;/strong&gt; | Laura Zwep&lt;br /&gt;
 &lt;strong&gt;08-06-2020&lt;/strong&gt; | Maarten Kampert&lt;br /&gt;
