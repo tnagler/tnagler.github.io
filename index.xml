@@ -1,352 +1,920 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thomas Nagler on Thomas Nagler</title>
-    <link>/</link>
-    <description>Recent content in Thomas Nagler on Thomas Nagler</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Thomas Nagler</copyright>
-    <lastBuildDate>Thu, 24 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <title>T. NAGLER</title>
+    <link>https://tnagler.com/</link>
+      <atom:link href="https://tnagler.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. NAGLER</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tnagler.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>T. NAGLER</title>
+      <link>https://tnagler.com/</link>
+    </image>
     
     <item>
-      <title>Publications</title>
-      <link>/publications/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/</guid>
-      <description>
-
-&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
-
-&lt;p&gt;Vio, R., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Andreani, P.&lt;br /&gt;
-&lt;a href=&#34;https://arxiv.org/abs/2006.06268&#34; target=&#34;_blank&#34;&gt;Modeling high-dimensional dependence among astronomical data&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Vatter, T.&lt;br /&gt;
-&lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34;&gt;Solving estimating equations with copulas&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Möller, A., Spazzini, L., Kraus, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Czado, C.&lt;br /&gt;
-&lt;a href=&#34;http://arxiv.org/abs/1811.02255&#34; target=&#34;_blank&#34;&gt;Vine copula based post-processing of ensemble forecasts for temperature
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Schallhorn, N., Kraus, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt; and Czado, C.&lt;br /&gt;
-&lt;a href=&#34;http://arxiv.org/abs/1705.08310&#34; target=&#34;_blank&#34;&gt;D-vine quantile regression with discrete variables&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;journal-and-conference-papers&#34;&gt;Journal and conference papers&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&#34;http://arxiv.org/abs/1811.00450&#34; target=&#34;_blank&#34;&gt;R-friendly multi-threading in C++&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;Journal of Statistical Software, to appear&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Eggersmann, T.K., Baumeister, P., Kumbringk, J., Mayr, D., Schmoeckel, E., Thaler, C.J., Dannecker, C.,  Jeschke, U., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Mahner, S., Sharaf, K., and Gallwas, J.K.S. (2020)&lt;br /&gt;
-&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/32234904?dopt=Abstract&#34; target=&#34;_blank&#34;&gt;Oropharyngeal HPV Detection Techniques in HPV-associated Head and Neck Cancer Patients.&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;Anticancer Research, 40(4):2117-2123&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Bumann, C., Czado, C. (2019)&lt;br /&gt;
-&lt;a href=&#34;https://arxiv.org/abs/1801.09739&#34; target=&#34;_blank&#34;&gt;Model selection for sparse high-dimensional vine copulas with application to
-portfolio risk&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;Journal of Multivariate Analysis, 172: 180-192&lt;/em&gt;
-&lt;a href=&#34;https://doi.org/10.1016/j.jmva.2019.03.004&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jäger, W.S., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Czado, C., McCall, R.T. (2018)&lt;br /&gt;
-&lt;a href=&#34;http://arxiv.org/abs/1810.12389&#34; target=&#34;_blank&#34;&gt;A statistical simulation method for joint time series of non-stationary hourly wave parameters&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;Coastal Engineering, 146: 14-31&lt;/em&gt; &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0378383918301777&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Urbano, J., &lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br /&gt;
-&lt;a href=&#34;http://julian-urbano.info/files/publications/065-stochastic-simulation-test-collections-evaluation-scores.pdf&#34; target=&#34;_blank&#34;&gt;Stochastic simulation of test collections: evaluation scores&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;The 41st International ACM SIGIR Conference on Research &amp;amp; Development in Information Retrieval, p. 695-704&lt;/em&gt;
-&lt;a href=&#34;https://dl.acm.org/citation.cfm?doid=3209978.3210043&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Höhndorf, L., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Koppitz, P., Czado, C., Holzapfel, F. (2018)&lt;br /&gt;
-Statistical dependence analyses of operational flight data used for landing
-reconstruction enhancement&lt;br /&gt;
-&lt;em&gt;22nd ATRS World Conference&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Vatter, T. and &lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br /&gt;
-&lt;a href=&#34;https://arxiv.org/abs/1608.01593&#34; target=&#34;_blank&#34;&gt;Generalized additive models for pair-copula constructions&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;Journal of Computational and Graphical Statistics, 27(4): 715-727&lt;/em&gt; &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1451338&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br /&gt;
-&lt;a href=&#34;https://arxiv.org/abs/1704.07457&#34; target=&#34;_blank&#34;&gt;A generic approach to nonparametric function estimation with mixed data&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;Statistics &amp;amp; Probability Letters, 137:326–330&lt;/em&gt;
-&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0167715218300853&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br /&gt;
-&lt;a href=&#34;https://arxiv.org/abs/1705.05431&#34; target=&#34;_blank&#34;&gt;Asymptotic analysis of the jittering kernel density estimator&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;Mathematical Methods of Statistics, 27(1): 32-46&lt;/em&gt;
-&lt;a href=&#34;https://link.springer.com/article/10.3103/S1066530718010027&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br /&gt;
-&lt;a href=&#34;https://arxiv.org/abs/1603.04229&#34; target=&#34;_blank&#34;&gt;kdecopula: An R package for the kernel estimation of copula densities&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;Journal of Statistical Software, 48(7)&lt;/em&gt;
-&lt;a href=&#34;https://www.jstatsoft.org/article/view/v084i07&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Schellhase, C. and Czado, C. (2017)&lt;br /&gt;
-&lt;a href=&#34;https://www.degruyter.com/downloadpdf/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.pdf&#34; target=&#34;_blank&#34;&gt;Nonparametric estimation of simplified vine copula models: comparison of
-methods&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;Dependence Modeling, 5:99-120&lt;/em&gt;
-&lt;a href=&#34;https://www.degruyter.com/view/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.xml&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; and Czado, C. (2016)&lt;br /&gt;
-&lt;a href=&#34;https://arxiv.org/abs/1503.03305&#34; target=&#34;_blank&#34;&gt;Evading the curse of dimensionality in nonparametric density estimation with
-simplified vine copulas&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;Journal of Multivariate Analysis, 151:69-89&lt;/em&gt;
-&lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0047259X16300471&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;other&#34;&gt;Other&lt;/h2&gt;
-
-&lt;p&gt;Czado, C., Müller, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br /&gt;
-&lt;a href=&#34;https://mediatum.ub.tum.de/doc/1439506/1439506.pdf&#34; target=&#34;_blank&#34;&gt;Dependence modelling in ultra high dimensions with vine copulas&lt;/a&gt;&lt;br /&gt;
-Book chapter in &lt;em&gt;High Performance Computing in Science and Engineering; Garching/Munich 2018&lt;/em&gt;, to appear&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br /&gt;
-&lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1447138&#34; target=&#34;_blank&#34;&gt;Nonparametric estimation in simplified vine copula models&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;Dissertation, Technical University of Munich&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2017)&lt;br /&gt;
-&lt;a href=&#34;http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1-supplement.pdf&#34; target=&#34;_blank&#34;&gt;Comment on &amp;ldquo;A coupled stochastic rainfall-evapotranspiration model for
-hydrological impact analysis&amp;rdquo; by Minh Tu Pham et al.&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;Interactive comment on Hydrol. Earth Syst. Sci. Discuss.&lt;/em&gt;
-&lt;a href=&#34;http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1.pdf&#34; target=&#34;_blank&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2014)&lt;br /&gt;
-&lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1231221&#34; target=&#34;_blank&#34;&gt;Kernel methods for vine copula estimation&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;Master&amp;rsquo;s thesis, Technical University of Munich&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>/software/</link>
-      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/software/</guid>
-      <description>
-
-&lt;h2 id=&#34;c&#34;&gt;C++&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/vinecopulib/vinecopulib&#34; target=&#34;_blank&#34;&gt;vinecopulib&lt;/a&gt;:
-A C++ library for vine copulas&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/RcppThread&#34; target=&#34;_blank&#34;&gt;RcppThread&lt;/a&gt;: R-friendly threading in
-C++&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/wdm&#34; target=&#34;_blank&#34;&gt;wdm&lt;/a&gt;: Efficient implementation of weighted
-dependence measures and related independence tests&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/vinecopulib/rvinecopulib&#34; target=&#34;_blank&#34;&gt;rvinecopulib&lt;/a&gt;:
-R interface to the &lt;a href=&#34;https://github.com/vinecopulib/vinecopulib&#34; target=&#34;_blank&#34;&gt;vinecopulib&lt;/a&gt; C++ library&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/VineCopula&#34; target=&#34;_blank&#34;&gt;VineCopula&lt;/a&gt;:
-Statistical inference of vine copulas&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/wdm-r&#34; target=&#34;_blank&#34;&gt;wdm&lt;/a&gt;: R interface to the
-&lt;a href=&#34;https://github.com/tnagler/wdm&#34; target=&#34;_blank&#34;&gt;wdm&lt;/a&gt; C++ library&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/kde1d&#34; target=&#34;_blank&#34;&gt;kde1d&lt;/a&gt;:
-Univariate kernel density estimators for bounded and discrete data&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/vinereg&#34; target=&#34;_blank&#34;&gt;vinereg&lt;/a&gt;:
-D-vine copula quantile regression&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/VC2copula&#34; target=&#34;_blank&#34;&gt;VC2copula&lt;/a&gt;:
-Extend the &amp;lsquo;copula&amp;rsquo; Package with Families and Models from &amp;lsquo;VineCopula&amp;rsquo;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/kdecopula&#34; target=&#34;_blank&#34;&gt;kdecopula&lt;/a&gt;:
-Kernel smoothing for bivariate copula densities&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/kdevine&#34; target=&#34;_blank&#34;&gt;kdevine&lt;/a&gt;:
-Multivariate kernel density estimation with vine copulas&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/cctools&#34; target=&#34;_blank&#34;&gt;cctols&lt;/a&gt;:
-Tools for continuous convolution in nonparametric estimation&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/tnagler/jdify&#34; target=&#34;_blank&#34;&gt;jdify&lt;/a&gt;:
-Joint density classifiers&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/tvatter/gamCopula&#34; target=&#34;_blank&#34;&gt;gamCopula&lt;/a&gt;:
-Generalized additive models for bivariate conditional dependence structures and vine copulas&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Statistics seminar</title>
-      <link>/seminar/</link>
-      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/seminar/</guid>
-      <description>
-
-&lt;ul&gt;
-&lt;li&gt;The Statistics group of the Mathematical Institute meets weekly on &lt;strong&gt;Mondays,
-13.00-13.45&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Due to the Corona virus, the seminar is held online for an
-indefinite time.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;29-06-2020&lt;/strong&gt; | Maarten Kampert&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Improved Strategies for Clustering Objects on Subsets of Attributes&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Cluster discovery in high-dimensional settings is challenging when objects do not cluster on all attributes, or a single common subset, but rather on different subsets of attributes. To reveal such a clustering structure, the COSA procedure was proposed (Clustering Objects on Subsets of Attributes) that produces a representative distance matrix by finding differential attribute weights. This COSA distance matrix can subsequently be analyzed by a variety of distance-based analysis methods, such as hierarchical clustering or multidimensional scaling. We propose a series of improvements to the original procedure by a) making one of the tuning parameters superfluous, b) allowing for variable selection via zero-valued  attribute weights and c) adjusting the COSA distance so as to better separate objects belonging to different clusters. In addition, we implement a more general regularization strategy for the attribute weights, which allows for user specified initialization and leads to improved group extraction. We demonstrate the performance of  COSA by comparing it to the original version, and to a number of other state-of-the-art methods, using both simulated and real omics data sets.&lt;/p&gt;
-
-&lt;h2 id=&#34;past-meetings&#34;&gt;Past meetings&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;15-06-2020&lt;/strong&gt; | Willem Heiser&lt;br /&gt;
-&lt;em&gt;Cancelled&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;08-06-2020&lt;/strong&gt; | Valentina Masarotto&lt;br /&gt;
-&lt;em&gt;When data are continuous : geometry and inference on covariance operators&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;25-05-2020&lt;/strong&gt; | Laura Zwep&lt;br /&gt;
-&lt;em&gt;Cancer Treatment Efficacy: Mechanistic modelling in high-dimensional setting&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;18-05-2020&lt;/strong&gt; | Bart Eggen&lt;br /&gt;
-&lt;em&gt;Mathematical statistical theory for causal inference&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;11-05-2020&lt;/strong&gt; | Lasse Vuursteen&lt;br /&gt;
-&lt;em&gt;Distributed nonparametric hypothesis testing with (very) limited communication&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;20-04-2020&lt;/strong&gt; | Geerten Koers&lt;br /&gt;
-&lt;em&gt;Statistical challenges in modern day astronomy&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;06-04-2020&lt;/strong&gt; | Rianne de Heide&lt;br /&gt;
-&lt;em&gt;Bayesian best-arm identification&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;30-03-2020&lt;/strong&gt; | Dirk van der Hoeven&lt;br /&gt;
-&lt;em&gt;Adaptive methods in online learning.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;02-03-2020&lt;/strong&gt; |    Tim van Erven&lt;br /&gt;
-&lt;em&gt;The many faces of exponential weights in online learning.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;24-02-2020&lt;/strong&gt; |    Botond Szabó&lt;br /&gt;
-&lt;em&gt;Variational Bayes for high-dimensional linear regression with sparse priors.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;17-02-2020&lt;/strong&gt; |    Magnus Münch&lt;br /&gt;
-&lt;em&gt;Predicting drug sensitivity from cell lines informed by external data.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;10-02-2020&lt;/strong&gt; |    Aad van der Vaart&lt;br /&gt;
-&lt;em&gt;Tolerance regions.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;03-02-2020&lt;/strong&gt; |    Stefan Franssen&lt;br /&gt;
-&lt;em&gt;The Bernstein-Von Mises theorem for the Pitman-Yor process.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;27-01-2020&lt;/strong&gt; |    Amine Hadji&lt;br /&gt;
-&lt;em&gt;Distributed methods for Bayesian regression: contraction rate &amp;amp; uncertainty quantification.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;20-01-2020&lt;/strong&gt; |    Marta Fiocco&lt;br /&gt;
-&lt;em&gt;Marginal structural models with  joint-exposure for counterfactual histological response.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;13-01-2020&lt;/strong&gt; |    Magnus Münch&lt;br /&gt;
-&lt;em&gt;(Cancelled)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;09-12-2019&lt;/strong&gt; |    Richard Gill&lt;br /&gt;
-&lt;em&gt;Lies, damned lies, and statistics. The case of Ben Geen. An English Lucia de B. New data, new insights.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;02-12-2019&lt;/strong&gt; |    Kevin Duisters&lt;br /&gt;
-&lt;em&gt;On frequentist coverage of Bayesian credible sets for estimation of the mean under constraints.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;25-11-2019&lt;/strong&gt; |    Peter Grünwald&lt;br /&gt;
-&lt;em&gt;Safe statistics.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;18-11-2019&lt;/strong&gt; |    Anja Rüten-Budde&lt;br /&gt;
-&lt;em&gt;Assessment of predictive accuracy of an intermittently observed binary time-dependent marker.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;04-11-2019&lt;/strong&gt; |    Thomas Nagler&lt;br /&gt;
-&lt;em&gt;Vine copula models – past, present, and future.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;28-10-2019&lt;/strong&gt; |    Jeanne Nguyen&lt;br /&gt;
-&lt;em&gt;CDRodeo: Greedy selection of multivariate bandwidths for kernel conditional density estimation.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>/teaching/</link>
-      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/</guid>
-      <description>
-
-&lt;h2 id=&#34;lectures&#34;&gt;Lectures&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://studiegids.universiteitleiden.nl/en/courses/81861/statistics-for-astronomy-and-physics-students&#34; target=&#34;_blank&#34;&gt;Statistics for astronomy and physics students&lt;/a&gt;, Leiden University (Spring 2020)
-&lt;a href=&#34;https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1621737&amp;amp;pOrgNr=14178&#34; target=&#34;_blank&#34;&gt;Nonparametric statistical learning&lt;/a&gt;, TU Munich (Summer 2019)&lt;/p&gt;
-
-&lt;h2 id=&#34;teaching-assistant&#34;&gt;Teaching assistant&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950369579&#34; target=&#34;_blank&#34;&gt;Analysis for computer scientists&lt;/a&gt;, TU Munich (Winter 2018)&lt;br /&gt;
-&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950343773&amp;amp;pSpracheNr=1&#34; target=&#34;_blank&#34;&gt;Stochastics for vocational school teachers&lt;/a&gt;, TU Munich (Summer 2018)&lt;br /&gt;
-&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950342068&amp;amp;pSpracheNr=1&#34; target=&#34;_blank&#34;&gt;Computational statistics&lt;/a&gt;, TU Munich (Summer 2018)&lt;br /&gt;
-&lt;a href=&#34;https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1196252&amp;amp;pOrgNr=14178&#34; target=&#34;_blank&#34;&gt;Rank-based nonparametric statistics&lt;/a&gt;, TU Munich (Summer 2016)&lt;/p&gt;
-
-&lt;h2 id=&#34;seminars-for-master-s-students&#34;&gt;Seminars for Master&amp;rsquo;s students&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950313777&#34; target=&#34;_blank&#34;&gt;Functional data analysis&lt;/a&gt;, TU Munich (Summer 2017)&lt;br /&gt;
-&lt;a href=&#34;https://www.ma.tum.de/Studium/AnsichtMasterDiplom?ID=376&#34; target=&#34;_blank&#34;&gt;Mathematical introduction to neural networks&lt;/a&gt;, TU Munich (Winter 2016)&lt;br /&gt;
-&lt;a href=&#34;https://www.ma.tum.de/Studium/AnsichtMasterDiplom?ID=326&#34; target=&#34;_blank&#34;&gt;Nonparametric statistical methods&lt;/a&gt;, TU Munich (Summer 2016)&lt;/p&gt;
-
-&lt;h2 id=&#34;supervision-of-master-s-theses&#34;&gt;Supervision of Master&amp;rsquo;s theses&lt;/h2&gt;
-
-&lt;p&gt;Krüger, D. (2018).  General vine copula models for stationary multivariate time series.&lt;br /&gt;
-Weber, R. (2018). Value at Risk Estimation with
-Subset Simulation.&lt;br /&gt;
-Jebabli, E. (2018). Statistical methods for the objective assessment of subjective ratings of advanced driver assistance systems.&lt;br /&gt;
-Kreuzer, A. (2016).  &lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338821&#34; target=&#34;_blank&#34;&gt;Analysing the spatial dependency among fire danger indices.&lt;/a&gt;&lt;br /&gt;
-Brauer, A. (2016).  &lt;a href=&#34;https://mediatum.ub.tum.de/doc/1342845/1342845.pdf&#34; target=&#34;_blank&#34;&gt;Kernel estimation of conditional copula densities.&lt;/a&gt;&lt;br /&gt;
-Bumann, C. (2016).  &lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338822&#34; target=&#34;_blank&#34;&gt;Sparse structure selection for high-dimensional vine copula models.&lt;/a&gt;&lt;br /&gt;
-Annoh, I. (2016).  &lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338820&#34; target=&#34;_blank&#34;&gt;Comparing two-part models for estimation of actuarial total loss.&lt;/a&gt;&lt;br /&gt;
-Zhang, S. (2015).  &lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338819&#34; target=&#34;_blank&#34;&gt;Copula-based total loss estimation with group effects on the dependence
-structure.&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
+      <title>Example Page 1</title>
+      <link>https://tnagler.com/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://tnagler.com/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Example Page 2</title>
+      <link>https://tnagler.com/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://tnagler.com/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://tnagler.com/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://tnagler.com/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://tnagler.com/publications/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://tnagler.com/publications/</guid>
+      <description>&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
+&lt;p&gt;Vio, R., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Andreani, P.&lt;br&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/2006.06268&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modeling high-dimensional dependence among astronomical data&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Vatter, T.&lt;br&gt;
+
+&lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solving estimating equations with copulas&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;journal-and-conference-papers&#34;&gt;Journal and conference papers&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;&lt;br&gt;
+
+&lt;a href=&#34;http://arxiv.org/abs/1811.00450&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-friendly multi-threading in C++&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Journal of Statistical Software, to appear&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Eggersmann, T.K., Baumeister, P., Kumbringk, J., Mayr, D., Schmoeckel, E., Thaler, C.J., Dannecker, C.,  Jeschke, U., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Mahner, S., Sharaf, K., and Gallwas, J.K.S. (2020)&lt;br&gt;
+
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/32234904?dopt=Abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oropharyngeal HPV Detection Techniques in HPV-associated Head and Neck Cancer Patients.&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Anticancer Research, 40(4):2117-2123&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Bumann, C., Czado, C. (2019)&lt;br&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/1801.09739&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Model selection for sparse high-dimensional vine copulas with application to
+portfolio risk&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Journal of Multivariate Analysis, 172: 180-192&lt;/em&gt;
+
+&lt;a href=&#34;https://doi.org/10.1016/j.jmva.2019.03.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jäger, W.S., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Czado, C., McCall, R.T. (2018)&lt;br&gt;
+
+&lt;a href=&#34;http://arxiv.org/abs/1810.12389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A statistical simulation method for joint time series of non-stationary hourly wave parameters&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Coastal Engineering, 146: 14-31&lt;/em&gt; 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0378383918301777&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Urbano, J., &lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br&gt;
+
+&lt;a href=&#34;http://julian-urbano.info/files/publications/065-stochastic-simulation-test-collections-evaluation-scores.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stochastic simulation of test collections: evaluation scores&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;The 41st International ACM SIGIR Conference on Research &amp;amp; Development in Information Retrieval, p. 695-704&lt;/em&gt;
+
+&lt;a href=&#34;https://dl.acm.org/citation.cfm?doid=3209978.3210043&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Höhndorf, L., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Koppitz, P., Czado, C., Holzapfel, F. (2018)&lt;br&gt;
+Statistical dependence analyses of operational flight data used for landing
+reconstruction enhancement&lt;br&gt;
+&lt;em&gt;22nd ATRS World Conference&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Vatter, T. and &lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/1608.01593&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Generalized additive models for pair-copula constructions&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Journal of Computational and Graphical Statistics, 27(4): 715-727&lt;/em&gt; 
+&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1451338&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018) &lt;br&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/1704.07457&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A generic approach to nonparametric function estimation with mixed data&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Statistics &amp;amp; Probability Letters, 137:326–330&lt;/em&gt;
+
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0167715218300853&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/1705.05431&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Asymptotic analysis of the jittering kernel density estimator&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Mathematical Methods of Statistics, 27(1): 32-46&lt;/em&gt;
+
+&lt;a href=&#34;https://link.springer.com/article/10.3103/S1066530718010027&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/1603.04229&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kdecopula: An R package for the kernel estimation of copula densities&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Journal of Statistical Software, 48(7)&lt;/em&gt;
+
+&lt;a href=&#34;https://www.jstatsoft.org/article/view/v084i07&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Schellhase, C. and Czado, C. (2017)&lt;br&gt;
+
+&lt;a href=&#34;https://www.degruyter.com/downloadpdf/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nonparametric estimation of simplified vine copula models: comparison of
+methods&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Dependence Modeling, 5:99-120&lt;/em&gt;
+
+&lt;a href=&#34;https://www.degruyter.com/view/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.xml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; and Czado, C. (2016)&lt;br&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/1503.03305&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evading the curse of dimensionality in nonparametric density estimation with
+simplified vine copulas&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Journal of Multivariate Analysis, 151:69-89&lt;/em&gt;
+
+&lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0047259X16300471&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;other&#34;&gt;Other&lt;/h2&gt;
+&lt;p&gt;Czado, C., Müller, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br&gt;
+
+&lt;a href=&#34;https://mediatum.ub.tum.de/doc/1439506/1439506.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dependence modelling in ultra high dimensions with vine copulas&lt;/a&gt;&lt;br&gt;
+Book chapter in &lt;em&gt;High Performance Computing in Science and Engineering - on the Tier-2 System CoolMUC; Garching/Munich 2018&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Möller, A., Spazzini, L., Kraus, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Czado, C.&lt;br&gt;
+
+&lt;a href=&#34;http://arxiv.org/abs/1811.02255&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vine copula based post-processing of ensemble forecasts for temperature
+&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Working paper&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Schallhorn, N., Kraus, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt; and Czado, C.&lt;br&gt;
+
+&lt;a href=&#34;http://arxiv.org/abs/1705.08310&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;D-vine quantile regression with discrete variables&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Working paper&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2018)&lt;br&gt;
+
+&lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1447138&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nonparametric estimation in simplified vine copula models&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Dissertation, Technical University of Munich&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2017)&lt;br&gt;
+
+&lt;a href=&#34;http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1-supplement.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comment on &amp;ldquo;A coupled stochastic rainfall-evapotranspiration model for
+hydrological impact analysis&amp;rdquo; by Minh Tu Pham et al.&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Interactive comment on Hydrol. Earth Syst. Sci. Discuss.&lt;/em&gt;
+
+&lt;a href=&#34;http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt; (2014)&lt;br&gt;
+
+&lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1231221&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kernel methods for vine copula estimation&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Master&amp;rsquo;s thesis, Technical University of Munich&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistics seminar</title>
+      <link>https://tnagler.com/seminar/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://tnagler.com/seminar/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;The Statistics group of the Mathematical Institute meets weekly on &lt;strong&gt;Mondays,
+13.00-13.45&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Due to the Corona virus, the seminar is held online for an
+indefinite time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;p&gt;TBA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://tnagler.com/teaching/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://tnagler.com/teaching/</guid>
+      <description>&lt;h2 id=&#34;lectures&#34;&gt;Lectures&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://studiegids.universiteitleiden.nl/en/courses/97171/advanced-statistical-computing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced statistical computing&lt;/a&gt;, Leiden University (Fall 2020)&lt;br&gt;
+
+&lt;a href=&#34;https://studiegids.universiteitleiden.nl/en/courses/104509/statistics-an-part-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistics for astronomy and physics students I&lt;/a&gt;, Leiden University (Fall 2020)&lt;br&gt;
+
+&lt;a href=&#34;https://studiegids.universiteitleiden.nl/en/courses/104509/statistics-an-part-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistics for astronomy and physics students II&lt;/a&gt;, Leiden University (Fall 2020)&lt;br&gt;
+
+&lt;a href=&#34;https://studiegids.universiteitleiden.nl/en/courses/81861/statistics-for-astronomy-and-physics-students&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistics for astronomy and physics students&lt;/a&gt;, Leiden University (Spring 2020)&lt;br&gt;
+
+&lt;a href=&#34;https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1621737&amp;amp;pOrgNr=14178&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nonparametric statistical learning&lt;/a&gt;, TU Munich (Summer 2019)&lt;/p&gt;
+&lt;h2 id=&#34;teaching-assistant&#34;&gt;Teaching assistant&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950369579&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analysis for computer scientists&lt;/a&gt;, TU Munich (Winter 2018)&lt;br&gt;
+
+&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950343773&amp;amp;pSpracheNr=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stochastics for vocational school teachers&lt;/a&gt;, TU Munich (Summer 2018)&lt;br&gt;
+
+&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950342068&amp;amp;pSpracheNr=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computational statistics&lt;/a&gt;, TU Munich (Summer 2018)&lt;br&gt;
+
+&lt;a href=&#34;https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1196252&amp;amp;pOrgNr=14178&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rank-based nonparametric statistics&lt;/a&gt;, TU Munich (Summer 2016)&lt;/p&gt;
+&lt;h2 id=&#34;seminars-for-masters-students&#34;&gt;Seminars for Master&amp;rsquo;s students&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950313777&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Functional data analysis&lt;/a&gt;, TU Munich (Summer 2017)&lt;br&gt;
+
+&lt;a href=&#34;https://www.ma.tum.de/Studium/AnsichtMasterDiplom?ID=376&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathematical introduction to neural networks&lt;/a&gt;, TU Munich (Winter 2016)&lt;br&gt;
+
+&lt;a href=&#34;https://www.ma.tum.de/Studium/AnsichtMasterDiplom?ID=326&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nonparametric statistical methods&lt;/a&gt;, TU Munich (Summer 2016)&lt;/p&gt;
+&lt;h2 id=&#34;supervision-of-masters-theses&#34;&gt;Supervision of Master&amp;rsquo;s theses&lt;/h2&gt;
+&lt;p&gt;Krüger, D. (2018).  
+&lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1445782&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;General vine copula models for stationary multivariate time series.&lt;/a&gt;&lt;br&gt;
+Weber, R. (2018). 
+&lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1467381&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value at Risk Estimation with Subset Simulation.&lt;/a&gt; &lt;br&gt;
+Jebabli, E. (2018). 
+&lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1518877&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistical methods for the objective assessment of subjective ratings of advanced driver assistance systems.&lt;/a&gt;&lt;br&gt;
+Kreuzer, A. (2016).  
+&lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338821&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analysing the spatial dependency among fire danger indices.&lt;/a&gt;&lt;br&gt;
+Brauer, A. (2016).  
+&lt;a href=&#34;https://mediatum.ub.tum.de/doc/1342845/1342845.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kernel estimation of conditional copula densities.&lt;/a&gt;&lt;br&gt;
+Bumann, C. (2016).  
+&lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338822&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sparse structure selection for high-dimensional vine copula models.&lt;/a&gt;&lt;br&gt;
+Annoh, I. (2016).  
+&lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338820&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparing two-part models for estimation of actuarial total loss.&lt;/a&gt;&lt;br&gt;
+Zhang, S. (2015).  
+&lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338819&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Copula-based total loss estimation with group effects on the dependence
+structure.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://tnagler.com/software/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://tnagler.com/software/</guid>
+      <description>&lt;h2 id=&#34;c&#34;&gt;C++&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/vinecopulib/vinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinecopulib&lt;/a&gt;:
+A C++ library for vine copulas&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/RcppThread&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RcppThread&lt;/a&gt;: R-friendly threading in
+C++&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/wdm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wdm&lt;/a&gt;: Efficient implementation of weighted
+dependence measures and related independence tests&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/vinecopulib/rvinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rvinecopulib&lt;/a&gt;:
+R interface to the 
+&lt;a href=&#34;https://github.com/vinecopulib/vinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinecopulib&lt;/a&gt; C++ library&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/VineCopula%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VineCopula&lt;/a&gt;:
+Statistical inference of vine copulas&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/wdm-r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wdm&lt;/a&gt;: R interface to the
+
+&lt;a href=&#34;https://github.com/tnagler/wdm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wdm&lt;/a&gt; C++ library&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/kde1d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kde1d&lt;/a&gt;:
+Univariate kernel density estimators for bounded and discrete data&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/vinereg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinereg&lt;/a&gt;:
+D-vine copula quantile regression&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/VC2copula%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VC2copula&lt;/a&gt;:
+Extend the &amp;lsquo;copula&amp;rsquo; Package with Families and Models from &amp;lsquo;VineCopula&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/kdecopula&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kdecopula&lt;/a&gt;:
+Kernel smoothing for bivariate copula densities&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/kdevine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kdevine&lt;/a&gt;:
+Multivariate kernel density estimation with vine copulas&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/cctools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cctols&lt;/a&gt;:
+Tools for continuous convolution in nonparametric estimation&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/jdify&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jdify&lt;/a&gt;:
+Joint density classifiers&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tvatter/gamCopula&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gamCopula&lt;/a&gt;:
+Generalized additive models for bivariate conditional dependence structures and vine copulas&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing technical content in Academic</title>
+      <link>https://tnagler.com/post/writing-technical-content/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://tnagler.com/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$\gamma_{n} = \frac{ 
+\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
+\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
+{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\\\&lt;/code&gt; math linebreak:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\\\
+1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\&lt;br&gt;
+1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
+&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+  int id
+  size()
+}
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+  int id
+  size()
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
+&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+&lt;p&gt;Represent your data in tables:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;First Header&lt;/th&gt;
+&lt;th&gt;Second Header&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;asides&#34;&gt;Asides&lt;/h3&gt;
+&lt;p&gt;Academic supports a 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for asides&lt;/a&gt;, also referred to as &lt;em&gt;notices&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% alert note %}} ... {{% /alert %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% alert note %}}
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{% /alert %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
+&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; spoiler text=&amp;quot;Click to view the spoiler&amp;quot; &amp;gt;}}
+You found me!
+{{&amp;lt; /spoiler &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;spoiler &#34; &gt;
+  &lt;p&gt;
+    &lt;a class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; href=&#34;#spoiler-1&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;spoiler-1&#34;&gt;
+      Click to view the spoiler
+    &lt;/a&gt;
+  &lt;/p&gt;
+  &lt;div class=&#34;collapse card &#34; id=&#34;spoiler-1&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+      You found me!
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;p&gt;Academic enables you to use a wide range of 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; icon name=&amp;quot;terminal&amp;quot; pack=&amp;quot;fas&amp;quot; &amp;gt;}} Terminal  
+{{&amp;lt; icon name=&amp;quot;python&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} Python  
+{{&amp;lt; icon name=&amp;quot;r-project&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} R
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>https://tnagler.com/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://tnagler.com/post/jupyter/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
+&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Edit the metadata of your post, using the 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
+&lt;p&gt;To set a 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+&lt;p&gt;For other tips, such as using math, see the guide on 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://tnagler.com/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://tnagler.com/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
       
-      <guid>/project/example-external-project/</guid>
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://tnagler.com/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://tnagler.com/project/external-project/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>https://tnagler.com/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://tnagler.com/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website builder for Hugo</title>
+      <link>https://tnagler.com/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://tnagler.com/post/getting-started/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
+&lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 
+&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 
+&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: 
+&lt;a href=&#34;https://twitter.com/source_themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@source_themes&lt;/a&gt; 
+&lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; 
+&lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
+&lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;❤ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;ul&gt;
+&lt;li&gt;☕️ 
+&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💵 
+&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🖼️ 
+&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👕 
+&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👩‍💻 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-academic-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
+
+
+  &lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable 
+&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and 
+&lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - 
+&lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, 
+&lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the 
+&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Then 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; to help keep track of 
+&lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present 
+&lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
