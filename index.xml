@@ -5,7 +5,7 @@
     <link>https://tnagler.com/</link>
       <atom:link href="https://tnagler.com/index.xml" rel="self" type="application/rss+xml" />
     <description>T. NAGLER</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tnagler.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>T. NAGLER</title>
@@ -79,9 +79,12 @@
     <item>
       <title>Publications</title>
       <link>https://tnagler.com/publications/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/publications/</guid>
       <description>&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Krüger, D., Min, A.&lt;br&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/2008.05990&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stationary vine copula models for multivariate time series&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Vio, R., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Andreani, P.&lt;br&gt;
 
 &lt;a href=&#34;https://arxiv.org/abs/2006.06268&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modeling high-dimensional dependence among astronomical data&lt;/a&gt;&lt;/p&gt;
