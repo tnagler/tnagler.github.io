@@ -272,48 +272,75 @@ structure.&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;https://github.com/vinecopulib/vinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinecopulib&lt;/a&gt;:
 A C++ library for vine copulas&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://github.com/tnagler/RcppThread&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RcppThread&lt;/a&gt;: R-friendly threading in
-C++&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/tnagler/wdm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wdm&lt;/a&gt;: Efficient implementation of weighted
+&lt;a href=&#34;https://github.com/tnagler/wdm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wdm&lt;/a&gt;: Weighted
 dependence measures and related independence tests&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/vinecopulib/pyvinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pyvinecopulib&lt;/a&gt;: Python interface to the 
+&lt;a href=&#34;https://github.com/vinecopulib/vinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinecopulib&lt;/a&gt; C++ library&lt;br&gt;
+
+&lt;a href=&#34;https://badge.fury.io/py/pyvinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://badge.fury.io/py/pyvinecopulib.svg&#34; alt=&#34;PyPI version&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;https://img.shields.io/pypi/dm/pyvinecopulib.svg&#34; alt=&#34;PyPI downloads&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://github.com/vinecopulib/rvinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rvinecopulib&lt;/a&gt;:
-R interface to the 
-&lt;a href=&#34;https://github.com/vinecopulib/vinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinecopulib&lt;/a&gt; C++ library&lt;/p&gt;
+&lt;a href=&#34;https://github.com/tnagler/RcppThread&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RcppThread&lt;/a&gt;: R-friendly threading in
+C++&lt;br&gt;
+&lt;img src=&#34;http://www.r-pkg.org/badges/version/RcppThread&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/RcppThread&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/VineCopula%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VineCopula&lt;/a&gt;:
-Statistical inference of vine copulas&lt;/p&gt;
+Statistical inference of vine copulas&lt;br&gt;
+&lt;img src=&#34;http://www.r-pkg.org/badges/version/VineCopula&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/VineCopula&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://github.com/tnagler/wdm-r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wdm&lt;/a&gt;: R interface to the
-
-&lt;a href=&#34;https://github.com/tnagler/wdm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wdm&lt;/a&gt; C++ library&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/tnagler/kde1d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kde1d&lt;/a&gt;:
-Univariate kernel density estimators for bounded and discrete data&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/tnagler/vinereg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinereg&lt;/a&gt;:
-D-vine copula quantile regression&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/tnagler/VC2copula%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VC2copula&lt;/a&gt;:
-Extend the &amp;lsquo;copula&amp;rsquo; Package with Families and Models from &amp;lsquo;VineCopula&amp;rsquo;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/vinecopulib/rvinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rvinecopulib&lt;/a&gt;:
+R interface to the 
+&lt;a href=&#34;https://github.com/vinecopulib/vinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinecopulib&lt;/a&gt; C++ library&lt;br&gt;
+&lt;img src=&#34;http://www.r-pkg.org/badges/version/rvinecopulib&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/rvinecopulib&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/kdecopula&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kdecopula&lt;/a&gt;:
-Kernel smoothing for bivariate copula densities&lt;/p&gt;
+Kernel smoothing for bivariate copula densities&lt;br&gt;
+&lt;img src=&#34;http://www.r-pkg.org/badges/version/kdecopula&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/kdecopula&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/wdm-r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wdm&lt;/a&gt;: Weighted
+dependence measures and related independence tests
+&lt;img src=&#34;http://www.r-pkg.org/badges/version/wdm&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/wdm&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/kde1d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kde1d&lt;/a&gt;:
+Univariate kernel density estimators for bounded and discrete data
+&lt;img src=&#34;http://www.r-pkg.org/badges/version/kde1d&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/kde1d&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/svines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;svines&lt;/a&gt;:
+Stationary vine copula models for multivariate time series
+&lt;img src=&#34;http://www.r-pkg.org/badges/version/svines&#34; alt=&#34;CRAN version&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/vinereg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinereg&lt;/a&gt;:
+D-vine copula quantile regression&lt;br&gt;
+&lt;img src=&#34;http://www.r-pkg.org/badges/version/vinereg&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/vinereg&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/eecop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eecop&lt;/a&gt;:
+Copula based estimation equations&lt;br&gt;
+&lt;img src=&#34;http://www.r-pkg.org/badges/version/eecop&#34; alt=&#34;CRAN version&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/VC2copula%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VC2copula&lt;/a&gt;:
+Extend the &amp;lsquo;copula&amp;rsquo; Package with models from &amp;lsquo;VineCopula&amp;rsquo;&lt;br&gt;
+&lt;img src=&#34;http://www.r-pkg.org/badges/version/VC2copula&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/VC2copula&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/kdevine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kdevine&lt;/a&gt;:
-Multivariate kernel density estimation with vine copulas&lt;/p&gt;
+Multivariate kernel density estimation with vine copulas&lt;br&gt;
+&lt;img src=&#34;http://www.r-pkg.org/badges/version/kdevine&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/kdevine&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://github.com/tnagler/cctools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cctols&lt;/a&gt;:
-Tools for continuous convolution in nonparametric estimation&lt;/p&gt;
+&lt;a href=&#34;https://github.com/tnagler/cctools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cctools&lt;/a&gt;:
+Tools for continuous convolution in nonparametric estimation&lt;br&gt;
+&lt;img src=&#34;http://www.r-pkg.org/badges/version/cctools&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/cctools&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/jdify&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jdify&lt;/a&gt;:
-Joint density classifiers&lt;/p&gt;
+Joint density classifiers&lt;br&gt;
+&lt;img src=&#34;http://www.r-pkg.org/badges/version/jdify&#34; alt=&#34;CRAN version&#34;&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tvatter/gamCopula&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gamCopula&lt;/a&gt;:
-Generalized additive models for bivariate conditional dependence structures and vine copulas&lt;/p&gt;
+Generalized additive models for bivariate conditional dependence structures and vine copulas&lt;br&gt;
+&lt;img src=&#34;http://www.r-pkg.org/badges/version/gamCopula&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/gamCopula&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
