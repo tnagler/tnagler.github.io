@@ -206,12 +206,7 @@ hydrological impact analysis&amp;rdquo; by Minh Tu Pham et al.&lt;/a&gt;&lt;br&g
 indefinite time.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;19-10-2020&lt;/strong&gt; | Richard Gill&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Two small-data n &amp;laquo; p case studies: Hydroxychloroquine cocktail for early COVID-19 infection; Marseilles and Meijel&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;A March 2020 preprint by the famous Marseilles group of Didier Raoult caused international interest and controversy. It promoted a treatment for early Covid-19 infection centred on the anti-malarial drug hydroxychloroquine (HCQ). The study was an observational study with a treatment group and a control group of altogether 42 patients, and has a number of very unsatisfactory features. An early HCQ adopter was the Dutch family doctor and alternative medicine practitioner Rob Elens, whose practice is in a village right in the middle of the initial Dutch Corona hotspot. He collected a very similar dataset, and in his case the treatment was almost randomised: at a certain point the Netherlands health inspectorate forbade the use of HCQ, so the treatment given to his patients was entirely determined by outside events: first the publication of Gautret et al., and then the Dutch government ukase. In my talk I will present some analyses by logistic regression, both frequentist and Bayesian, including a solution to the n &amp;laquo; p problem, of the two data sets. How strong was this evidence in support of HCQ?&lt;/p&gt;
-&lt;p&gt;This is work in progress, with several collaborators. I hope to have a paper written soon, and also have permission to publish the data sets.&lt;/p&gt;
-&lt;p&gt;I will also discuss our current state of knowledge concerning this treatment, in particular thanks to a just published study by Dutch researchers (team leaders based at Isala hospital, Zwolle) &lt;a href=&#34;https://www.ijidonline.com/article/S1201-9712(20)32175-5/pdf&#34;&gt;https://www.ijidonline.com/article/S1201-9712(20)32175-5/pdf&lt;/a&gt;. A problematic issue is that the disease is very much a moving target: the population of patients now, standard treatments now, and the presently dominant strain of the virus, are all rapidly changing.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;26-10-2020&lt;/strong&gt; | Aad van der Vaart&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;26-10-2020&lt;/strong&gt; | &lt;em&gt;cancelled&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;02-11-2020&lt;/strong&gt; | Sanne Willems&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09-11-2020&lt;/strong&gt; | Rianne de Heide&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;16-11-2020&lt;/strong&gt; |  Jacqueline Meulman&lt;/p&gt;
@@ -228,6 +223,7 @@ indefinite time.&lt;/li&gt;
 &lt;p&gt;&lt;strong&gt;22-02-2021&lt;/strong&gt; |  Bart Eggen&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;01-02-2021&lt;/strong&gt; |   Marta Spreafico&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;08-02-2021&lt;/strong&gt; |  Thijs Bos&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;15-02-2020&lt;/strong&gt; | Aad van der Vaart&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://tnagler.com/seminar-past&#34;&gt;Past meetings&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -239,6 +235,8 @@ indefinite time.&lt;/li&gt;
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/seminar-past/</guid>
       <description>&lt;h2 id=&#34;past-meetings&#34;&gt;Past meetings&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;19-10-2020&lt;/strong&gt; | Richard Gill&lt;br&gt;
+&lt;em&gt;Two small-data n &amp;laquo; p case studies: Hydroxychloroquine cocktail for early COVID-19 infection; Marseilles and Meijel&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;12-10-2020&lt;/strong&gt; | Amine Hadji&lt;br&gt;
 &lt;em&gt;Uncertainty quantification using Gaussian Process with squared exponential kernel&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;05-10-2020&lt;/strong&gt; | Elena Sellentin&lt;br&gt;
