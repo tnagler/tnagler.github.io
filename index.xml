@@ -208,13 +208,11 @@ indefinite time.&lt;/li&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://tnagler.com/seminar-past&#34;&gt;Past meetings&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;09-11-2020&lt;/strong&gt; | Rianne de Heide&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Safe Testing&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;We present a new theory of hypothesis testing. The main concept is the e-value, a notion of evidence which, unlike p-values, allows for effortlessly combining evidence from several tests, even in the common scenario where the decision to perform a new test depends on the previous test outcome: safe tests based on e-values generally preserve Type-I error guarantees under such &amp;ldquo;optional continuation&amp;rdquo;. E-values exist for completely general testing problems with composite null and alternatives. Their prime interpretation is in terms of gambling or investing, each e-value corresponding to a particular investment. Surprisingly, optimal &amp;ldquo;GROW&amp;rdquo; e-values, which lead to fastest capital growth, are fully characterized by the joint information projection (JIPr) between the set of all Bayes marginal distributions on H0 and H1. Thus, optimal e-values also have an interpretation as Bayes factors, with priors given by the JIPr. We illustrate the theory using two classical testing scenarios: the one-sample t-test and the 2x2 contingency table. In the t-test setting, GROW e-values correspond to adopting the right Haar prior on the variance, like in Jeffreys&amp;rsquo; Bayesian t-test. However, unlike Jeffreys&amp;rsquo;, the &amp;ldquo;default&amp;rdquo; safe t-test puts a discrete 2-point prior on the effect size, leading to better behavior in terms of statistical power. Sharing Fisherian, Neymanian and Jeffreys-Bayesian interpretations, e-values and safe tests may provide a methodology acceptable to adherents of all three schools.&lt;/p&gt;
-&lt;p&gt;Joint work with Peter Grünwald and Wouter Koolen&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;16-11-2020&lt;/strong&gt; |  Jacqueline Meulman&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;16-11-2020&lt;/strong&gt; |  Peter Grünwald&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;E is the New P: Tests that are safe under optional stopping, with an application to time-to-event data&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Abstract: The E-value is a notion of evidence which, unlike p-values, allows for effortlessly combining evidence from several tests, even in the common scenario where the decision to perform a new test depends on previous test outcomes. &amp;lsquo;Safe&amp;rsquo; tests based on E-values generally preserve Type-I error guarantees under such `optional continuation&amp;rsquo;, thereby potentially alleviating one of the main causes for the reproducibility crisis. Last week, Rianne de Heide showed a general theorem showing that E-values can be constructed for general testing problems with composite nulls/alternatives. After a brief introduction I will continue where Rianne left off a week ago by giving several examples. The main example will be for  time-to-event data. We show how to define an E-value based on Cox&amp;rsquo; partial likelihood, illustrating with (hypothetical!) data on covid vaccine RCTs. If all research groups were to report their results in terms of E-values rather than p-values, then in principle, one could even do meta-analysis that retains an overall Type-I error guarantee - thus saving greatly on &amp;lsquo;research waste&amp;rsquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;23-11-2020&lt;/strong&gt; |  Gerten Koers&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;30-11-2020&lt;/strong&gt; | Peter Grünwald&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;30-11-2020&lt;/strong&gt; | Jacqueline Meulman&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;07-12-2020&lt;/strong&gt; |  George Kantidakis&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;14-12-2020&lt;/strong&gt; |  Johannes Schmidt-Hieber&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;11-01-2021&lt;/strong&gt; |  Lasse Vuursteen&lt;/p&gt;
@@ -236,6 +234,8 @@ indefinite time.&lt;/li&gt;
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/seminar-past/</guid>
       <description>&lt;h2 id=&#34;past-meetings&#34;&gt;Past meetings&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;09-11-2020&lt;/strong&gt; | Rianne de Heide&lt;br&gt;
+&lt;em&gt;Safe Testing&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;02-11-2020&lt;/strong&gt; | Sanne Willems&lt;br&gt;
 &lt;em&gt;Variability in the interpretation of probability phrases used in Dutch news articles - a risk for miscommunication&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;19-10-2020&lt;/strong&gt; | Richard Gill&lt;br&gt;
