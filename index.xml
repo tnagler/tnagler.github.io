@@ -208,10 +208,7 @@ indefinite time.&lt;/li&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://tnagler.com/seminar-past&#34;&gt;Past meetings&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;16-11-2020&lt;/strong&gt; |  Peter Grünwald&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;E is the New P: Tests that are safe under optional stopping, with an application to time-to-event data&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Abstract: The E-value is a notion of evidence which, unlike p-values, allows for effortlessly combining evidence from several tests, even in the common scenario where the decision to perform a new test depends on previous test outcomes. &amp;lsquo;Safe&amp;rsquo; tests based on E-values generally preserve Type-I error guarantees under such `optional continuation&amp;rsquo;, thereby potentially alleviating one of the main causes for the reproducibility crisis. Last week, Rianne de Heide showed a general theorem showing that E-values can be constructed for general testing problems with composite nulls/alternatives. After a brief introduction I will continue where Rianne left off a week ago by giving several examples. The main example will be for  time-to-event data. We show how to define an E-value based on Cox&amp;rsquo; partial likelihood, illustrating with (hypothetical!) data on covid vaccine RCTs. If all research groups were to report their results in terms of E-values rather than p-values, then in principle, one could even do meta-analysis that retains an overall Type-I error guarantee - thus saving greatly on &amp;lsquo;research waste&amp;rsquo;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;23-11-2020&lt;/strong&gt; |  Gerten Koers&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;23-11-2020&lt;/strong&gt; |  Geerten Koers&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;30-11-2020&lt;/strong&gt; | Jacqueline Meulman&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;07-12-2020&lt;/strong&gt; |  George Kantidakis&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;14-12-2020&lt;/strong&gt; |  Johannes Schmidt-Hieber&lt;/p&gt;
@@ -234,6 +231,8 @@ indefinite time.&lt;/li&gt;
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/seminar-past/</guid>
       <description>&lt;h2 id=&#34;past-meetings&#34;&gt;Past meetings&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;16-11-2020&lt;/strong&gt; |  Peter Grünwald&lt;br&gt;
+&lt;em&gt;E is the New P: Tests that are safe under optional stopping, with an application to time-to-event data&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09-11-2020&lt;/strong&gt; | Rianne de Heide&lt;br&gt;
 &lt;em&gt;Safe Testing&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;02-11-2020&lt;/strong&gt; | Sanne Willems&lt;br&gt;
