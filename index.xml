@@ -208,13 +208,6 @@ indefinite time.&lt;/li&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://tnagler.com/seminar-past&#34;&gt;Past meetings&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-<<<<<<< HEAD
-=======
-&lt;p&gt;&lt;strong&gt;30-11-2020&lt;/strong&gt; | Jacqueline Meulman&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Regularized Optimal Scaling Regression&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;When confronted with categorical variables, nonlinear relationships, multicollinearity, and/or high-dimensional data, the widely used linear regression framework requires adjustments. Regularization and optimal scaling are two important extensions of ordinary least squares regression. There are two data analytic situations for which optimal scaling was developed. One is the analysis of categorical data, and the other the need for transformations to linearize nonlinear relationships between predictors and outcome.&lt;/p&gt;
-&lt;p&gt;We can choose from a variety of transformation types; typically we use step functions for categorical variables, and smooth (spline) functions for continuous variables. Both types of functions can be restricted to be monotonic, preserving the ordinal information in the data. Optimal scaling regression can be integrated with popular regularization methods such as Ridge Regression, the Lasso, and the Elastic Net, using a very general one-variable-at-a-time (coordinate descent) algorithm. The OS algorithm provides straightforward and efficient estimation of the regularized regression coefficients, automatically gives the Group Lasso and Blockwise Sparse Regression, and extends them by the possibility to maintain ordinal properties in the data. Examples will include mixed variables, variable selection and model selection.&lt;/p&gt;
->>>>>>> 43fb0b57e430f42f1ac7222ef43a1607052b4538
 &lt;p&gt;&lt;strong&gt;07-12-2020&lt;/strong&gt; |  George Kantidakis&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Prediction models in bone sarcoma – a simulation study to compare Cox models with survival neural networks&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;14-12-2020&lt;/strong&gt; |  Johannes Schmidt-Hieber&lt;/p&gt;
@@ -237,11 +230,8 @@ indefinite time.&lt;/li&gt;
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/seminar-past/</guid>
       <description>&lt;h2 id=&#34;past-meetings&#34;&gt;Past meetings&lt;/h2&gt;
-<<<<<<< HEAD
 &lt;p&gt;&lt;strong&gt;30-11-2020&lt;/strong&gt; | Jacqueline Meulman&lt;br&gt;
 &lt;em&gt;Regularized Optimal Scaling Regression&lt;/em&gt;&lt;/p&gt;
-=======
->>>>>>> 43fb0b57e430f42f1ac7222ef43a1607052b4538
 &lt;p&gt;&lt;strong&gt;23-11-2020&lt;/strong&gt; | Stefan Franssen&lt;br&gt;
 &lt;em&gt;Frequentist coverage of empirical Bayesian uncertainty quantification using Deep Neural Network regression in Besov spaces&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;16-11-2020&lt;/strong&gt; |  Peter Grünwald&lt;br&gt;
