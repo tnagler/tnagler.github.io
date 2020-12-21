@@ -88,6 +88,9 @@
 &lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Vatter, T.&lt;br&gt;
 
 &lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solving estimating equations with copulas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meyer, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Hogan, R.J.&lt;br&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/2012.09037&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;journal-and-conference-papers&#34;&gt;Journal and conference papers&lt;/h2&gt;
 &lt;p&gt;Vio, R., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Andreani, P. (2020)&lt;br&gt;
@@ -208,9 +211,6 @@ indefinite time.&lt;/li&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://tnagler.com/seminar-past&#34;&gt;Past meetings&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;14-12-2020&lt;/strong&gt; |  Johannes Schmidt-Hieber&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Overparametrization and the bias-variance dilemma&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;For several machine learning methods such as neural networks, good generalisation performance has been reported in the overparametrized regime. In view of the classical bias-variance trade-off, this behaviour is highly counterintuitive. The talk summarizes recent theoretical results on overparametrization and the bias-variance trade-off. This is joint work with Alexis Derumigny.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;11-01-2021&lt;/strong&gt; |  Lasse Vuursteen&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;18-01-2021&lt;/strong&gt; |  Stéphanie van der Pas&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;25-01-2021&lt;/strong&gt; |  Marten Kampert&lt;/p&gt;
@@ -230,6 +230,8 @@ indefinite time.&lt;/li&gt;
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/seminar-past/</guid>
       <description>&lt;h2 id=&#34;past-meetings&#34;&gt;Past meetings&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;14-12-2020&lt;/strong&gt; |  Johannes Schmidt-Hieber&lt;br&gt;
+&lt;em&gt;Overparametrization and the bias-variance dilemma&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;07-12-2020&lt;/strong&gt; |  George Kantidakis&lt;br&gt;
 &lt;em&gt;Prediction models in bone sarcoma – a simulation study to compare Cox models with survival neural networks&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;30-11-2020&lt;/strong&gt; | Jacqueline Meulman&lt;br&gt;
@@ -337,8 +339,13 @@ indefinite time.&lt;/li&gt;
 &lt;a href=&#34;https://www.ma.tum.de/Studium/AnsichtMasterDiplom?ID=376&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathematical introduction to neural networks&lt;/a&gt;, TU Munich (Winter 2016)&lt;br&gt;
 
 &lt;a href=&#34;https://www.ma.tum.de/Studium/AnsichtMasterDiplom?ID=326&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nonparametric statistical methods&lt;/a&gt;, TU Munich (Summer 2016)&lt;/p&gt;
-&lt;h2 id=&#34;supervision-of-masters-theses&#34;&gt;Supervision of Master&amp;rsquo;s theses&lt;/h2&gt;
-&lt;p&gt;Krüger, D. (2018).  
+&lt;h2 id=&#34;supervision-of-msc-theses&#34;&gt;Supervision of MSc theses&lt;/h2&gt;
+&lt;h4 id=&#34;ongoing&#34;&gt;Ongoing&lt;/h4&gt;
+&lt;p&gt;I am currently supervising 3 MSc students (Lotte Pater, Abed Razaway, Jasper Eggeraat).&lt;/p&gt;
+&lt;h4 id=&#34;completed&#34;&gt;Completed&lt;/h4&gt;
+&lt;p&gt;Carmona Osorio, N. (2020). Using Meta-Learning to Fit a Multivariate Distribution of Hyperparameters.&lt;br&gt;
+Matsakidis, P. (2020). Forecasting Age-Specific Mortality Rates Using Functional Data Analysis.&lt;br&gt;
+Krüger, D. (2018).  
 &lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1445782&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;General vine copula models for stationary multivariate time series.&lt;/a&gt;&lt;br&gt;
 Weber, R. (2018). 
 &lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1467381&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value at Risk Estimation with Subset Simulation.&lt;/a&gt; &lt;br&gt;
