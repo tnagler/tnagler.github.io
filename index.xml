@@ -211,22 +211,16 @@ indefinite time.&lt;/li&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://tnagler.com/seminar-past&#34;&gt;Past meetings&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;11-01-2021&lt;/strong&gt; |  Richard Gill&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Steve Gull’s challenge&lt;/em&gt;&lt;br&gt;
-&lt;em&gt;An impossible Monte Carlo simulation project in distributed computing&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;At the 8th MaxEnt conference in 1998, held in Cambridge UK, Ed Jaynes was the star of the show. His opening lecture has the following abstract: “We show how the character of a scientific theory depends on one&amp;rsquo;s attitude toward probability. Many circumstances seem mysterious or paradoxical to one who thinks that probabilities are real physical properties existing in Nature. But when we adopt the “Bayesian Inference” viewpoint of Harold Jeffreys, paradoxes often become simple platitudes and we have a more powerful tool for useful calculations. This is illustrated by three examples from widely different fields: diffusion in kinetic theory, the Einstein–Podolsky–Rosen (EPR) paradox in quantum theory [he refers here to Bell’s theorem and Bell’s inequalities], and the second law of thermodynamics in biology.”&lt;/p&gt;
-&lt;p&gt;Unfortunately Jaynes was completely wrong in believing that John Bell had merely muddled up his conditional probabilities in proving the famous Bell inequalities and deriving the famous Bell theorem. At the conference, astrophysicist Steve Gull presented a three line proof of Bell’s theorem using some well known facts from Fourier analysis. The proof sketch can be found in a scan of four smudged overhead sheets on Gull’s personal webpages at Cambridge University.&lt;/p&gt;
-&lt;p&gt;Together with Dilara Karakozak I believe I have managed to decode Gull’s proof, &lt;a href=&#34;https://arxiv.org/abs/2012.00719,&#34;&gt;https://arxiv.org/abs/2012.00719,&lt;/a&gt; though this did require quite some inventiveness. I will present our solution and point out further open problems. I have the feeling progress could be made on interesting generalisations using newer probability inequalities for functions of Hadamard variables.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.math.leidenuniv.nl/~gill/gull-talk.pdf&#34;&gt;https://www.math.leidenuniv.nl/~gill/gull-talk.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;18-01-2021&lt;/strong&gt; |  Lasse Vuursteen&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;25-01-2021&lt;/strong&gt; |  Marten Kampert&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;01-02-2021&lt;/strong&gt; |  Geerten Koers&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;08-02-2021&lt;/strong&gt; |  Valentina Masarotto&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;08-02-2021&lt;/strong&gt; |  &lt;em&gt;open spot&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;15-02-2021&lt;/strong&gt; | Laura Zwep&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;22-02-2021&lt;/strong&gt; |  Bart Eggen&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;01-03-2021&lt;/strong&gt; |   Marta Spreafico&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;08-03-2021&lt;/strong&gt; |  Thijs Bos&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;15-03-2020&lt;/strong&gt; | Aad van der Vaart&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;22-03-2021&lt;/strong&gt; |  Valentina Masarotto&lt;/p&gt;
 </description>
     </item>
     
@@ -236,6 +230,9 @@ indefinite time.&lt;/li&gt;
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/seminar-past/</guid>
       <description>&lt;h2 id=&#34;past-meetings&#34;&gt;Past meetings&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;11-01-2021&lt;/strong&gt; |  Richard Gill&lt;br&gt;
+&lt;em&gt;Steve Gull’s challenge&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;An impossible Monte Carlo simulation project in distributed computing&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;14-12-2020&lt;/strong&gt; |  Johannes Schmidt-Hieber&lt;br&gt;
 &lt;em&gt;Overparametrization and the bias-variance dilemma&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;07-12-2020&lt;/strong&gt; |  George Kantidakis&lt;br&gt;
