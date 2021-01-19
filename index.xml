@@ -211,12 +211,7 @@ indefinite time.&lt;/li&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://tnagler.com/seminar-past&#34;&gt;Past meetings&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;18-01-2021&lt;/strong&gt; |  Lasse Vuursteen&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;The role of shared randomness in distributed hypothesis testing&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Recently, optimal distributed testing methods were derived for the problem of signal detection in Gaussian noise. In this joint work with Botond Szabó and Harry van Zanten, we established a lower bound on the signal size for it to be detectable and exhibited distributed testing strategies that attain the lower bound (see  &lt;a href=&#34;https://arxiv.org/abs/2012.04957?context=math&#34;&gt;https://arxiv.org/abs/2012.04957?context=math&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;Depending on the dimension and the degree to which the problem is distributed, one of these optimal distributed testing strategies requires access to a shared source of randomness; the question whether this is strictly necessary is still open in the current literature.&lt;/p&gt;
-&lt;p&gt;In this talk, a simple example of a distributed detection problem in which shared randomness is strictly necessary for optimal results is discussed, followed by a discussion of recent and upcoming work that establishes the sufficiency and necesity of shared randomness for optimal distributed hypothesis testing in a general nonparametric setting.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;25-01-2021&lt;/strong&gt; |  Marten Kampert&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;25-01-2021&lt;/strong&gt; |  Maarten Kampert&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;01-02-2021&lt;/strong&gt; |  Geerten Koers&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;08-02-2021&lt;/strong&gt; |  &lt;em&gt;open spot&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;15-02-2021&lt;/strong&gt; | Laura Zwep&lt;/p&gt;
@@ -234,6 +229,8 @@ indefinite time.&lt;/li&gt;
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/seminar-past/</guid>
       <description>&lt;h2 id=&#34;past-meetings&#34;&gt;Past meetings&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;18-01-2021&lt;/strong&gt; |  Lasse Vuursteen&lt;br&gt;
+&lt;em&gt;The role of shared randomness in distributed hypothesis testing&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;11-01-2021&lt;/strong&gt; |  Richard Gill&lt;br&gt;
 &lt;em&gt;Steve Gull’s challenge&lt;/em&gt;&lt;br&gt;
 &lt;em&gt;An impossible Monte Carlo simulation project in distributed computing&lt;/em&gt;&lt;/p&gt;
