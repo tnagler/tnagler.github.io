@@ -88,12 +88,15 @@
 &lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Krüger, D., Min, A.&lt;br&gt;
 
 &lt;a href=&#34;https://arxiv.org/abs/2008.05990&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stationary vine copula models for multivariate time series&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Vatter, T.&lt;br&gt;
-
-&lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solving estimating equations with copulas&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Meyer, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Hogan, R.J.&lt;br&gt;
 
 &lt;a href=&#34;https://arxiv.org/abs/2012.09037&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meyer, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;&lt;br&gt;
+
+&lt;a href=&#34;../synthia-paper.pdf&#34;&gt;Synthia: multidimensional synthetic data generation in Python&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Vatter, T.&lt;br&gt;
+
+&lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solving estimating equations with copulas&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;journal-and-conference-papers&#34;&gt;Journal and conference papers&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;  (2021)&lt;br&gt;
@@ -396,6 +399,12 @@ dependence measures and related independence tests&lt;/p&gt;
 &lt;a href=&#34;https://badge.fury.io/py/pyvinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://badge.fury.io/py/pyvinecopulib.svg&#34; alt=&#34;PyPI version&#34;&gt;&lt;/a&gt;
 
 &lt;a href=&#34;https://pepy.tech/project/pyvinecopulib/month&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://pepy.tech/badge/pyvinecopulib/month&#34; alt=&#34;Downloads&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/vinecopulib/pyvinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Synthia&lt;/a&gt;: multidimensional synthetic data generation in Python&lt;br&gt;
+
+&lt;a href=&#34;https://badge.fury.io/py/synthia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://badge.fury.io/py/synthia.svg&#34; alt=&#34;PyPI version&#34;&gt;&lt;/a&gt;
+
+&lt;a href=&#34;https://pepy.tech/project/synthia/month&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://pepy.tech/badge/synthia/month&#34; alt=&#34;Downloads&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
 &lt;p&gt;
