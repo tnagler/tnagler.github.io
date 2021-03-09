@@ -217,10 +217,7 @@ indefinite time.&lt;/li&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://tnagler.com/seminar-past&#34;&gt;Past meetings&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;08-03-2021&lt;/strong&gt; |  Thijs Bos&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Multi-classification and deep neural networks&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Statistical theory for deep neural networks mainly focuses on regression. In practice neural networks are often used for classification tasks. We will discuss multi-classification and the cross-entropy loss induced by this model . This loss is commonly used in the training of neural networks for classification. We will provide convergence rates with respect to this loss for estimators based on deep neural networks.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;15-03-2020&lt;/strong&gt; | Aad van der Vaart&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;15-03-2020&lt;/strong&gt; | &lt;em&gt;canceled&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;22-03-2021&lt;/strong&gt; |  Valentina Masarotto&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;29-03-2021&lt;/strong&gt; |  Solomiia Kurchaba&lt;/p&gt;
 </description>
@@ -232,6 +229,8 @@ indefinite time.&lt;/li&gt;
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/seminar-past/</guid>
       <description>&lt;h2 id=&#34;past-meetings&#34;&gt;Past meetings&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;08-03-2021&lt;/strong&gt; |  Thijs Bos&lt;br&gt;
+&lt;em&gt;Multi-classification and deep neural networks&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;01-03-2021&lt;/strong&gt; |   Marta Spreafico&lt;br&gt;
 &lt;em&gt;Modelling longitudinal latent toxicity profiles evolution in osteosarcoma patients&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;22-02-2021&lt;/strong&gt; |  Bart Eggen&lt;br&gt;
