@@ -218,6 +218,20 @@ indefinite time.&lt;/li&gt;
 &lt;a href=&#34;https://tnagler.com/seminar-past&#34;&gt;Past meetings&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;26-04-2021&lt;/strong&gt; |  Maria Quelhas&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Multiple imputation for survival analysis with missing data and a cure fraction&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Nowadays many cancer patients get cured after treatment. Hence, distinguishing between
+prognostic factors with curing or life-prolonging effect is of great interest in clinical research.
+However, some of these covariates are often not fully observed. In childhood osteosarcoma,
+histologic response to pre-operative treatment is known to have a strong effect on survival
+while the benefits of intensified chemotherapy remain unclear. Previous osteosarcoma
+studies have excluded from the analysis patients with missing histologic response. This
+approach might affect the estimated effect of this prognostic factor on survival outcomes.
+Assuming that patients are either cured or uncured in the beginning of the study, we
+consider cure models as a mixture of two components: the probability of being cured,
+modelled through a logistic model, and failure times, modelled using Cox model.
+We present multiple imputation as a method of treating missing data using the conditional
+distribution of each incomplete covariate. We discuss how it can be used to incorporate
+observations with missing covariates into the analysis of survival data with cured subjects.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;03-05-2021&lt;/strong&gt; | Richard Gill&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;17-05-2021&lt;/strong&gt; |  Eni Musta&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;24-05-2021&lt;/strong&gt; |  Elia Biganzoli&lt;/p&gt;
