@@ -82,9 +82,6 @@
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/research/</guid>
       <description>&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
-&lt;p&gt;Aas, K., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Jullum, M., Løland, A.&lt;br&gt;
-
-&lt;a href=&#34;https://arxiv.org/abs/2102.06416&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explaining predictive models using Shapley values and non-parametric vine copulas&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Krüger, D., Min, A.&lt;br&gt;
 
 &lt;a href=&#34;https://arxiv.org/abs/2008.05990&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stationary vine copula models for multivariate time series&lt;/a&gt;&lt;/p&gt;
@@ -99,6 +96,13 @@
 &lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solving estimating equations with copulas&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;journal-and-conference-papers&#34;&gt;Journal and conference papers&lt;/h2&gt;
+&lt;p&gt;Czado, C. and &lt;strong&gt;Nagler, T.&lt;/strong&gt; (2021)&lt;br&gt;
+Vine copula based modeling &lt;br&gt;
+&lt;em&gt;Annual Review of Statistics and Its Application, to appear&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Aas, K., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Jullum, M., Løland, A.   (2021)&lt;br&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/2102.06416&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explaining predictive models using Shapley values and non-parametric vine copulas&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Dependence Modeling, to appear&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;  (2021)&lt;br&gt;
 
 &lt;a href=&#34;https://www.jstatsoft.org/article/view/v097c01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-friendly multi-threading in C++&lt;/a&gt;&lt;br&gt;
