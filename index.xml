@@ -85,17 +85,19 @@
 &lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Krüger, D., Min, A.&lt;br&gt;
 
 &lt;a href=&#34;https://arxiv.org/abs/2008.05990&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stationary vine copula models for multivariate time series&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Meyer, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Hogan, R.J.&lt;br&gt;
-
-&lt;a href=&#34;https://arxiv.org/abs/2012.09037&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Meyer, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;&lt;br&gt;
-
-&lt;a href=&#34;../synthia-paper.pdf&#34;&gt;Synthia: multidimensional synthetic data generation in Python&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Vatter, T.&lt;br&gt;
 
 &lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solving estimating equations with copulas&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;journal-and-conference-papers&#34;&gt;Journal and conference papers&lt;/h2&gt;
+&lt;p&gt;Meyer, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Hogan, R.J.&lt;br&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/2012.09037&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Geoscientific Model Development, to appear&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meyer, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;&lt;br&gt;
+
+&lt;a href=&#34;../synthia-paper.pdf&#34;&gt;Synthia: multidimensional synthetic data generation in Python&lt;/a&gt;
+&lt;em&gt;Journal of Open Source Software, to appear&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Czado, C. and &lt;strong&gt;Nagler, T.&lt;/strong&gt; (2021)&lt;br&gt;
 Vine copula based modeling &lt;br&gt;
 &lt;em&gt;Annual Review of Statistics and Its Application, to appear&lt;/em&gt;&lt;/p&gt;
@@ -208,135 +210,6 @@ hydrological impact analysis&amp;rdquo; by Minh Tu Pham et al.&lt;/a&gt;&lt;br&g
     </item>
     
     <item>
-      <title>Statistics seminar</title>
-      <link>https://tnagler.com/seminar/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://tnagler.com/seminar/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;The Statistics group of the Mathematical Institute meets weekly on &lt;strong&gt;Mondays,
-13.00-13.45&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Due to the Corona virus, the seminar is held online for an
-indefinite time.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://tnagler.com/seminar-past&#34;&gt;Past meetings&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;17-05-2021&lt;/strong&gt; |  Eni Musta&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cure rate models: a presmoothing estimation approach&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Thanks to recent medical advances, many cancer patients are cured. Hence, it is crucial to evaluate a treatment focusing on cure and not only survival prolongation. What makes this problem statistically challenging is the unobserved cure status for patients who, because of censoring, have only been followed for a limited period after treatment.  Developed as an extension of classical survival analysis models, cure rate models can assess the cure chances and distinguish curative from life-prolonging effects. In this talk, I will provide an introduction of cure rate models, focusing on the most common logistic-Cox mixture cure model. Two estimation methods will be discussed: the maximum likelihood estimator, implemented in the R package smcure, and an approach based on presmoothing, proposed by Musta, Patilea and Van Keilegom (2020). The latter one is a two-stage procedure that can directly estimate a parametric cure probability without using any model assumption on the survival of the uncured patients. The advantages of this new approach with respect to the MLE will be discussed, supported by some simulation results. Practical use of cure models will be illustrated through applications to osteosarcoma and melanoma data. However, these methods are useful in other fields as well for analysing time-to-event data with an immune proportion of the population, e.g. fertility studies, equipment failure, credit scoring in economics.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;24-05-2021&lt;/strong&gt; |  Elia Biganzoli&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;31-05-2021&lt;/strong&gt; |  Amine Hadji&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Statistics seminar - past meetings</title>
-      <link>https://tnagler.com/seminar-past/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://tnagler.com/seminar-past/</guid>
-      <description>&lt;h2 id=&#34;past-meetings&#34;&gt;Past meetings&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;03-05-2021&lt;/strong&gt; | Richard Gill&lt;br&gt;
-&lt;em&gt;How to gamble if you must: the d’Alembert system&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;26-04-2021&lt;/strong&gt; |  Maria Quelhas&lt;br&gt;
-&lt;em&gt;Multiple imputation for survival analysis with missing data and a cure fraction&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;19-04-2021&lt;/strong&gt; |  Vera Arntzen&lt;br&gt;
-&lt;em&gt;Estimation of incubation and latency time distributions of Covid-19&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;12-04-2021&lt;/strong&gt; |  Valentina Masarotto&lt;br&gt;
-&lt;em&gt;Optimal transport meets linguistics&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;29-03-2021&lt;/strong&gt; |  Solomiia Kurchaba&lt;br&gt;
-&lt;em&gt;Automatic ship plume detection with S5P – TROPOMI satellite data&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;08-03-2021&lt;/strong&gt; |  Thijs Bos&lt;br&gt;
-&lt;em&gt;Multi-classification and deep neural networks&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;01-03-2021&lt;/strong&gt; |   Marta Spreafico&lt;br&gt;
-&lt;em&gt;Modelling longitudinal latent toxicity profiles evolution in osteosarcoma patients&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;22-02-2021&lt;/strong&gt; |  Bart Eggen&lt;br&gt;
-&lt;em&gt;Bayesian Sensitivity Analysis for Causal Inference&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;15-02-2021&lt;/strong&gt; | Laura Zwep&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;01-02-2021&lt;/strong&gt; |  Geerten Koers&lt;br&gt;
-&lt;em&gt;(Non)-parametric studies of the Schrödinger equation&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;18-01-2021&lt;/strong&gt; |  Lasse Vuursteen&lt;br&gt;
-&lt;em&gt;The role of shared randomness in distributed hypothesis testing&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;11-01-2021&lt;/strong&gt; |  Richard Gill&lt;br&gt;
-&lt;em&gt;Steve Gull’s challenge&lt;/em&gt;&lt;br&gt;
-&lt;em&gt;An impossible Monte Carlo simulation project in distributed computing&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;14-12-2020&lt;/strong&gt; |  Johannes Schmidt-Hieber&lt;br&gt;
-&lt;em&gt;Overparametrization and the bias-variance dilemma&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;07-12-2020&lt;/strong&gt; |  George Kantidakis&lt;br&gt;
-&lt;em&gt;Prediction models in bone sarcoma – a simulation study to compare Cox models with survival neural networks&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;30-11-2020&lt;/strong&gt; | Jacqueline Meulman&lt;br&gt;
-&lt;em&gt;Regularized Optimal Scaling Regression&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;23-11-2020&lt;/strong&gt; | Stefan Franssen&lt;br&gt;
-&lt;em&gt;Frequentist coverage of empirical Bayesian uncertainty quantification using Deep Neural Network regression in Besov spaces&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;16-11-2020&lt;/strong&gt; |  Peter Grünwald&lt;br&gt;
-&lt;em&gt;E is the New P: Tests that are safe under optional stopping, with an application to time-to-event data&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09-11-2020&lt;/strong&gt; | Rianne de Heide&lt;br&gt;
-&lt;em&gt;Safe Testing&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;02-11-2020&lt;/strong&gt; | Sanne Willems&lt;br&gt;
-&lt;em&gt;Variability in the interpretation of probability phrases used in Dutch news articles - a risk for miscommunication&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;19-10-2020&lt;/strong&gt; | Richard Gill&lt;br&gt;
-&lt;em&gt;Two small-data n &amp;laquo; p case studies: Hydroxychloroquine cocktail for early COVID-19 infection; Marseilles and Meijel&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;12-10-2020&lt;/strong&gt; | Amine Hadji&lt;br&gt;
-&lt;em&gt;Uncertainty quantification using Gaussian Process with squared exponential kernel&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;05-10-2020&lt;/strong&gt; | Elena Sellentin&lt;br&gt;
-&lt;em&gt;Generation and Analysis of non-Gaussian random fields in astronomy&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;28-09-2020&lt;/strong&gt; | Marta Fiocco&lt;br&gt;
-&lt;em&gt;Performance indicators for survival outcome&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;21-09-2020&lt;/strong&gt; | Vera Arntzen&lt;br&gt;
-&lt;em&gt;Weighted Cox methods to correct for ascertainment bias&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;14-09-2020&lt;/strong&gt; | Thomas Nagler&lt;br&gt;
-&lt;em&gt;Stationary vine copula models for multivariate time series&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;07-09-2020&lt;/strong&gt; | Jeanne Nguyen&lt;br&gt;
-&lt;em&gt;Pros and cons of the greedy CDRodeo algorithm&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;29-06-2020&lt;/strong&gt; | Maarten Kampert&lt;br&gt;
-&lt;em&gt;Improved Strategies for Clustering Objects on Subsets of Attributes&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;15-06-2020&lt;/strong&gt; | Willem Heiser&lt;br&gt;
-&lt;em&gt;Cancelled&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;08-06-2020&lt;/strong&gt; | Valentina Masarotto	
-&lt;em&gt;When data are continuous : geometry and inference on covariance operators&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;25-05-2020&lt;/strong&gt; | Laura Zwep&lt;br&gt;
-&lt;em&gt;Cancer Treatment Efficacy: Mechanistic modelling in high-dimensional setting&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;18-05-2020&lt;/strong&gt; | Bart Eggen&lt;br&gt;
-&lt;em&gt;Mathematical statistical theory for causal inference&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;11-05-2020&lt;/strong&gt; | Lasse Vuursteen&lt;br&gt;
-&lt;em&gt;Distributed nonparametric hypothesis testing with (very) limited communication&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;20-04-2020&lt;/strong&gt; | Geerten Koers
-&lt;em&gt;Statistical challenges in modern day astronomy&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;06-04-2020&lt;/strong&gt; | Rianne de Heide&lt;br&gt;
-&lt;em&gt;Bayesian best-arm identification&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;30-03-2020&lt;/strong&gt; | Dirk van der Hoeven&lt;br&gt;
-&lt;em&gt;Adaptive methods in online learning.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;02-03-2020&lt;/strong&gt; |	Tim van Erven&lt;br&gt;
-&lt;em&gt;The many faces of exponential weights in online learning.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;24-02-2020&lt;/strong&gt; |	Botond Szabó	  &lt;br&gt;
-&lt;em&gt;Variational Bayes for high-dimensional linear regression with sparse priors.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;17-02-2020&lt;/strong&gt; |	Magnus Münch	  &lt;br&gt;
-&lt;em&gt;Predicting drug sensitivity from cell lines informed by external data.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;10-02-2020&lt;/strong&gt; |	Aad van der Vaart	
-&lt;em&gt;Tolerance regions.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;03-02-2020&lt;/strong&gt; |	Stefan Franssen &lt;br&gt;
-&lt;em&gt;The Bernstein-Von Mises theorem for the Pitman-Yor process.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;27-01-2020&lt;/strong&gt; |	Amine Hadji	    &lt;br&gt;
-&lt;em&gt;Distributed methods for Bayesian regression: contraction rate &amp;amp; uncertainty quantification.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;20-01-2020&lt;/strong&gt; |	Marta Fiocco    &lt;br&gt;
-&lt;em&gt;Marginal structural models with  joint-exposure for counterfactual histological response.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;13-01-2020&lt;/strong&gt; |	Magnus Münch&lt;br&gt;
-&lt;em&gt;(Cancelled)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09-12-2019&lt;/strong&gt; |	Richard Gill    &lt;br&gt;
-&lt;em&gt;Lies, damned lies, and statistics. The case of Ben Geen. An English Lucia de B. New data, new insights.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;02-12-2019&lt;/strong&gt; |	Kevin Duisters	&lt;br&gt;
-&lt;em&gt;On frequentist coverage of Bayesian credible sets for estimation of the mean under constraints.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;25-11-2019&lt;/strong&gt; |	Peter Grünwald	&lt;br&gt;
-&lt;em&gt;Safe statistics.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;18-11-2019&lt;/strong&gt; |	Anja Rüten-Budde&lt;br&gt;
-&lt;em&gt;Assessment of predictive accuracy of an intermittently observed binary time-dependent marker.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;04-11-2019&lt;/strong&gt; |	Thomas Nagler	  &lt;br&gt;
-&lt;em&gt;Vine copula models – past, present, and future.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;28-10-2019&lt;/strong&gt; |	Jeanne Nguyen	  &lt;br&gt;
-&lt;em&gt;CDRodeo: Greedy selection of multivariate bandwidths for kernel conditional density estimation.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Teaching</title>
       <link>https://tnagler.com/teaching/</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
@@ -385,7 +258,8 @@ indefinite time.&lt;/li&gt;
 &lt;em&gt;TU Munich, Summer 2016&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;supervision-of-msc-theses&#34;&gt;Supervision of MSc theses&lt;/h2&gt;
 &lt;h4 id=&#34;ongoing&#34;&gt;Ongoing&lt;/h4&gt;
-&lt;p&gt;I am currently supervising 2 MSc students  (Abed Razawy, Jasper Eggeraat).&lt;/p&gt;
+&lt;p&gt;I am currently supervising 3 MSc mathematics students  (Abed Razawy,
+Jasper Eggeraat, Yifei Wang).&lt;/p&gt;
 &lt;h4 id=&#34;completed&#34;&gt;Completed&lt;/h4&gt;
 &lt;p&gt;Pater, L. (2021). The Auction Simulation Investigation: Price Prediction for Real-Time Bidding.&lt;br&gt;
 Carmona Osorio, N. (2020). Using Meta-Learning to Fit a Multivariate Distribution of Hyperparameters.&lt;br&gt;
