@@ -90,33 +90,38 @@
 &lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solving estimating equations with copulas&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;journal-and-conference-papers&#34;&gt;Journal and conference papers&lt;/h2&gt;
-&lt;p&gt;Meyer, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Hogan, R.J.&lt;br&gt;
+&lt;p&gt;Meyer, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Hogan, R.J.  (202X)&lt;br&gt;
 
 &lt;a href=&#34;https://arxiv.org/abs/2012.09037&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model&lt;/a&gt;&lt;br&gt;
 &lt;em&gt;Geoscientific Model Development, to appear&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Meyer, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;Meyer, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;  (202X)&lt;br&gt;
 
-&lt;a href=&#34;../synthia-paper.pdf&#34;&gt;Synthia: multidimensional synthetic data generation in Python&lt;/a&gt;
+&lt;a href=&#34;../synthia-paper.pdf&#34;&gt;Synthia: multidimensional synthetic data generation in Python&lt;/a&gt;&lt;br&gt;
 &lt;em&gt;Journal of Open Source Software, to appear&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Czado, C. and &lt;strong&gt;Nagler, T.&lt;/strong&gt; (2021)&lt;br&gt;
-Vine copula based modeling &lt;br&gt;
+&lt;p&gt;Czado, C. and &lt;strong&gt;Nagler, T.&lt;/strong&gt; (202X) &lt;br&gt;
+
+&lt;a href=&#34;../vine-arisa.pdf&#34;&gt;Vine copula based modeling&lt;/a&gt;&lt;br&gt;
 &lt;em&gt;Annual Review of Statistics and Its Application, to appear&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Aas, K., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Jullum, M., Løland, A.   (2021)&lt;br&gt;
 
-&lt;a href=&#34;https://arxiv.org/abs/2102.06416&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explaining predictive models using Shapley values and non-parametric vine copulas&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Dependence Modeling, to appear&lt;/em&gt;&lt;/p&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2102.06416&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explaining predictive models using Shapley values and non-parametric vine copulas&lt;/a&gt;  &lt;br&gt;
+&lt;em&gt;Dependence Modeling, 9:62&amp;ndash;81&lt;/em&gt; 
+&lt;a href=&#34;https://doi.org/10.1515/demo-2021-0103&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;  (2021)&lt;br&gt;
 
 &lt;a href=&#34;https://www.jstatsoft.org/article/view/v097c01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-friendly multi-threading in C++&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Journal of Statistical Software, 97(c1)&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;Journal of Statistical Software, 97(c1)&lt;/em&gt;  
+&lt;a href=&#34;https://www.jstatsoft.org/article/view/v097c01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Vio, R., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Andreani, P. (2020)&lt;br&gt;
 
 &lt;a href=&#34;https://www.aanda.org/articles/aa/abs/2020/10/aa38585-20/aa38585-20.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modeling high-dimensional dependence among astronomical data&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Astronomy &amp;amp; Astrophysics, 642, A156&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;Astronomy &amp;amp; Astrophysics, 642, A156&lt;/em&gt; 
+&lt;a href=&#34;https://www.aanda.org/articles/aa/abs/2020/10/aa38585-20/aa38585-20.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Eggersmann, T.K., Baumeister, P., Kumbringk, J., Mayr, D., Schmoeckel, E., Thaler, C.J., Dannecker, C.,  Jeschke, U., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Mahner, S., Sharaf, K., and Gallwas, J.K.S. (2020)&lt;br&gt;
 
 &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/32234904?dopt=Abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oropharyngeal HPV Detection Techniques in HPV-associated Head and Neck Cancer Patients.&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Anticancer Research, 40(4):2117-2123&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;Anticancer Research, 40(4):2117-2123&lt;/em&gt; 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/32234904?dopt=Abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Nagler, T.&lt;/strong&gt;, Bumann, C., Czado, C. (2019)&lt;br&gt;
 
 &lt;a href=&#34;https://arxiv.org/abs/1801.09739&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Model selection for sparse high-dimensional vine copulas with application to
