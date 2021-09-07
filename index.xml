@@ -90,19 +90,19 @@
 &lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solving estimating equations with copulas&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;journal-and-conference-papers&#34;&gt;Journal and conference papers&lt;/h2&gt;
-&lt;p&gt;Meyer, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Hogan, R.J.  (202X)&lt;br&gt;
-
-&lt;a href=&#34;https://arxiv.org/abs/2012.09037&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Geoscientific Model Development 14(8):5205–5215&lt;/em&gt;  
-&lt;a href=&#34;https://gmd.copernicus.org/articles/14/5205/2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Meyer, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;  (202X)&lt;br&gt;
-
-&lt;a href=&#34;../synthia-paper.pdf&#34;&gt;Synthia: multidimensional synthetic data generation in Python&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Journal of Open Source Software, to appear&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Czado, C. and &lt;strong&gt;Nagler, T.&lt;/strong&gt; (202X) &lt;br&gt;
 
 &lt;a href=&#34;../vine-arisa.pdf&#34;&gt;Vine copula based modeling&lt;/a&gt;&lt;br&gt;
 &lt;em&gt;Annual Review of Statistics and Its Application, to appear&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meyer, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;  (202X)&lt;br&gt;
+
+&lt;a href=&#34;../synthia-paper.pdf&#34;&gt;Synthia: multidimensional synthetic data generation in Python&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Journal of Open Source Software, to appear&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meyer, D., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Hogan, R.J.  (2021)&lt;br&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/2012.09037&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Geoscientific Model Development 14(8):5205–5215&lt;/em&gt;  
+&lt;a href=&#34;https://gmd.copernicus.org/articles/14/5205/2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Aas, K., &lt;strong&gt;Nagler, T.&lt;/strong&gt;, Jullum, M., Løland, A.   (2021)&lt;br&gt;
 
 &lt;a href=&#34;https://arxiv.org/abs/2102.06416&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explaining predictive models using Shapley values and non-parametric vine copulas&lt;/a&gt;  &lt;br&gt;
@@ -226,10 +226,13 @@ hydrological impact analysis&amp;rdquo; by Minh Tu Pham et al.&lt;/a&gt;&lt;br&g
 &lt;em&gt;Faculty of Science, Leiden University&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;lectures&#34;&gt;Lectures&lt;/h2&gt;
 &lt;p&gt;
+&lt;a href=&#34;http://homepage.tudelft.nl/11r49/onderw0910/analyse1lr_en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calculus I for aerospace engineering&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;TU Delft, Fall 2021&lt;/em&gt;&lt;br&gt;
+
 &lt;a href=&#34;https://studiegids.universiteitleiden.nl/en/courses/97171/advanced-statistical-computing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced statistical computing&lt;/a&gt;&lt;br&gt;
 &lt;em&gt;Leiden University, Fall 2020&lt;/em&gt;&lt;br&gt;
 
-&lt;a href=&#34;https://studiegids.universiteitleiden.nl/en/courses/104509/statistics-an-part-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistics for astronomy and physics  students I + II&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://studiegids.universiteitleiden.nl/en/courses/104509/statistics-an-part-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistics for astronomy and physics students I + II&lt;/a&gt;&lt;br&gt;
 &lt;em&gt;Leiden University, Fall 2020 
 &lt;a href=&#34;../stan-2020.pdf&#34;&gt;[notes]&lt;/a&gt;&lt;/em&gt;&lt;br&gt;
 
