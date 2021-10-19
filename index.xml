@@ -312,7 +312,7 @@ dependence measures and related independence tests&lt;/p&gt;
 
 &lt;a href=&#34;https://pepy.tech/project/pyvinecopulib/month&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://pepy.tech/badge/pyvinecopulib/month&#34; alt=&#34;Downloads&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://github.com/vinecopulib/pyvinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Synthia&lt;/a&gt;: multidimensional synthetic data generation in Python&lt;br&gt;
+&lt;a href=&#34;https://github.com/dmey/synthia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Synthia&lt;/a&gt;: multidimensional synthetic data generation in Python&lt;br&gt;
 
 &lt;a href=&#34;https://badge.fury.io/py/synthia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://badge.fury.io/py/synthia.svg&#34; alt=&#34;PyPI version&#34;&gt;&lt;/a&gt;
 
@@ -324,7 +324,7 @@ dependence measures and related independence tests&lt;/p&gt;
 C++&lt;br&gt;
 &lt;img src=&#34;http://www.r-pkg.org/badges/version/RcppThread&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/RcppThread&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://github.com/tnagler/VineCopula%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VineCopula&lt;/a&gt;:
+&lt;a href=&#34;https://github.com/tnagler/VineCopula&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VineCopula&lt;/a&gt;:
 Statistical inference of vine copulas&lt;br&gt;
 &lt;img src=&#34;http://www.r-pkg.org/badges/version/VineCopula&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/VineCopula&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
 &lt;p&gt;
