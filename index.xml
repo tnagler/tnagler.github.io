@@ -301,7 +301,13 @@ structure.&lt;/a&gt;&lt;/p&gt;
       <description>&lt;h2 id=&#34;c&#34;&gt;C++&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/vinecopulib/vinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinecopulib&lt;/a&gt;:
-A C++ library for vine copulas&lt;/p&gt;
+A C++ library for vine copulas&lt;br&gt;
+
+&lt;a href=&#34;https://zenodo.org/badge/latestdoi/76354683&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/76354683.svg&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/tpool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tpool&lt;/a&gt;: Easy-to-use, header-only work stealing thread pool in C++11.&lt;br&gt;
+
+&lt;a href=&#34;https://zenodo.org/badge/latestdoi/427536398&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/427536398.svg&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/wdm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wdm&lt;/a&gt;: Weighted
 dependence measures and related independence tests&lt;/p&gt;
@@ -313,13 +319,17 @@ dependence measures and related independence tests&lt;/p&gt;
 
 &lt;a href=&#34;https://badge.fury.io/py/pyvinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://badge.fury.io/py/pyvinecopulib.svg&#34; alt=&#34;PyPI version&#34;&gt;&lt;/a&gt;
 
-&lt;a href=&#34;https://pepy.tech/project/pyvinecopulib/month&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://pepy.tech/badge/pyvinecopulib/month&#34; alt=&#34;Downloads&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://pepy.tech/project/pyvinecopulib/month&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://pepy.tech/badge/pyvinecopulib/month&#34; alt=&#34;Downloads&#34;&gt;&lt;/a&gt;
+
+&lt;a href=&#34;https://zenodo.org/badge/latestdoi/196999069&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/196999069.svg&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/dmey/synthia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Synthia&lt;/a&gt;: multidimensional synthetic data generation in Python&lt;br&gt;
 
 &lt;a href=&#34;https://badge.fury.io/py/synthia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://badge.fury.io/py/synthia.svg&#34; alt=&#34;PyPI version&#34;&gt;&lt;/a&gt;
 
-&lt;a href=&#34;https://pepy.tech/project/synthia/month&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://pepy.tech/badge/synthia/month&#34; alt=&#34;Downloads&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://pepy.tech/project/synthia/month&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://pepy.tech/badge/synthia/month&#34; alt=&#34;Downloads&#34;&gt;&lt;/a&gt;
+
+&lt;a href=&#34;https://doi.org/10.21105/joss.02863&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://joss.theoj.org/papers/10.21105/joss.02863/status.svg&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
 &lt;p&gt;
