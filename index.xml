@@ -304,8 +304,10 @@ structure.&lt;/a&gt;&lt;/p&gt;
 A C++ library for vine copulas&lt;br&gt;
 
 &lt;a href=&#34;https://zenodo.org/badge/latestdoi/76354683&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/76354683.svg&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;!-- [tpool](https://github.com/tnagler/tpool): Easy-to-use, header-only work stealing thread pool in C++11.  
-[![DOI](https://zenodo.org/badge/427536398.svg)](https://zenodo.org/badge/latestdoi/427536398) --&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/tnagler/quickpool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;quickpool&lt;/a&gt;: Easy-to-use, header-only work stealing thread pool in C++11.&lt;br&gt;
+
+&lt;a href=&#34;https://zenodo.org/badge/latestdoi/427536398&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/427536398.svg&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/wdm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wdm&lt;/a&gt;: Weighted
 dependence measures and related independence tests&lt;/p&gt;
