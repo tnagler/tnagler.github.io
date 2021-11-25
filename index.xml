@@ -365,26 +365,22 @@ Stationary vine copula models for multivariate time series
 &lt;a href=&#34;https://github.com/tnagler/vinereg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinereg&lt;/a&gt;:
 D-vine copula quantile regression&lt;br&gt;
 &lt;img src=&#34;http://www.r-pkg.org/badges/version/vinereg&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/vinereg&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/tnagler/eecop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eecop&lt;/a&gt;:
-Copula based estimation equations&lt;br&gt;
-&lt;img src=&#34;http://www.r-pkg.org/badges/version/eecop&#34; alt=&#34;CRAN version&#34;&gt;&lt;/p&gt;
+&lt;!-- [eecop](https://github.com/tnagler/eecop):
+Copula based estimation equations  
+![CRAN version](http://www.r-pkg.org/badges/version/eecop)  --&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/VC2copula%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VC2copula&lt;/a&gt;:
 Extend the &amp;lsquo;copula&amp;rsquo; Package with models from &amp;lsquo;VineCopula&amp;rsquo;&lt;br&gt;
 &lt;img src=&#34;http://www.r-pkg.org/badges/version/VC2copula&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/VC2copula&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/tnagler/kdevine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kdevine&lt;/a&gt;:
-Multivariate kernel density estimation with vine copulas&lt;br&gt;
-&lt;img src=&#34;http://www.r-pkg.org/badges/version/kdevine&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/kdevine&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/tnagler/cctools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cctools&lt;/a&gt;:
-Tools for continuous convolution in nonparametric estimation&lt;br&gt;
-&lt;img src=&#34;http://www.r-pkg.org/badges/version/cctools&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/cctools&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/tnagler/jdify&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jdify&lt;/a&gt;:
-Joint density classifiers&lt;br&gt;
-&lt;img src=&#34;http://www.r-pkg.org/badges/version/jdify&#34; alt=&#34;CRAN version&#34;&gt;&lt;/p&gt;
+&lt;!-- [kdevine](https://github.com/tnagler/kdevine):
+Multivariate kernel density estimation with vine copulas  
+![CRAN version](http://www.r-pkg.org/badges/version/kdevine) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/kdevine) --&gt;
+&lt;!-- [cctools](https://github.com/tnagler/cctools):
+Tools for continuous convolution in nonparametric estimation  
+![CRAN version](http://www.r-pkg.org/badges/version/cctools) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/cctools) --&gt;
+&lt;!-- [jdify](https://github.com/tnagler/jdify):
+Joint density classifiers  
+![CRAN version](http://www.r-pkg.org/badges/version/jdify) --&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tvatter/gamCopula&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gamCopula&lt;/a&gt;:
 Generalized additive models for bivariate conditional dependence structures and vine copulas&lt;br&gt;
