@@ -5,7 +5,7 @@
     <link>https://tnagler.com/</link>
       <atom:link href="https://tnagler.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas Nagler</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tnagler.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Thomas Nagler</title>
@@ -55,31 +55,9 @@
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://tnagler.com/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://tnagler.com/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>https://tnagler.com/publications/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/publications/</guid>
       <description>&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
 &lt;p&gt;T. Nagler, T. Vatter. Solving estimating equations with copulas. 
@@ -226,57 +204,9 @@ hydrological impact analysis&amp;rdquo; by Minh Tu Pham et al.
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>https://tnagler.com/teaching/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://tnagler.com/teaching/</guid>
-      <description>&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
-&lt;!-- [Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler),  --&gt;
-&lt;p&gt;Teacher of the Year 2020, &lt;em&gt;Faculty of Science, Leiden University&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
-&lt;h4 id=&#34;lmu-munich-2022-&#34;&gt;LMU Munich (2022-)&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Methoden der Linearen Algebra in der Statistik&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;tu-delft-2021-2022&#34;&gt;TU Delft (2021-2022)&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Time Series&lt;/li&gt;
-&lt;li&gt;Linear Algebra for Computer Science and Engineering&lt;/li&gt;
-&lt;li&gt;Calculus for Computer Science and Engineering&lt;/li&gt;
-&lt;li&gt;Calculus I for Aerospace Engineering&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;leiden-university-2019-2021&#34;&gt;Leiden University (2019-2021)&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Advanced Statistical Computing&lt;/li&gt;
-&lt;li&gt;Statistics for Astronomy and Physics students 
-&lt;a href=&#34;../stan-2020.pdf&#34;&gt;[lecture notes]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;tu-munich-2019&#34;&gt;TU Munich (2019)&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Nonparametric Statistical Learning&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- - TA for several courses and seminars --&gt;
-&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
-&lt;p&gt;I have supervised several MSc theses in mathematics and statistics (13 completed, 2 ongoing).&lt;/p&gt;
-&lt;p&gt;LMU students interested in a project with me may send an email with a recent transcript and indication of their interests.&lt;/p&gt;
-&lt;h4 id=&#34;highlights&#34;&gt;Highlights&lt;/h4&gt;
-&lt;p&gt;A. Razawy: 
-&lt;a href=&#34;../razawy-suffdr.pdf&#34;&gt;Spline Based Estimation for Sufficient Dimension Reduction&lt;/a&gt; &lt;br&gt;
-D. Krüger:  
-&lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1554813&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;General vine copula models for stationary multivariate time series&lt;/a&gt;&lt;br&gt;
-R. Weber: 
-&lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1467381&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value at Risk Estimation with Subset Simulation&lt;/a&gt; &lt;br&gt;
-A. Kreuzer:  
-&lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338821&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analysing the spatial dependency among fire danger indices&lt;/a&gt;&lt;br&gt;
-A. Brauer:  
-&lt;a href=&#34;https://mediatum.ub.tum.de/doc/1342845/1342845.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kernel estimation of conditional copula densities&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Software</title>
       <link>https://tnagler.com/software/</link>
-      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/software/</guid>
       <description>&lt;h2 id=&#34;c&#34;&gt;C++&lt;/h2&gt;
 &lt;p&gt;
@@ -361,135 +291,88 @@ Generalized additive models for bivariate conditional dependence structures and 
     </item>
     
     <item>
-      <title>Slides</title>
-      <link>https://tnagler.com/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://tnagler.com/slides/example/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+      <title>Vacancies</title>
+      <link>https://tnagler.com/vacancies/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://tnagler.com/vacancies/</guid>
+      <description>&lt;p&gt;I have openings for &lt;strong&gt;PhD candidates&lt;/strong&gt; starting August 2022 or as soon as possible thereafter. Topics are in high-dimensional statistics and machine learning.&lt;/p&gt;
+&lt;h3 id=&#34;tasks&#34;&gt;Tasks&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;li&gt;Research at the intersection of mathematical and computational statistics&lt;/li&gt;
+&lt;li&gt;Developing and improving software implementations&lt;/li&gt;
+&lt;li&gt;Teaching assistance for courses in mathematics and statistics&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;h3 id=&#34;requirements&#34;&gt;Requirements&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Strong mathematical background (MSc in mathematics, statistics, or similar)&lt;/li&gt;
+&lt;li&gt;Keen interest in theoretical and computational aspects of statistics&lt;/li&gt;
+&lt;li&gt;Good programming skills in R, Python, or C++&lt;/li&gt;
+&lt;li&gt;Excellent spoken and written English&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-&lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;h3 id=&#34;benefits&#34;&gt;Benefits&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;li&gt;Excellent scientific environment in a top-ranked German university&lt;/li&gt;
+&lt;li&gt;International network and exchange opportunities&lt;/li&gt;
+&lt;li&gt;Salaried position as a university employee&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;h3 id=&#34;how-to-apply&#34;&gt;How to apply&lt;/h3&gt;
+&lt;p&gt;Interested candidates can apply via 
+&lt;a href=&#34;mailto:nagler@stat.uni-muenchen.de&#34;&gt;email&lt;/a&gt; with:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;li&gt;brief cover letter indicating motivation, fit, and preferred starting date,&lt;/li&gt;
+&lt;li&gt;CV and corresponding certificates/transcripts,&lt;/li&gt;
+&lt;li&gt;(draft of) a thesis or project report.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
+&lt;p&gt;Women and candidates from underrepresented groups are especially encouraged to apply. People with disabilities who are equally qualified as other applicants will receive preferential treatment.&lt;/p&gt;
+&lt;p&gt;The application &lt;strong&gt;deadline is May 22, 2022&lt;/strong&gt;. Only shortlisted candidates  get notified.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://tnagler.com/teaching/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://tnagler.com/teaching/</guid>
+      <description>&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
+&lt;!-- [Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler),  --&gt;
+&lt;p&gt;Teacher of the Year 2020, &lt;em&gt;Faculty of Science, Leiden University&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
+&lt;h4 id=&#34;lmu-munich-2022-&#34;&gt;LMU Munich (2022-)&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;li&gt;Methoden der Linearen Algebra in der Statistik&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/media/boards.jpg&#34;
-  &gt;
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;tu-delft-2021-2022&#34;&gt;TU Delft (2021-2022)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Time Series&lt;/li&gt;
+&lt;li&gt;Linear Algebra for Computer Science and Engineering&lt;/li&gt;
+&lt;li&gt;Calculus for Computer Science and Engineering&lt;/li&gt;
+&lt;li&gt;Calculus I for Aerospace Engineering&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;leiden-university-2019-2021&#34;&gt;Leiden University (2019-2021)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced Statistical Computing&lt;/li&gt;
+&lt;li&gt;Statistics for Astronomy and Physics students 
+&lt;a href=&#34;../stan-2020.pdf&#34;&gt;[lecture notes]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;tu-munich-2019&#34;&gt;TU Munich (2019)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Nonparametric Statistical Learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - TA for several courses and seminars --&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;p&gt;I have supervised several MSc theses in mathematics and statistics (13 completed, 2 ongoing).&lt;/p&gt;
+&lt;p&gt;LMU students interested in a project with me may send an email with a recent transcript and indication of their interests.&lt;/p&gt;
+&lt;h4 id=&#34;highlights&#34;&gt;Highlights&lt;/h4&gt;
+&lt;p&gt;A. Razawy: 
+&lt;a href=&#34;../razawy-suffdr.pdf&#34;&gt;Spline Based Estimation for Sufficient Dimension Reduction&lt;/a&gt; &lt;br&gt;
+D. Krüger:  
+&lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1554813&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;General vine copula models for stationary multivariate time series&lt;/a&gt;&lt;br&gt;
+R. Weber: 
+&lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1467381&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value at Risk Estimation with Subset Simulation&lt;/a&gt; &lt;br&gt;
+A. Kreuzer:  
+&lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338821&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analysing the spatial dependency among fire danger indices&lt;/a&gt;&lt;br&gt;
+A. Brauer:  
+&lt;a href=&#34;https://mediatum.ub.tum.de/doc/1342845/1342845.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kernel estimation of conditional copula densities&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
