@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>T. NAGLER</title>
+    <title>Thomas Nagler</title>
     <link>https://tnagler.com/</link>
       <atom:link href="https://tnagler.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>T. NAGLER</description>
+    <description>Thomas Nagler</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tnagler.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>T. NAGLER</title>
+      <title>Thomas Nagler</title>
       <link>https://tnagler.com/</link>
     </image>
     
@@ -92,7 +92,7 @@ Stationary vine copula models for multivariate time series.
 &lt;em&gt;Journal of Econometrics, 227(2), pp. 305-324&lt;/em&gt; 
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0304407621003043&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0304407621003043/pdfft?md5=e36d67f4b050cf9813f5fdbe51578b08&amp;amp;pid=1-s2.0-S0304407621003043-main.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;  
-&lt;a href=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0304407621003043-mmc1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[supplement]&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0304407621003043-mmc1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[suppl.]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;C. Czado, T. Nagler.
 Vine copula based modeling.
 &lt;em&gt;Annual Review of Statistics and Its Application 9, pp. 453-477&lt;/em&gt; 
@@ -121,23 +121,23 @@ R-friendly multi-threading in C++.
 &lt;a href=&#34;https://www.jstatsoft.org/article/view/v097c01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2020&#34;&gt;2020&lt;/h4&gt;
 &lt;p&gt;R. Vio, T. Nagler, P. Andreani.
--Modeling high-dimensional dependence among astronomical data-
+Modeling high-dimensional dependence among astronomical data.
 &lt;em&gt;Astronomy &amp;amp; Astrophysics, 642, A156&lt;/em&gt; 
-&lt;a href=&#34;https://www.aanda.org/articles/aa/abs/2020/10/aa38585-20/aa38585-20.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.aanda.org/articles/aa/abs/2020/10/aa38585-20/aa38585-20.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
+&lt;a href=&#34;https://www.aanda.org/articles/aa/pdf/2020/10/aa38585-20.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;T.K. Eggersmann,  P. Baumeister, J. Kumbringk, D. Mayr, E. Schmoeckel, C.J. Thaler, C. Dannecker,  U. Jeschke, T. Nagler, S. Mahner,  K. Sharaf, J.K.S. Gallwas.
 Oropharyngeal HPV Detection Techniques in HPV-associated Head and Neck Cancer Patients.
 &lt;em&gt;Anticancer Research, 40(4):2117-2123&lt;/em&gt; 
 &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/32234904?dopt=Abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2019&#34;&gt;2019&lt;/h4&gt;
 &lt;p&gt;T. Nagler, C. Bumann, C. Czado.
-Model selection for sparse high-dimensional vine copulas with application to
-portfolio risk.
+Model selection for sparse high-dimensional vine copulas with application to portfolio risk.
 &lt;em&gt;Journal of Multivariate Analysis, 172: 180-192&lt;/em&gt;
 
 &lt;a href=&#34;https://doi.org/10.1016/j.jmva.2019.03.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/1801.09739&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;W.S. Jäger, T. Nagler, C. Czado, R.T. McCall.
-A statistical simulation method for joint time series of non-stationary hourly wave parameters.&lt;br&gt;
+A statistical simulation method for joint time series of non-stationary hourly wave parameters.
 &lt;em&gt;Coastal Engineering, 146: 14-31&lt;/em&gt; 
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0378383918301777&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;http://arxiv.org/abs/1810.12389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
@@ -149,8 +149,8 @@ Stochastic simulation of test collections: evaluation scores.
 &lt;a href=&#34;https://dl.acm.org/citation.cfm?doid=3209978.3210043&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;http://julian-urbano.info/files/publications/065-stochastic-simulation-test-collections-evaluation-scores.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;L. Höhndorf, T. Nagler, P. Koppitz, C. Czado, F. Holzapfel.
-Statistical dependence analyses of operational flight data used for landing
-reconstruction enhancement. &lt;em&gt;The 22nd Air Transport Research Society World Conference&lt;/em&gt;&lt;/p&gt;
+Statistical dependence analyses of operational flight data used for landing reconstruction enhancement.
+&lt;em&gt;The 22nd Air Transport Research Society World Conference&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;T. Vatter and T. Nagler.
 Generalized additive models for pair-copula constructions.
 &lt;em&gt;Journal of Computational and Graphical Statistics, 27(4): 715-727&lt;/em&gt; 
@@ -163,7 +163,7 @@ A generic approach to nonparametric function estimation with mixed data.
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0167715218300853&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/1704.07457&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;T. Nagler.
-Asymptotic analysis of the jittering kernel density estimator.&lt;br&gt;
+Asymptotic analysis of the jittering kernel density estimator.
 &lt;em&gt;Mathematical Methods of Statistics, 27(1): 32-46&lt;/em&gt;
 
 &lt;a href=&#34;https://link.springer.com/article/10.3103/S1066530718010027&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
@@ -176,14 +176,15 @@ kdecopula: An R package for the kernel estimation of copula densities.
 &lt;a href=&#34;hhttps://www.jstatsoft.org/index.php/jss/article/view/v084i07/1211&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2017&#34;&gt;2017&lt;/h4&gt;
 &lt;p&gt;T. Nagler, Schellhase, C. and C. Czado.
-Nonparametric estimation of simplified vine copula models: comparison of
-methods. &lt;em&gt;Dependence Modeling, 5:99-120&lt;/em&gt;
+Nonparametric estimation of simplified vine copula models: comparison of methods.
+&lt;em&gt;Dependence Modeling, 5:99-120&lt;/em&gt;
 
 &lt;a href=&#34;https://www.degruyter.com/view/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.xml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;https://www.degruyter.com/document/doi/10.1515/demo-2017-0007/pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2016&#34;&gt;2016&lt;/h4&gt;
 &lt;p&gt;T. Nagler. C. Czado.
-Evading the curse of dimensionality in nonparametric density estimation with simplified vine copulas. &lt;em&gt;Journal of Multivariate Analysis, 151:69-89&lt;/em&gt;
+Evading the curse of dimensionality in nonparametric density estimation with simplified vine copulas.
+&lt;em&gt;Journal of Multivariate Analysis, 151:69-89&lt;/em&gt;
 
 &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0047259X16300471&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;  
 &lt;a href=&#34;https://arxiv.org/abs/1503.03305&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
@@ -191,15 +192,15 @@ Evading the curse of dimensionality in nonparametric density estimation with sim
 &lt;h2 id=&#34;other&#34;&gt;Other&lt;/h2&gt;
 &lt;h4 id=&#34;2018-1&#34;&gt;2018&lt;/h4&gt;
 &lt;p&gt;C. Czado, D. Müller, T. Nagler.
-Dependence modelling in ultra high dimensions with vine copulas.
+Dependence modelling in ultra high dimensions with vine copulas.&lt;br&gt;
 Book chapter in &lt;em&gt;High Performance Computing in Science and Engineering - on the Tier-2 System CoolMUC; Garching/Munich 2018&lt;/em&gt; 
 &lt;a href=&#34;https://mediatum.ub.tum.de/doc/1439506/1439506.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A. Möller, L. Spazzini, D. Kraus, T. Nagler, C. Czado.
-Vine copula based post-processing of ensemble forecasts for temperature.&lt;br&gt;
+Vine copula based post-processing of ensemble forecasts for temperature.
 &lt;em&gt;Research report&lt;/em&gt; 
 &lt;a href=&#34;http://arxiv.org/abs/1811.02255&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;N. Schallhorn, D. Kraus, T. Nagler and C. Czado.
-D-vine quantile regression with discrete variables.&lt;br&gt;
+D-vine quantile regression with discrete variables.
 &lt;em&gt;Research report&lt;/em&gt; 
 &lt;a href=&#34;http://arxiv.org/abs/1705.08310&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;T. Nagler.
@@ -214,7 +215,8 @@ hydrological impact analysis&amp;rdquo; by Minh Tu Pham et al.
 
 &lt;a href=&#34;http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1-supplement.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;A. Kreuzer, T. Nagler, C. Czado. Heavy tailed spatial autocorrelation models. &lt;em&gt;Research report&lt;/em&gt; 
+&lt;p&gt;A. Kreuzer, T. Nagler, C. Czado. Heavy tailed spatial autocorrelation models.
+&lt;em&gt;Research report&lt;/em&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/1707.03165&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2014&#34;&gt;2014&lt;/h4&gt;
 &lt;p&gt;T. Nagler. Kernel methods for vine copula estimation.
@@ -229,12 +231,12 @@ hydrological impact analysis&amp;rdquo; by Minh Tu Pham et al.
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/teaching/</guid>
       <description>&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teacher of the Year 2020&lt;/a&gt;, &lt;em&gt;Faculty of Science, Leiden University&lt;/em&gt;&lt;/p&gt;
+&lt;!-- [Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler),  --&gt;
+&lt;p&gt;Teacher of the Year 2020, &lt;em&gt;Faculty of Science, Leiden University&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
 &lt;h4 id=&#34;lmu-munich-2022-&#34;&gt;LMU Munich (2022-)&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Methoden der linearen Algebra in der Statistik&lt;/li&gt;
+&lt;li&gt;Methoden der Linearen Algebra in der Statistik&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;tu-delft-2021-2022&#34;&gt;TU Delft (2021-2022)&lt;/h4&gt;
 &lt;ul&gt;
@@ -245,13 +247,13 @@ hydrological impact analysis&amp;rdquo; by Minh Tu Pham et al.
 &lt;/ul&gt;
 &lt;h4 id=&#34;leiden-university-2019-2021&#34;&gt;Leiden University (2019-2021)&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Advanced statistical computing&lt;/li&gt;
-&lt;li&gt;Statistics for astronomy and physics students 
-&lt;a href=&#34;../stan-2020.pdf&#34;&gt;[notes]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Advanced Statistical Computing&lt;/li&gt;
+&lt;li&gt;Statistics for Astronomy and Physics students 
+&lt;a href=&#34;../stan-2020.pdf&#34;&gt;[lecture notes]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;tu-munich-2019&#34;&gt;TU Munich (2019)&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Nonparametric statistical learning&lt;/li&gt;
+&lt;li&gt;Nonparametric Statistical Learning&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- - TA for several courses and seminars --&gt;
 &lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
@@ -279,13 +281,11 @@ A. Brauer:
       <description>&lt;h2 id=&#34;c&#34;&gt;C++&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/vinecopulib/vinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinecopulib&lt;/a&gt;:
-A C++ library for vine copulas&lt;br&gt;
-
-&lt;a href=&#34;https://zenodo.org/badge/latestdoi/76354683&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/76354683.svg&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+High performance algorithms for vine copula modeling&lt;/p&gt;
+&lt;!-- [![DOI](https://zenodo.org/badge/76354683.svg)](https://zenodo.org/badge/latestdoi/76354683) --&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://github.com/tnagler/quickpool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;quickpool&lt;/a&gt;: Easy-to-use, header-only work stealing thread pool in C++11.&lt;br&gt;
-
-&lt;a href=&#34;https://zenodo.org/badge/latestdoi/427536398&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/427536398.svg&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/tnagler/quickpool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;quickpool&lt;/a&gt;: Easy-to-use, header-only work stealing thread pool in C++11.&lt;/p&gt;
+&lt;!-- [![DOI](https://zenodo.org/badge/427536398.svg)](https://zenodo.org/badge/latestdoi/427536398) --&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/wdm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wdm&lt;/a&gt;: Weighted
 dependence measures and related independence tests&lt;/p&gt;
@@ -293,67 +293,61 @@ dependence measures and related independence tests&lt;/p&gt;
 &lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/vinecopulib/pyvinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pyvinecopulib&lt;/a&gt;: Python interface to the 
-&lt;a href=&#34;https://github.com/vinecopulib/vinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinecopulib&lt;/a&gt; C++ library&lt;br&gt;
-
-&lt;a href=&#34;https://badge.fury.io/py/pyvinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://badge.fury.io/py/pyvinecopulib.svg&#34; alt=&#34;PyPI version&#34;&gt;&lt;/a&gt;
-
-&lt;a href=&#34;https://pepy.tech/project/pyvinecopulib/month&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://pepy.tech/badge/pyvinecopulib&#34; alt=&#34;Downloads&#34;&gt;&lt;/a&gt;
-
-&lt;a href=&#34;https://zenodo.org/badge/latestdoi/196999069&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/196999069.svg&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/vinecopulib/vinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinecopulib&lt;/a&gt; C++ library&lt;/p&gt;
+&lt;!-- [![PyPI version](https://badge.fury.io/py/pyvinecopulib.svg)](https://badge.fury.io/py/pyvinecopulib) --&gt;
+&lt;!-- [![Downloads](https://pepy.tech/badge/pyvinecopulib)](https://pepy.tech/project/pyvinecopulib/month) --&gt;
+&lt;!-- [![DOI](https://zenodo.org/badge/196999069.svg)](https://zenodo.org/badge/latestdoi/196999069) --&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://github.com/dmey/synthia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Synthia&lt;/a&gt;: multidimensional synthetic data generation in Python&lt;br&gt;
-
-&lt;a href=&#34;https://badge.fury.io/py/synthia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://badge.fury.io/py/synthia.svg&#34; alt=&#34;PyPI version&#34;&gt;&lt;/a&gt;
-
-&lt;a href=&#34;https://pepy.tech/project/synthia/month&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://pepy.tech/badge/synthia&#34; alt=&#34;Downloads&#34;&gt;&lt;/a&gt;
-
-&lt;a href=&#34;https://doi.org/10.21105/joss.02863&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://joss.theoj.org/papers/10.21105/joss.02863/status.svg&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/dmey/synthia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Synthia&lt;/a&gt;: multidimensional synthetic data generation in Python&lt;/p&gt;
+&lt;!-- [![PyPI version](https://badge.fury.io/py/synthia.svg)](https://badge.fury.io/py/synthia) --&gt;
+&lt;!-- [![Downloads](https://pepy.tech/badge/synthia)](https://pepy.tech/project/synthia/month) --&gt;
+&lt;!-- [![DOI](https://joss.theoj.org/papers/10.21105/joss.02863/status.svg)](https://doi.org/10.21105/joss.02863) --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://github.com/tnagler/RcppThread&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RcppThread&lt;/a&gt;: R-friendly threading in C++&lt;br&gt;
-&lt;img src=&#34;http://www.r-pkg.org/badges/version/RcppThread&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/grand-total/RcppThread&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/tnagler/RcppThread&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RcppThread&lt;/a&gt;: R-friendly threading in C++&lt;/p&gt;
+&lt;!-- ![CRAN version](http://www.r-pkg.org/badges/version/RcppThread) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/RcppThread) --&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/VineCopula&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VineCopula&lt;/a&gt;:
-Statistical inference of vine copulas&lt;br&gt;
-&lt;img src=&#34;http://www.r-pkg.org/badges/version/VineCopula&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/grand-total/VineCopula&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
+Statistical inference of vine copulas&lt;/p&gt;
+&lt;!-- ![CRAN version](http://www.r-pkg.org/badges/version/VineCopula) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/VineCopula) --&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/vinecopulib/rvinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rvinecopulib&lt;/a&gt;:
 R interface to the 
-&lt;a href=&#34;https://github.com/vinecopulib/vinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinecopulib&lt;/a&gt; C++ library&lt;br&gt;
-&lt;img src=&#34;http://www.r-pkg.org/badges/version/rvinecopulib&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/grand-total/rvinecopulib&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/vinecopulib/vinecopulib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinecopulib&lt;/a&gt; C++ library&lt;/p&gt;
+&lt;!-- ![CRAN version](http://www.r-pkg.org/badges/version/rvinecopulib) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/rvinecopulib) --&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/kdecopula&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kdecopula&lt;/a&gt;:
-Kernel smoothing for bivariate copula densities&lt;br&gt;
-&lt;img src=&#34;http://www.r-pkg.org/badges/version/kdecopula&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/grand-total/kdecopula&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
+Kernel smoothing for bivariate copula densities&lt;/p&gt;
+&lt;!-- ![CRAN version](http://www.r-pkg.org/badges/version/kdecopula) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/kdecopula) --&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/wdm-r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wdm&lt;/a&gt;: Weighted
-dependence measures and related independence tests
-&lt;img src=&#34;http://www.r-pkg.org/badges/version/wdm&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/grand-total/wdm&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
+dependence measures and related independence tests&lt;/p&gt;
+&lt;!-- ![CRAN version](http://www.r-pkg.org/badges/version/wdm) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/wdm) --&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/kde1d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kde1d&lt;/a&gt;:
-Univariate kernel density estimators for bounded and discrete data
-&lt;img src=&#34;http://www.r-pkg.org/badges/version/kde1d&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/grand-total/kde1d&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
+Univariate kernel density estimators for bounded and discrete data&lt;/p&gt;
+&lt;!-- ![CRAN version](http://www.r-pkg.org/badges/version/kde1d) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/kde1d) --&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/svines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;svines&lt;/a&gt;:
 Stationary vine copula models for multivariate time series&lt;/p&gt;
 &lt;!-- ![CRAN version](http://www.r-pkg.org/badges/version/svines)  --&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/vinereg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vinereg&lt;/a&gt;:
-D-vine copula quantile regression&lt;br&gt;
-&lt;img src=&#34;http://www.r-pkg.org/badges/version/vinereg&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/grand-total/vinereg&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
+D-vine copula quantile regression&lt;/p&gt;
+&lt;!-- ![CRAN version](http://www.r-pkg.org/badges/version/vinereg) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/vinereg) --&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/eecop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eecop&lt;/a&gt;:
 Copula based estimation equations&lt;/p&gt;
 &lt;!-- ![CRAN version](http://www.r-pkg.org/badges/version/eecop)  --&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/VC2copula%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VC2copula&lt;/a&gt;:
-Extend the &amp;lsquo;copula&amp;rsquo; Package with models from &amp;lsquo;VineCopula&amp;rsquo;&lt;br&gt;
-&lt;img src=&#34;http://www.r-pkg.org/badges/version/VC2copula&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/grand-total/VC2copula&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
+Extend the &amp;lsquo;copula&amp;rsquo; Package with models from &amp;lsquo;VineCopula&amp;rsquo;&lt;/p&gt;
+&lt;!-- ![CRAN version](http://www.r-pkg.org/badges/version/VC2copula) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/VC2copula) --&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tnagler/kdevine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kdevine&lt;/a&gt;:
-Multivariate kernel density estimation with vine copulas&lt;br&gt;
-&lt;img src=&#34;http://www.r-pkg.org/badges/version/kdevine&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/grand-total/kdevine&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
+Multivariate kernel density estimation with vine copulas&lt;/p&gt;
+&lt;!-- ![CRAN version](http://www.r-pkg.org/badges/version/kdevine) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/kdevine) --&gt;
 &lt;!-- [cctools](https://github.com/tnagler/cctools):
 Tools for continuous convolution in nonparametric estimation  
 ![CRAN version](http://www.r-pkg.org/badges/version/cctools) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/cctools) --&gt;
@@ -362,9 +356,8 @@ Joint density classifiers
 ![CRAN version](http://www.r-pkg.org/badges/version/jdify) --&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/tvatter/gamCopula&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gamCopula&lt;/a&gt;:
-Generalized additive models for bivariate conditional dependence structures and vine copulas&lt;br&gt;
-&lt;img src=&#34;http://www.r-pkg.org/badges/version/gamCopula&#34; alt=&#34;CRAN version&#34;&gt; &lt;img src=&#34;http://cranlogs.r-pkg.org/badges/grand-total/gamCopula&#34; alt=&#34;CRAN downloads&#34;&gt;&lt;/p&gt;
-</description>
+Generalized additive models for bivariate conditional dependence structures and vine copulas&lt;/p&gt;
+&lt;!-- ![CRAN version](http://www.r-pkg.org/badges/version/gamCopula) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/gamCopula) --&gt;</description>
     </item>
     
     <item>
