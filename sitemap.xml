@@ -33,11 +33,6 @@
   </url>
   
   <url>
-    <loc>https://tnagler.com/vacancies/</loc>
-    <lastmod>2022-04-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tnagler.com/teaching/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url>
@@ -45,6 +40,11 @@
   <url>
     <loc>https://tnagler.com/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tnagler.com/vacancies/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
