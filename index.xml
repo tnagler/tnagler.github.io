@@ -62,14 +62,18 @@
       <description>&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
 &lt;p&gt;T. Nagler, T. Vatter. Solving estimating equations with copulas. 
 &lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;K. Lotto, T. Nagler, M. Radic.
+Modeling Stochastic Data Using Copulas For Application in Validation of Autonomous Driving.
+
+&lt;a href=&#34;http://arxiv.org/abs/2210.13117&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;journal-and-conference-papers&#34;&gt;Journal and conference papers&lt;/h2&gt;
 &lt;h4 id=&#34;2022&#34;&gt;2022&lt;/h4&gt;
-&lt;p&gt;T. Nguyen-Huy, J. Kath, T. Nagler, Y. Khaung, T.S.S. Aung, S. Mushtaq, T. Marcussen, R. Stone.
-A satellite-based Standardized Antecedent Precipitation Index (SAPI) for mapping extreme rainfall risk in Myanmar.
-&lt;em&gt;Remote Sensing Applications: Society and Environment&lt;/em&gt;, 26 
-&lt;a href=&#34;https://doi.org/10.1016/j.rsase.2022.100733&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
-&lt;a href=&#34;https://pure.tudelft.nl/ws/files/117912721/1_s2.0_S2352938522000416_main.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;C. Czado, K. Bax, Ö. Sahin, T. Nagler, A. Min, S. Paterlini.
+Vine copula based dependence modeling in sustainable finance.
+&lt;em&gt;The Journal of Finance and Data Science&lt;/em&gt; (in press) 
+&lt;a href=&#34;https://doi.org/10.1016/j.jfds.2022.11.003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
+&lt;a href=&#34;https://reader.elsevier.com/reader/sd/pii/S2405918822000162?token=E8BFC7734FEAFD473AB3B49A88D7AEE3AC94D5D7446909CF12D61785F5DFB6F1A4479A2D3786AA7A5A8EB2C209E8B574&amp;amp;originRegion=eu-west-1&amp;amp;originCreation=20221117161144&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;T. Nagler, D. Krüger, A. Min.
 Stationary vine copula models for multivariate time series.
 &lt;em&gt;Journal of Econometrics, 227(2), pp. 305-324&lt;/em&gt; 
@@ -81,6 +85,11 @@ Vine copula based modeling.
 &lt;em&gt;Annual Review of Statistics and Its Application 9, pp. 453-477&lt;/em&gt; 
 &lt;a href=&#34;http://www.annualreviews.org/eprint/DMMEJGSBDRJ8NQIM3CVY/full/10.1146/annurev-statistics-040220-101153&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;http://www.annualreviews.org/eprint/DMMEJGSBDRJ8NQIM3CVY/full/10.1146/annurev-statistics-040220-101153&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;T. Nguyen-Huy, J. Kath, T. Nagler, Y. Khaung, T.S.S. Aung, S. Mushtaq, T. Marcussen, R. Stone.
+A satellite-based Standardized Antecedent Precipitation Index (SAPI) for mapping extreme rainfall risk in Myanmar.
+&lt;em&gt;Remote Sensing Applications: Society and Environment&lt;/em&gt;, 26 
+&lt;a href=&#34;https://doi.org/10.1016/j.rsase.2022.100733&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
+&lt;a href=&#34;https://pure.tudelft.nl/ws/files/117912721/1_s2.0_S2352938522000416_main.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2021&#34;&gt;2021&lt;/h4&gt;
 &lt;p&gt;D. Meyer, T. Nagler.
 Synthia: multidimensional synthetic data generation in Python.
