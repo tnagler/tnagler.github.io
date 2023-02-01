@@ -60,10 +60,13 @@
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/publications/</guid>
       <description>&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
-&lt;p&gt;T. Nagler, T. Vatter. Solving estimating equations with copulas. 
-&lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
+&lt;p&gt;T. Nagler. Statistical foundations of prior-data fitted
+networks. 
+&lt;a href=&#34;../pfn-theory.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;journal-and-conference-papers&#34;&gt;Journal and conference papers&lt;/h2&gt;
+&lt;h4 id=&#34;2023&#34;&gt;2023&lt;/h4&gt;
+&lt;p&gt;T. Nagler, T. Vatter. Solving estimating equations with copulas. &lt;em&gt;Journal of the American Statistical Association (to appear)&lt;/em&gt; 
+&lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2022&#34;&gt;2022&lt;/h4&gt;
 &lt;p&gt;C. Czado, K. Bax, Ö. Sahin, T. Nagler, A. Min, S. Paterlini.
 Vine copula based dependence modeling in sustainable finance.
@@ -316,13 +319,9 @@ Generalized additive models for bivariate conditional dependence structures and 
 &lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
 &lt;h4 id=&#34;lmu-munich-2022-&#34;&gt;LMU Munich (2022-)&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Fortgeschrittene Mathematische Methoden in der Statistik&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Methoden der Linearen Algebra in der Statistik 
-&lt;a href=&#34;../linalg-2022.pdf&#34;&gt;[Skript]&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Fortgeschrittene Mathematische Methoden in der Statistik&lt;/li&gt;
+&lt;li&gt;Methoden der Linearen Algebra in der Statistik 
+&lt;a href=&#34;../linalg-2022.pdf&#34;&gt;[Skript]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;tu-delft-2021-2022&#34;&gt;TU Delft (2021-2022)&lt;/h4&gt;
 &lt;ul&gt;
