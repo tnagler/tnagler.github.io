@@ -1,70 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://tnagler.com/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tnagler.com/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tnagler.com/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tnagler.com/publications/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tnagler.com/software/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tnagler.com/</loc>
-    <lastmod>2022-04-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tnagler.com/teaching/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tnagler.com/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://tnagler.com/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://tnagler.com/vacancies/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tnagler.com/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tnagler.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tnagler.com/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tnagler.com/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tnagler.com/author/thomas-nagler/</loc>
   </url>
-  
 </urlset>
