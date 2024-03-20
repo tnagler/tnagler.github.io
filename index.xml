@@ -70,7 +70,7 @@ An Online Bootstrap for Time Series. &lt;em&gt;AISTATS (accepted)&lt;/em&gt;
 &lt;p&gt;L. Zwep. T. Guo, T. Nagler, C. A.J. Knibbe, J. J. Meulman, J. G. Coen van Hasselt. Virtual Patient Simulation Using Copula Modeling.
 &lt;em&gt;Clinical Pharmacology &amp;amp; Therapeutics.&lt;/em&gt; 
 &lt;a href=&#34;https://ascpt.onlinelibrary.wiley.com/doi/epdf/10.1002/cpt.3099&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;  
-&lt;a href=&#34;https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.3099&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://doi.org/10.1002/cpt.3099&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;J. Rodemann, J. Goschenhofer, E. Dorigatti, T. Nagler, T. Augustin.
 Approximately Bayes-Optimal Pseudo Label Selection. &lt;em&gt;The 39th Conference on Uncertainty in Artificial Intelligence (UAI 2023)&lt;/em&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/2302.08883&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
@@ -98,7 +98,7 @@ Stationary vine copula models for multivariate time series.
 Vine copula based modeling.
 &lt;em&gt;Annual Review of Statistics and Its Application 9, pp. 453-477&lt;/em&gt; 
 &lt;a href=&#34;http://www.annualreviews.org/eprint/DMMEJGSBDRJ8NQIM3CVY/full/10.1146/annurev-statistics-040220-101153&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
-&lt;a href=&#34;http://www.annualreviews.org/eprint/DMMEJGSBDRJ8NQIM3CVY/full/10.1146/annurev-statistics-040220-101153&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;../vine-arisa.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;K. Lotto, T. Nagler, M. Radic.
 Modeling Stochastic Data Using Copulas For Application in Validation of Autonomous Driving. &lt;em&gt;Electronics, 11(24):4154&lt;/em&gt; 
 &lt;a href=&#34;https://www.mdpi.com/2079-9292/11/24/4154&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
