@@ -60,21 +60,29 @@
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/publications/</guid>
       <description>&lt;h4 id=&#34;2024&#34;&gt;2024&lt;/h4&gt;
-&lt;p&gt;D. Rügamer, C. Kolb, T. Weber, L. Kook, T. Nagler.
-Generalizing Orthogonalization for Models with Non-linearities.
-&lt;em&gt;The 41st International Conference on Machine Learning (ICML)&lt;/em&gt;. 
-&lt;a href=&#34;../generalizing-ortho.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Y. Sale, P. Hofman, T. Löhr, L. Wimmer, T. Nagler, E. Hüllermeier. Label-wise Aleatoric and Epistemic Uncertainty Quantification.
-&lt;em&gt;The 40th Conference on Uncertainty in Artificial Intelligence (UAI)&lt;/em&gt;
+&lt;p&gt;T. Nagler, L. Schneider, B. Bischl, M. Feurer.
+Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization. &lt;em&gt;Preprint&lt;/em&gt;
 
-&lt;a href=&#34;../686_label_wise_aleatoric_and_epist.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2405.15393&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;N. Palm, T. Nagler.
 An Online Bootstrap for Time Series. &lt;em&gt;The 27th International Conference on Artificial Intelligence and Statistics (AISTATS)&lt;/em&gt;
 
 &lt;a href=&#34;https://arxiv.org/abs/2310.19683&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;D. Rügamer, C. Kolb, T. Weber, L. Kook, T. Nagler.
+Generalizing Orthogonalization for Models with Non-linearities.
+&lt;em&gt;The 41st International Conference on Machine Learning (ICML)&lt;/em&gt;. 
+&lt;a href=&#34;https://arxiv.org/abs/2405.02475&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Y. Sale, P. Hofman, T. Löhr, L. Wimmer, T. Nagler, E. Hüllermeier. Label-wise Aleatoric and Epistemic Uncertainty Quantification.
+&lt;em&gt;The 40th Conference on Uncertainty in Artificial Intelligence (UAI)&lt;/em&gt;
+
+&lt;a href=&#34;http://arxiv.org/abs/2406.02354&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;D. Rundel, J. Kobialka, C. von Crailsheim, M. Feurer, T. Nagler, D. Rügamer. Interpretable Machine Learning for TabPFN. &lt;em&gt;The 2nd World Conference on eXplainable Artificial Intelligence (XAI)&lt;/em&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/2403.10923&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2023&#34;&gt;2023&lt;/h4&gt;
+&lt;p&gt;T. Nagler, T. Vatter. Solving estimating equations with copulas.
+&lt;em&gt;Journal of the American Statistical Association&lt;/em&gt; 119(546), 1168–1180. 
+&lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt; 
+&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2177545&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Y. Sale, P. Hofman, L. Wimmer, E. Hüllermeier, T. Nagler. Second-Order Uncertainty Quantification: Variance-Based Measures. &lt;em&gt;preprint&lt;/em&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/2401.00276&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;L. Zwep. T. Guo, T. Nagler, C. A.J. Knibbe, J. J. Meulman, J. G. Coen van Hasselt. Virtual Patient Simulation Using Copula Modeling.
@@ -88,10 +96,6 @@ Approximately Bayes-Optimal Pseudo Label Selection. &lt;em&gt;The 39th Conferenc
 networks. &lt;em&gt;Proceedings of the 40th International Conference on Machine Learning (ICML), PMLR 202:25660-25676, 2023.&lt;/em&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/2305.11097&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;  
 &lt;a href=&#34;https://proceedings.mlr.press/v202/nagler23a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;T. Nagler, T. Vatter. Solving estimating equations with copulas.
-&lt;em&gt;Journal of the American Statistical Association (to appear)&lt;/em&gt; 
-&lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt; 
-&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2177545&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2022&#34;&gt;2022&lt;/h4&gt;
 &lt;p&gt;C. Czado, K. Bax, Ö. Sahin, T. Nagler, A. Min, S. Paterlini.
 Vine copula based dependence modeling in sustainable finance.
