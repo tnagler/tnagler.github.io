@@ -59,188 +59,208 @@
       <link>https://tnagler.com/publications/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/publications/</guid>
-      <description>&lt;h4 id=&#34;2024&#34;&gt;2024&lt;/h4&gt;
-&lt;p&gt;T. Nagler, L. Schneider, B. Bischl, M. Feurer.
-Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization. &lt;em&gt;preprint&lt;/em&gt;
+      <description>&lt;h4 id=&#34;preprints&#34;&gt;Preprints&lt;/h4&gt;
+&lt;p&gt;Herbinger, Wright, Nagler, Bischl, and Casalicchio.
+&lt;strong&gt;Decomposing Global Feature Effects Based on Feature Interactions.&lt;/strong&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/2306.00541&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nagler, Schneider, Bischl, and Feurer.
+&lt;strong&gt;Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization.&lt;/strong&gt;
 
 &lt;a href=&#34;https://arxiv.org/abs/2405.15393&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;D. Rügamer, C. Kolb, T. Weber, L. Kook, T. Nagler.
-Generalizing Orthogonalization for Models with Non-linearities.
+&lt;h4 id=&#34;2024&#34;&gt;2024&lt;/h4&gt;
+&lt;p&gt;Palm and Nagler.
+&lt;strong&gt;An Online Bootstrap for Time Series.&lt;/strong&gt;
+&lt;em&gt;The 27th International Conference on Artificial Intelligence and Statistics (AISTATS)&lt;/em&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/2310.19683&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt; 
+&lt;a href=&#34;https://proceedings.mlr.press/v238/palm24a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Rügamer, Kolb, Weber, Kook, and Nagler.
+&lt;strong&gt;Generalizing Orthogonalization for Models with Non-linearities.&lt;/strong&gt;
 &lt;em&gt;The 41st International Conference on Machine Learning (ICML)&lt;/em&gt;. 
 &lt;a href=&#34;https://arxiv.org/abs/2405.02475&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Y. Sale, P. Hofman, T. Löhr, L. Wimmer, T. Nagler, E. Hüllermeier. Label-wise Aleatoric and Epistemic Uncertainty Quantification.
+&lt;p&gt;Sale, Hofman, Löhr, Wimmer, Nagler, and Hüllermeier.
+&lt;strong&gt;Label-wise Aleatoric and Epistemic Uncertainty Quantification.&lt;/strong&gt;
 &lt;em&gt;The 40th Conference on Uncertainty in Artificial Intelligence (UAI)&lt;/em&gt;
 
 &lt;a href=&#34;http://arxiv.org/abs/2406.02354&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;N. Palm, T. Nagler.
-An Online Bootstrap for Time Series. &lt;em&gt;The 27th International Conference on Artificial Intelligence and Statistics (AISTATS)&lt;/em&gt;
-
-&lt;a href=&#34;https://arxiv.org/abs/2310.19683&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;D. Rundel, J. Kobialka, C. von Crailsheim, M. Feurer, T. Nagler, D. Rügamer. Interpretable Machine Learning for TabPFN. &lt;em&gt;The 2nd World Conference on eXplainable Artificial Intelligence (XAI)&lt;/em&gt; 
-&lt;a href=&#34;https://arxiv.org/abs/2403.10923&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Rundel, Kobialka, von Crailsheim, Feurer, Nagler, and Rügamer.
+&lt;strong&gt;Interpretable Machine Learning for TabPFN.&lt;/strong&gt;
+&lt;em&gt;The 2nd World Conference on eXplainable Artificial Intelligence (XAI)&lt;/em&gt; 
+&lt;a href=&#34;https://arxiv.org/abs/2403.10923&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt; 
+&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-031-63797-1_23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2023&#34;&gt;2023&lt;/h4&gt;
-&lt;p&gt;Y. Sale, P. Hofman, L. Wimmer, E. Hüllermeier, T. Nagler. Second-Order Uncertainty Quantification: Variance-Based Measures. &lt;em&gt;preprint&lt;/em&gt; 
-&lt;a href=&#34;https://arxiv.org/abs/2401.00276&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;L. Zwep. T. Guo, T. Nagler, C. A.J. Knibbe, J. J. Meulman, J. G. Coen van Hasselt. Virtual Patient Simulation Using Copula Modeling.
+&lt;p&gt;Nagler and Vatter.
+&lt;strong&gt;Solving estimating equations with copulas.&lt;/strong&gt;
+&lt;em&gt;Journal of the American Statistical Association&lt;/em&gt; 119(546), 1168–1180. 
+&lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt; 
+&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2177545&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nagler.
+&lt;strong&gt;Statistical foundations of prior-data fitted networks.&lt;/strong&gt;
+&lt;em&gt;The 40th International Conference on Machine Learning (ICML), PMLR 202:25660-25676, 2023.&lt;/em&gt; 
+&lt;a href=&#34;https://arxiv.org/abs/2305.11097&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;  
+&lt;a href=&#34;https://proceedings.mlr.press/v202/nagler23a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Rodemann, Goschenhofer, Dorigatti, Nagler, and Augustin.
+&lt;strong&gt;Approximately Bayes-Optimal Pseudo Label Selection.&lt;/strong&gt;
+&lt;em&gt;The 39th Conference on Uncertainty in Artificial Intelligence (UAI)&lt;/em&gt; 
+&lt;a href=&#34;https://proceedings.mlr.press/v216/rodemann23a/rodemann23a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt; 
+&lt;a href=&#34;https://proceedings.mlr.press/v216/rodemann23a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Zwep, Guo, Nagler, Knibbe, Meulman, and van Hasselt.
+&lt;strong&gt;Virtual Patient Simulation Using Copula Modeling.&lt;/strong&gt;
 &lt;em&gt;Clinical Pharmacology &amp;amp; Therapeutics.&lt;/em&gt; 
 &lt;a href=&#34;https://ascpt.onlinelibrary.wiley.com/doi/epdf/10.1002/cpt.3099&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;  
 &lt;a href=&#34;https://doi.org/10.1002/cpt.3099&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;J. Rodemann, J. Goschenhofer, E. Dorigatti, T. Nagler, T. Augustin.
-Approximately Bayes-Optimal Pseudo Label Selection. &lt;em&gt;The 39th Conference on Uncertainty in Artificial Intelligence (UAI)&lt;/em&gt; 
-&lt;a href=&#34;https://arxiv.org/abs/2302.08883&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;T. Nagler. Statistical foundations of prior-data fitted
-networks. &lt;em&gt;Proceedings of the 40th International Conference on Machine Learning (ICML), PMLR 202:25660-25676, 2023.&lt;/em&gt; 
-&lt;a href=&#34;https://arxiv.org/abs/2305.11097&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;  
-&lt;a href=&#34;https://proceedings.mlr.press/v202/nagler23a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;T. Nagler, T. Vatter. Solving estimating equations with copulas.
-&lt;em&gt;Journal of the American Statistical Association (to appear)&lt;/em&gt; 
-&lt;a href=&#34;http://arxiv.org/abs/1801.10576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt; 
-&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2177545&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sale, Hofman, Wimmer, Hüllermeier, and Nagler.
+&lt;strong&gt;Second-Order Uncertainty Quantification: Variance-Based Measures.&lt;/strong&gt;
+&lt;em&gt;Research report&lt;/em&gt; 
+&lt;a href=&#34;https://arxiv.org/abs/2401.00276&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2022&#34;&gt;2022&lt;/h4&gt;
-&lt;p&gt;C. Czado, K. Bax, Ö. Sahin, T. Nagler, A. Min, S. Paterlini.
-Vine copula based dependence modeling in sustainable finance.
-&lt;em&gt;The Journal of Finance and Data Science, 8:309.-330&lt;/em&gt; 
-&lt;a href=&#34;https://doi.org/10.1016/j.jfds.2022.11.003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
-&lt;a href=&#34;https://reader.elsevier.com/reader/sd/pii/S2405918822000162?token=E8BFC7734FEAFD473AB3B49A88D7AEE3AC94D5D7446909CF12D61785F5DFB6F1A4479A2D3786AA7A5A8EB2C209E8B574&amp;amp;originRegion=eu-west-1&amp;amp;originCreation=20221117161144&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;T. Nagler, D. Krüger, A. Min.
-Stationary vine copula models for multivariate time series.
+&lt;p&gt;Nagler, Krüger, and Min.
+&lt;strong&gt;Stationary vine copula models for multivariate time series.&lt;/strong&gt;
 &lt;em&gt;Journal of Econometrics, 227(2):305-324&lt;/em&gt; 
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0304407621003043&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0304407621003043/pdfft?md5=e36d67f4b050cf9813f5fdbe51578b08&amp;amp;pid=1-s2.0-S0304407621003043-main.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;  
 &lt;a href=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0304407621003043-mmc1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[suppl.]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;C. Czado, T. Nagler.
-Vine copula based modeling.
+&lt;p&gt;Czado and Nagler.
+&lt;strong&gt;Vine copula based modeling.&lt;/strong&gt;
 &lt;em&gt;Annual Review of Statistics and Its Application 9, pp. 453-477&lt;/em&gt; 
 &lt;a href=&#34;http://www.annualreviews.org/eprint/DMMEJGSBDRJ8NQIM3CVY/full/10.1146/annurev-statistics-040220-101153&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;../vine-arisa.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;K. Lotto, T. Nagler, M. Radic.
-Modeling Stochastic Data Using Copulas For Application in Validation of Autonomous Driving. &lt;em&gt;Electronics, 11(24):4154&lt;/em&gt; 
+&lt;p&gt;Czado, Bax, Sahin, Nagler, Min, and Paterlini.
+&lt;strong&gt;Vine copula based dependence modeling in sustainable finance.&lt;/strong&gt;
+&lt;em&gt;The Journal of Finance and Data Science, 8:309.-330&lt;/em&gt; 
+&lt;a href=&#34;https://doi.org/10.1016/j.jfds.2022.11.003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
+&lt;a href=&#34;https://reader.elsevier.com/reader/sd/pii/S2405918822000162?token=E8BFC7734FEAFD473AB3B49A88D7AEE3AC94D5D7446909CF12D61785F5DFB6F1A4479A2D3786AA7A5A8EB2C209E8B574&amp;amp;originRegion=eu-west-1&amp;amp;originCreation=20221117161144&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lotto, Nagler, and Radic.
+&lt;strong&gt;Modeling Stochastic Data Using Copulas For Application in Validation of Autonomous Driving.&lt;/strong&gt;
+&lt;em&gt;Electronics, 11(24):4154&lt;/em&gt; 
 &lt;a href=&#34;https://www.mdpi.com/2079-9292/11/24/4154&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;https://www.mdpi.com/2079-9292/11/24/4154/pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;T. Nguyen-Huy, J. Kath, T. Nagler, Y. Khaung, T.S.S. Aung, S. Mushtaq, T. Marcussen, R. Stone.
-A satellite-based Standardized Antecedent Precipitation Index (SAPI) for mapping extreme rainfall risk in Myanmar.
+&lt;p&gt;Nguyen-Huy, Kath, Nagler, Khaung, Aung, Mushtaq, Marcussen, and Stone.
+&lt;strong&gt;A satellite-based Standardized Antecedent Precipitation Index (SAPI) for mapping extreme rainfall risk in Myanmar.&lt;/strong&gt;
 &lt;em&gt;Remote Sensing Applications: Society and Environment&lt;/em&gt;, 26 
 &lt;a href=&#34;https://doi.org/10.1016/j.rsase.2022.100733&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;https://pure.tudelft.nl/ws/files/117912721/1_s2.0_S2352938522000416_main.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2021&#34;&gt;2021&lt;/h4&gt;
-&lt;p&gt;D. Meyer, T. Nagler.
-Synthia: multidimensional synthetic data generation in Python.
-&lt;em&gt;Journal of Open Source Software, 6(65), 2863&lt;/em&gt; 
-&lt;a href=&#34;https://joss.theoj.org/papers/10.21105/joss.02863&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
-&lt;a href=&#34;https://joss.theoj.org/papers/10.21105/joss.02863&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;D. Meyer, T. Nagler, R.J. Hogan.
-Copula-based synthetic data augmentation for machine learning emulators.
+&lt;p&gt;Meyer, Nagler, and Hogan.
+&lt;strong&gt;Copula-based synthetic data augmentation for machine learning emulators.&lt;/strong&gt;
 &lt;em&gt;Geoscientific Model Development 14(8):5205–5215&lt;/em&gt;  
 &lt;a href=&#34;https://gmd.copernicus.org/articles/14/5205/2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;  
 &lt;a href=&#34;https://arxiv.org/abs/2012.09037&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;K. Aas, T. Nagler, M. Jullum, A. Løland.
-Explaining predictive models using Shapley values and non-parametric vine copulas.
+&lt;p&gt;Aas, Nagler, Jullum, and Løland.
+&lt;strong&gt;Explaining predictive models using Shapley values and non-parametric vine copulas.&lt;/strong&gt;
 &lt;em&gt;Dependence Modeling, 9:62&amp;ndash;81&lt;/em&gt; 
 &lt;a href=&#34;https://doi.org/10.1515/demo-2021-0103&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;https://doi.org/10.1515/demo-2021-0103&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;T. Nagler.
-R-friendly multi-threading in C++.
+&lt;p&gt;Nagler.
+&lt;strong&gt;R-friendly multi-threading in C++.&lt;/strong&gt;
 &lt;em&gt;Journal of Statistical Software, 97(c1)&lt;/em&gt;  
 &lt;a href=&#34;https://www.jstatsoft.org/article/view/v097c01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;https://www.jstatsoft.org/article/view/v097c01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meyer and Nagler.
+&lt;strong&gt;Synthia: multidimensional synthetic data generation in Python.&lt;/strong&gt;
+&lt;em&gt;Journal of Open Source Software, 6(65), 2863&lt;/em&gt; 
+&lt;a href=&#34;https://joss.theoj.org/papers/10.21105/joss.02863&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
+&lt;a href=&#34;https://joss.theoj.org/papers/10.21105/joss.02863&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2020&#34;&gt;2020&lt;/h4&gt;
-&lt;p&gt;R. Vio, T. Nagler, P. Andreani.
-Modeling high-dimensional dependence among astronomical data.
+&lt;p&gt;Vio, Nagler, and Andreani.
+&lt;strong&gt;Modeling high-dimensional dependence among astronomical data.&lt;/strong&gt;
 &lt;em&gt;Astronomy &amp;amp; Astrophysics, 642, A156&lt;/em&gt; 
 &lt;a href=&#34;https://www.aanda.org/articles/aa/abs/2020/10/aa38585-20/aa38585-20.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;https://www.aanda.org/articles/aa/pdf/2020/10/aa38585-20.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;T.K. Eggersmann,  P. Baumeister, J. Kumbringk, D. Mayr, E. Schmoeckel, C.J. Thaler, C. Dannecker,  U. Jeschke, T. Nagler, S. Mahner,  K. Sharaf, J.K.S. Gallwas.
-Oropharyngeal HPV Detection Techniques in HPV-associated Head and Neck Cancer Patients.
+&lt;p&gt;Eggersmann,  Baumeister, Kumbringk, Mayr, Schmoeckel, Thaler, Dannecker, Jeschke, Nagler, Mahner, Sharaf, and Gallwas.
+&lt;strong&gt;Oropharyngeal HPV Detection Techniques in HPV-associated Head and Neck Cancer Patients.&lt;/strong&gt;
 &lt;em&gt;Anticancer Research, 40(4):2117-2123&lt;/em&gt; 
 &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/32234904?dopt=Abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2019&#34;&gt;2019&lt;/h4&gt;
-&lt;p&gt;T. Nagler, C. Bumann, C. Czado.
-Model selection for sparse high-dimensional vine copulas with application to portfolio risk.
+&lt;p&gt;Nagler, Bumann, and Czado.
+&lt;strong&gt;Model selection for sparse high-dimensional vine copulas with application to portfolio risk.&lt;/strong&gt;
 &lt;em&gt;Journal of Multivariate Analysis, 172: 180-192&lt;/em&gt;
 
 &lt;a href=&#34;https://doi.org/10.1016/j.jmva.2019.03.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/1801.09739&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;W.S. Jäger, T. Nagler, C. Czado, R.T. McCall.
-A statistical simulation method for joint time series of non-stationary hourly wave parameters.
+&lt;p&gt;Jäger, Nagler, Czado, and McCall.
+&lt;strong&gt;A statistical simulation method for joint time series of non-stationary hourly wave parameters.&lt;/strong&gt;
 &lt;em&gt;Coastal Engineering, 146: 14-31&lt;/em&gt; 
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0378383918301777&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;http://arxiv.org/abs/1810.12389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2018&#34;&gt;2018&lt;/h4&gt;
-&lt;p&gt;J. Urbano, T. Nagler.
-Stochastic simulation of test collections: evaluation scores.
+&lt;p&gt;Urbano and Nagler.
+&lt;strong&gt;Stochastic simulation of test collections: evaluation scores.&lt;/strong&gt;
 &lt;em&gt;The 41st International ACM SIGIR Conference on Research &amp;amp; Development in Information Retrieval, p. 695-704&lt;/em&gt;
 
 &lt;a href=&#34;https://dl.acm.org/citation.cfm?doid=3209978.3210043&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;http://julian-urbano.info/files/publications/065-stochastic-simulation-test-collections-evaluation-scores.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;L. Höhndorf, T. Nagler, P. Koppitz, C. Czado, F. Holzapfel.
-Statistical dependence analyses of operational flight data used for landing reconstruction enhancement.
-&lt;em&gt;The 22nd Air Transport Research Society World Conference&lt;/em&gt; (ATRS 2018) 
-&lt;a href=&#34;https://arxiv.org/pdf/2206.09809.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;T. Vatter and T. Nagler.
-Generalized additive models for pair-copula constructions.
+&lt;p&gt;Vatter and Nagler.
+&lt;strong&gt;Generalized additive models for pair-copula constructions.&lt;/strong&gt;
 &lt;em&gt;Journal of Computational and Graphical Statistics, 27(4): 715-727&lt;/em&gt; 
 &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1451338&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/1608.01593&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;T. Nagler.
-A generic approach to nonparametric function estimation with mixed data.
+&lt;p&gt;Nagler.
+&lt;strong&gt;A generic approach to nonparametric function estimation with mixed data.&lt;/strong&gt;
 &lt;em&gt;Statistics &amp;amp; Probability Letters, 137:326–330&lt;/em&gt;
 
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0167715218300853&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/1704.07457&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;T. Nagler.
-Asymptotic analysis of the jittering kernel density estimator.
+&lt;p&gt;Nagler.
+&lt;strong&gt;Asymptotic analysis of the jittering kernel density estimator.&lt;/strong&gt;
 &lt;em&gt;Mathematical Methods of Statistics, 27(1): 32-46&lt;/em&gt;
 
 &lt;a href=&#34;https://link.springer.com/article/10.3103/S1066530718010027&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/1705.05431&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;T. Nagler.
-kdecopula: An R package for the kernel estimation of copula densities.
+&lt;p&gt;Nagler.
+&lt;strong&gt;kdecopula: An R package for the kernel estimation of copula densities.&lt;/strong&gt;
 &lt;em&gt;Journal of Statistical Software, 48(7)&lt;/em&gt;
 
 &lt;a href=&#34;https://www.jstatsoft.org/article/view/v084i07&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;hhttps://www.jstatsoft.org/index.php/jss/article/view/v084i07/1211&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;C. Czado, D. Müller, T. Nagler.
-Dependence modelling in ultra high dimensions with vine copulas.&lt;br&gt;
+&lt;p&gt;Höhndorf, Nagler, Koppitz, Czado, and Holzapfel.
+&lt;strong&gt;Statistical dependence analyses of operational flight data used for landing reconstruction enhancement.&lt;/strong&gt;
+&lt;em&gt;The 22nd Air Transport Research Society World Conference&lt;/em&gt; (ATRS 2018) 
+&lt;a href=&#34;https://arxiv.org/pdf/2206.09809.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Czado, Müller, and Nagler.
+&lt;strong&gt;Dependence modelling in ultra high dimensions with vine copulas.&lt;/strong&gt;&lt;br&gt;
 Book chapter in &lt;em&gt;High Performance Computing in Science and Engineering - on the Tier-2 System CoolMUC; Garching/Munich 2018&lt;/em&gt; 
 &lt;a href=&#34;https://mediatum.ub.tum.de/doc/1439506/1439506.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;A. Möller, L. Spazzini, D. Kraus, T. Nagler, C. Czado.
-Vine copula based post-processing of ensemble forecasts for temperature.
+&lt;p&gt;Möller, Spazzini, Kraus, Nagler, and Czado.
+&lt;strong&gt;Vine copula based post-processing of ensemble forecasts for temperature.&lt;/strong&gt;
 &lt;em&gt;Research report&lt;/em&gt; 
 &lt;a href=&#34;http://arxiv.org/abs/1811.02255&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;N. Schallhorn, D. Kraus, T. Nagler and C. Czado.
-D-vine quantile regression with discrete variables.
+&lt;p&gt;Schallhorn, Kraus, Nagler, and Czado.
+&lt;strong&gt;D-vine quantile regression with discrete variables.&lt;/strong&gt;
 &lt;em&gt;Research report&lt;/em&gt; 
 &lt;a href=&#34;http://arxiv.org/abs/1705.08310&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;T. Nagler.
-Nonparametric estimation in simplified vine copula models.
+&lt;p&gt;Nagler.
+&lt;strong&gt;Nonparametric estimation in simplified vine copula models.&lt;/strong&gt;
 &lt;em&gt;PhD thesis, Technical University of Munich&lt;/em&gt; 
 &lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1447138&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2017&#34;&gt;2017&lt;/h4&gt;
-&lt;p&gt;T. Nagler, Schellhase, C. and C. Czado.
-Nonparametric estimation of simplified vine copula models: comparison of methods.
+&lt;p&gt;Nagler, Schellhase, and Czado.
+&lt;strong&gt;Nonparametric estimation of simplified vine copula models: comparison of methods.&lt;/strong&gt;
 &lt;em&gt;Dependence Modeling, 5:99-120&lt;/em&gt;
 
 &lt;a href=&#34;https://www.degruyter.com/view/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.xml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;https://www.degruyter.com/document/doi/10.1515/demo-2017-0007/pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;T. Nagler.
-Comment on &amp;ldquo;A coupled stochastic rainfall-evapotranspiration model for
-hydrological impact analysis&amp;rdquo; by Minh Tu Pham et al.
+&lt;p&gt;Nagler.
+&lt;strong&gt;Comment on &amp;ldquo;A coupled stochastic rainfall-evapotranspiration model for
+hydrological impact analysis&amp;rdquo; by Minh Tu Pham et al.&lt;/strong&gt;
 &lt;em&gt;Interactive comment on Hydrol. Earth Syst. Sci. Discuss.&lt;/em&gt;
 
 &lt;a href=&#34;http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1-supplement.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;A. Kreuzer, T. Nagler, C. Czado. Heavy tailed spatial autocorrelation models.
+&lt;p&gt;Kreuzer, Nagler, and Czado. &lt;strong&gt;Heavy tailed spatial autocorrelation models.&lt;/strong&gt;
 &lt;em&gt;Research report&lt;/em&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/1707.03165&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2016&#34;&gt;2016&lt;/h4&gt;
-&lt;p&gt;T. Nagler. C. Czado.
-Evading the curse of dimensionality in nonparametric density estimation with simplified vine copulas.
+&lt;p&gt;Nagler and Czado.
+&lt;strong&gt;Evading the curse of dimensionality in nonparametric density estimation with simplified vine copulas.&lt;/strong&gt;
 &lt;em&gt;Journal of Multivariate Analysis, 151:69-89&lt;/em&gt;
 
 &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0047259X16300471&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;  
 &lt;a href=&#34;https://arxiv.org/abs/1503.03305&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;2014&#34;&gt;2014&lt;/h4&gt;
-&lt;p&gt;T. Nagler. Kernel methods for vine copula estimation.
+&lt;p&gt;Nagler.
+&lt;strong&gt;Kernel methods for vine copula estimation.&lt;/strong&gt;
 &lt;em&gt;Master&amp;rsquo;s thesis, Technical University of Munich&lt;/em&gt; 
 &lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1231221&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -335,49 +355,87 @@ Generalized additive models for bivariate conditional dependence structures and 
     </item>
     
     <item>
+      <title>Team</title>
+      <link>https://tnagler.com/team/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://tnagler.com/team/</guid>
+      <description>&lt;h2 id=&#34;phd-researchers&#34;&gt;PhD researchers&lt;/h2&gt;
+&lt;h3 id=&#34;nicolai-palm&#34;&gt;Nicolai Palm&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://nicolaipalm.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg&#34; alt=&#34;website&#34; width=&#34;17&#34;/&gt;&lt;/a&gt;
+
+&lt;a href=&#34;https://scholar.google.de/citations?user=yLb7pfYAAAAJ&amp;amp;hl=de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg&#34; alt=&#34;scholar&#34; width=&#34;17&#34;/&gt;&lt;/a&gt;
+
+&lt;a href=&#34;https://github.com/nicolaipalm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg&#34; alt=&#34;github&#34; width=&#34;17&#34;/&gt;&lt;/a&gt;
+
+&lt;a href=&#34;mailto:n.palm@lmu.de&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg&#34; alt=&#34;email&#34; width=&#34;17&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nico holds a BSc and MSc in Mathematics from the University of Regensburg, where he focused on algebraic topology and category theory. He is now working on bootstrap methods and limit theorems for non-stationary time series.&lt;/p&gt;
+&lt;h3 id=&#34;jana-gauß&#34;&gt;Jana Gauß&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=gJ0vhXwAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg&#34; alt=&#34;scholar&#34; width=&#34;17&#34;/&gt;&lt;/a&gt;
+
+&lt;a href=&#34;https://github.com/JanaGauss&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg&#34; alt=&#34;github&#34; width=&#34;17&#34;/&gt;&lt;/a&gt;
+
+&lt;a href=&#34;mailto:jana.gauss@stat.uni-muenchen.de&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg&#34; alt=&#34;email&#34; width=&#34;17&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jana holds a BSc and MSc in Statistics from LMU Munich. She is working on statistical inference of high-dimensional parameters, with applications to copula models and functional data.&lt;/p&gt;
+&lt;h4 id=&#34;hannah-schulz-kümpel&#34;&gt;Hannah Schulz-Kümpel&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://11annah.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg&#34; alt=&#34;website&#34; width=&#34;17&#34;/&gt;&lt;/a&gt;
+
+&lt;a href=&#34;https://11annah.github.io/publications/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg&#34; alt=&#34;scholar&#34; width=&#34;17&#34;/&gt;&lt;/a&gt;
+
+&lt;a href=&#34;https://github.com/11annah&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg&#34; alt=&#34;github&#34; width=&#34;17&#34;/&gt;&lt;/a&gt;
+
+&lt;a href=&#34;mailto:hannah.kuempel@stat.uni-muenchen.de&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg&#34; alt=&#34;email&#34; width=&#34;17&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hannah holds a BSc in Mathematics from Heidelberg University and an MSc in Statistics from LMU Munich. She is working on Bayesian Inference, interpretable ML, meta-analysis &amp;amp; reporting methods, and open science.&lt;/p&gt;
+&lt;h2 id=&#34;student-assistants&#34;&gt;Student assistants&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Eugen Gorich&lt;/li&gt;
+&lt;li&gt;Mila Pfander&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>https://tnagler.com/teaching/</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/teaching/</guid>
       <description>&lt;h2 id=&#34;current-courses&#34;&gt;Current courses&lt;/h2&gt;
-&lt;h4 id=&#34;lmu-munich-2022-&#34;&gt;LMU Munich (2022-)&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Statistical Learning Theory (Summer) 
-&lt;a href=&#34;../slt-2023.pdf&#34;&gt;[notes 2023]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Methoden der Linearen Algebra in der Statistik  (Summer) 
-&lt;a href=&#34;../linalg-2023.pdf&#34;&gt;[notes 2023]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mathematical Statistics (Winter)&lt;/li&gt;
 &lt;li&gt;Fortgeschrittene Mathematische Methoden in der Statistik (Winter)&lt;/li&gt;
+&lt;li&gt;Statistical Learning Theory (Summer) 
+&lt;a href=&#34;../slt-2024.pdf&#34;&gt;[notes 2024]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Methoden der Linearen Algebra in der Statistik  (Summer) 
+&lt;a href=&#34;../linalg-2024.pdf&#34;&gt;[notes 2024]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;university-of-lausanne-2023&#34;&gt;University of Lausanne (2023)&lt;/h4&gt;
+&lt;h2 id=&#34;lecture-notes&#34;&gt;Lecture notes&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Actuarial Data Science&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;../slt-2024.pdf&#34;&gt;Statistical Learning Theory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;../slt-2024.pdf&#34;&gt;Lineare Algebra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;../stan-2020.pdf&#34;&gt;Statistics for Astronomy and Physics students&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;past-courses&#34;&gt;Past courses&lt;/h2&gt;
-&lt;h4 id=&#34;tu-delft-2021-2022&#34;&gt;TU Delft (2021-2022)&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Time Series&lt;/li&gt;
-&lt;li&gt;Linear Algebra for Computer Science and Engineering&lt;/li&gt;
-&lt;li&gt;Calculus for Computer Science and Engineering&lt;/li&gt;
-&lt;li&gt;Calculus I for Aerospace Engineering&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;leiden-university-2019-2021&#34;&gt;Leiden University (2019-2021)&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Advanced Statistical Computing&lt;/li&gt;
-&lt;li&gt;Statistics for Astronomy and Physics students 
-&lt;a href=&#34;../stan-2020.pdf&#34;&gt;[lecture notes]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;tu-munich-2019&#34;&gt;TU Munich (2019)&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Nonparametric Statistical Learning&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- - TA for several courses and seminars --&gt;
 &lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
 &lt;!-- [Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler),  --&gt;
 &lt;p&gt;Teacher of the Year 2020, &lt;em&gt;Faculty of Science, Leiden University&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;thesis-supervision&#34;&gt;Thesis supervision&lt;/h2&gt;
-&lt;p&gt;I have supervised several student theses in mathematics and statistics (15 completed, 3 current).&lt;/p&gt;
-&lt;p&gt;LMU students interested in a project with me may send an email with a recent transcript and indication of their interests.&lt;/p&gt;
-&lt;h4 id=&#34;highlights&#34;&gt;Highlights&lt;/h4&gt;
+&lt;p&gt;My group is supervising theses at both BSc and MSc levels, on a wide range of topics. Our group&amp;rsquo;s primary interest is in developing and understanding statistical methods and models. Here&amp;rsquo;s a non-exhaustive list of areas of particular interest:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Copulas and other dependence models&lt;/li&gt;
+&lt;li&gt;Functional data analysis&lt;/li&gt;
+&lt;li&gt;Time series&lt;/li&gt;
+&lt;li&gt;Probabilistic machine learning&lt;/li&gt;
+&lt;li&gt;Statistical learning theory&lt;/li&gt;
+&lt;li&gt;Bootstrap, cross-validation, and other resampling methods&lt;/li&gt;
+&lt;li&gt;Multi-objective optimization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Of course, theses about these topics may involve applications to real problems in environmental sciences, engineering, finance, insurance, etc.&lt;/p&gt;
+&lt;p&gt;Interested LMU students may send an email with a recent transcript and indication of their interests.&lt;/p&gt;
+&lt;h4 id=&#34;past-highlights&#34;&gt;Past highlights&lt;/h4&gt;
 &lt;p&gt;A. Razawy: 
 &lt;a href=&#34;../razawy-suffdr.pdf&#34;&gt;Spline Based Estimation for Sufficient Dimension Reduction&lt;/a&gt; &lt;br&gt;
 D. Krüger:  
@@ -388,6 +446,29 @@ A. Kreuzer:
 &lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338821&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analysing the spatial dependency among fire danger indices&lt;/a&gt;&lt;br&gt;
 A. Brauer:  
 &lt;a href=&#34;https://mediatum.ub.tum.de/doc/1342845/1342845.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kernel estimation of conditional copula densities&lt;/a&gt;&lt;/p&gt;
+&lt;!-- ## Past courses
+
+#### University of Lausanne (2023)
+
+- Actuarial Data Science
+
+#### TU Delft (2021-2022)
+
+- Time Series   
+- Linear Algebra for Computer Science and Engineering   
+- Calculus for Computer Science and Engineering   
+- Calculus I for Aerospace Engineering   
+
+
+#### Leiden University (2019-2021)
+
+- Advanced Statistical Computing    
+- Statistics for Astronomy and Physics students [[lecture notes]](../stan-2020.pdf)   
+
+#### TU Munich (2019)
+
+- Nonparametric Statistical Learning  
+- TA for several courses and seminars --&gt;
 </description>
     </item>
     
