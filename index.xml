@@ -64,12 +64,12 @@
 &lt;strong&gt;Decomposing Global Feature Effects Based on Feature Interactions.&lt;/strong&gt;
 
 &lt;a href=&#34;https://arxiv.org/abs/2306.00541&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Nagler, Schneider, Bischl, and Feurer.
-&lt;strong&gt;Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization.&lt;/strong&gt;
-
-&lt;a href=&#34;https://arxiv.org/abs/2405.15393&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;2024&#34;&gt;2024&lt;/h4&gt;
+&lt;p&gt;Nagler, Schneider, Bischl, and Feurer.
+&lt;strong&gt;Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization.&lt;/strong&gt;
+&lt;em&gt;(accepted at NeurIPS 2024)&lt;/em&gt; 
+&lt;a href=&#34;https://arxiv.org/abs/2405.15393&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Palm and Nagler.
 &lt;strong&gt;An Online Bootstrap for Time Series.&lt;/strong&gt;
 &lt;em&gt;The 27th International Conference on Artificial Intelligence and Statistics (AISTATS)&lt;/em&gt;
