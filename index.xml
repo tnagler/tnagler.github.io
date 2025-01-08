@@ -67,18 +67,20 @@
 
 &lt;a href=&#34;https://arxiv.org/abs/2410.16806&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Funk, Ludwig, Kuechenhoff, and Nagler.
-&lt;strong&gt;Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas&lt;/strong&gt; 
+&lt;strong&gt;Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas.&lt;/strong&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/2410.15931&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Schulz-Kümpel, Fischer, Nagler, Boulesteix, Bischl, and Hornung.
-&lt;strong&gt;Constructing confidence intervals for &amp;lsquo;the&amp;rsquo; Generalization Error &amp;ndash; a comprehensive benchmark study&lt;/strong&gt; 
-&lt;a href=&#34;https://arxiv.org/abs/2409.18836&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;2024&#34;&gt;2024&lt;/h4&gt;
+&lt;h4 id=&#34;2025&#34;&gt;2025&lt;/h4&gt;
+&lt;p&gt;Schulz-Kümpel, Fischer, Nagler, Boulesteix, Bischl, and Hornung.
+&lt;strong&gt;Constructing confidence intervals for &amp;lsquo;the&amp;rsquo; Generalization Error &amp;ndash; a comprehensive benchmark study.&lt;/strong&gt; &lt;em&gt;Data-centric Machine Learning Research (to appear)&lt;/em&gt; 
+&lt;a href=&#34;https://arxiv.org/abs/2409.18836&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Herbinger, Wright, Nagler, Bischl, and Casalicchio.
 &lt;strong&gt;Decomposing global feature effects based on feature interactions.&lt;/strong&gt;
 &lt;em&gt;Journal of Machine Learning Research (to appear)&lt;/em&gt;
 
 &lt;a href=&#34;https://arxiv.org/abs/2306.00541&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;2024&#34;&gt;2024&lt;/h4&gt;
 &lt;p&gt;Nagler, Schneider, Bischl, and Feurer.
 &lt;strong&gt;Reshuffling resampling splits can improve generalization of hyperparameter optimization.&lt;/strong&gt;
 &lt;em&gt;Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS)&lt;/em&gt; 
@@ -441,6 +443,8 @@ Generalized additive models for bivariate conditional dependence structures and 
 &lt;hr&gt;
 &lt;h2 id=&#34;lecture-notes&#34;&gt;Lecture notes&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;../mathstat-lmu-2024.pdf&#34;&gt;Mathematical Statistics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;../slt-2024.pdf&#34;&gt;Statistical Learning Theory&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
