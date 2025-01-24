@@ -74,13 +74,12 @@
 &lt;p&gt;Schulz-Kümpel, Fischer, Hornung, Boulesteix, Nagler, and Bischl.
 &lt;strong&gt;Constructing confidence intervals for &amp;lsquo;the&amp;rsquo; Generalization Error &amp;ndash; a comprehensive benchmark study.&lt;/strong&gt; &lt;em&gt;Data-centric Machine Learning Research (to appear)&lt;/em&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/2409.18836&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Herbinger, Wright, Nagler, Bischl, and Casalicchio.
-&lt;strong&gt;Decomposing global feature effects based on feature interactions.&lt;/strong&gt;
-&lt;em&gt;Journal of Machine Learning Research (to appear)&lt;/em&gt;
-
-&lt;a href=&#34;https://arxiv.org/abs/2306.00541&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;2024&#34;&gt;2024&lt;/h4&gt;
+&lt;p&gt;Herbinger, Wright, Nagler, Bischl, and Casalicchio.
+&lt;strong&gt;Decomposing global feature effects based on feature interactions.&lt;/strong&gt;
+&lt;em&gt;Journal of Machine Learning Research, 25(381):1−65.&lt;/em&gt; 
+&lt;a href=&#34;https://jmlr.org/papers/v25/23-0699.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Nagler, Schneider, Bischl, and Feurer.
 &lt;strong&gt;Reshuffling resampling splits can improve generalization of hyperparameter optimization.&lt;/strong&gt;
 &lt;em&gt;Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS)&lt;/em&gt; 
