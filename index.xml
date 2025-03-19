@@ -244,7 +244,7 @@
 &lt;em&gt;The 22nd Air Transport Research Society World Conference&lt;/em&gt; (ATRS 2018) 
 &lt;a href=&#34;https://arxiv.org/pdf/2206.09809.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Czado, Müller, and Nagler.
-&lt;strong&gt;Dependence modelling in ultra high dimensions with vine copulas.&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Dependence modelling in ultra high dimensions with vine copulas.&lt;/strong&gt;
 Book chapter in &lt;em&gt;High Performance Computing in Science and Engineering - on the Tier-2 System CoolMUC; Garching/Munich 2018&lt;/em&gt; 
 &lt;a href=&#34;https://mediatum.ub.tum.de/doc/1439506/1439506.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Möller, Spazzini, Kraus, Nagler, and Czado.
@@ -435,11 +435,11 @@ Generalized additive models for bivariate conditional dependence structures and 
       <guid>https://tnagler.com/teaching/</guid>
       <description>&lt;h2 id=&#34;current-courses&#34;&gt;Current courses&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Mathematical Statistics (Winter)&lt;/li&gt;
-&lt;li&gt;Fortgeschrittene Mathematische Methoden in der Statistik (Winter)&lt;/li&gt;
-&lt;li&gt;Seminar: Theoretical Foundations of Deep Learning (Winter)&lt;/li&gt;
 &lt;li&gt;Statistical Learning Theory (Summer)&lt;/li&gt;
 &lt;li&gt;Methoden der Linearen Algebra in der Statistik  (Summer)&lt;/li&gt;
+&lt;li&gt;Mathematical Statistics (Winter)&lt;/li&gt;
+&lt;li&gt;Seminar: Theoretical Foundations of Deep Learning (Winter)&lt;/li&gt;
+&lt;li&gt;Fortgeschrittene Mathematische Methoden in der Statistik (Winter)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;lecture-notes&#34;&gt;Lecture notes&lt;/h2&gt;
@@ -459,7 +459,7 @@ Generalized additive models for bivariate conditional dependence structures and 
 &lt;p&gt;Teacher of the Year 2020, &lt;em&gt;Faculty of Science, Leiden University&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;thesis-supervision&#34;&gt;Thesis supervision&lt;/h2&gt;
-&lt;p&gt;My group is supervising theses at both BSc and MSc levels, on a wide range of topics. Our group&amp;rsquo;s primary interest is in developing and understanding statistical methods and models. Here&amp;rsquo;s a non-exhaustive list of areas of particular interest:&lt;/p&gt;
+&lt;p&gt;My group is supervising theses at both BSc and MSc levels, on a wide range of topics. Our group&amp;rsquo;s primary interest is in developing statistical methods and studying their theoretical properties. Here&amp;rsquo;s a non-exhaustive list of areas of particular interest:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Copulas and other dependence models&lt;/li&gt;
 &lt;li&gt;Functional data analysis&lt;/li&gt;
@@ -468,16 +468,16 @@ Generalized additive models for bivariate conditional dependence structures and 
 &lt;li&gt;Statistical learning theory&lt;/li&gt;
 &lt;li&gt;Bootstrap, cross-validation, and other resampling methods&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- Theses about these topics may involve applications to real problems in environmental sciences, engineering, finance, insurance, etc. --&gt;
+&lt;p&gt;Theses about these topics may involve applications to real problems in environmental sciences, engineering, finance, insurance, etc.&lt;/p&gt;
 &lt;p&gt;Interested LMU students may send an email with a recent transcript and indication of their interests.&lt;/p&gt;
 &lt;h4 id=&#34;past-highlights&#34;&gt;Past highlights&lt;/h4&gt;
 &lt;p&gt;A. Razawy: 
 &lt;a href=&#34;../razawy-suffdr.pdf&#34;&gt;Spline Based Estimation for Sufficient Dimension Reduction&lt;/a&gt; &lt;br&gt;
-D. Krüger:  
+D. Krüger: 
 &lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1554813&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;General vine copula models for stationary multivariate time series&lt;/a&gt;&lt;br&gt;
 R. Weber: 
 &lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1467381&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value at Risk Estimation with Subset Simulation&lt;/a&gt; &lt;br&gt;
-A. Kreuzer:  
+A. Kreuzer: 
 &lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338821&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analysing the spatial dependency among fire danger indices&lt;/a&gt;&lt;br&gt;
 A. Brauer:  
 &lt;a href=&#34;https://mediatum.ub.tum.de/doc/1342845/1342845.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kernel estimation of conditional copula densities&lt;/a&gt;&lt;/p&gt;
