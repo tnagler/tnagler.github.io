@@ -71,16 +71,23 @@
 &lt;a href=&#34;https://arxiv.org/abs/2410.15931&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;2025&#34;&gt;2025&lt;/h4&gt;
+&lt;p&gt;Schulte, Rügamer, and Nagler. &lt;strong&gt;Adjustment for confounding using pre-trained representations.&lt;/strong&gt;
+&lt;em&gt;The 42nd International Conference on Machine Learning (ICML)&lt;/em&gt;.
+
+&lt;a href=&#34;https://openreview.net/pdf?id=s2HTzQ0sMY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nagler, Rügamer. &lt;strong&gt;Uncertainty quantification for prior-data fitted networks using martingale posteriors.&lt;/strong&gt;
+&lt;em&gt;ICLR Workshop on Frontiers in Probabilistic Inference&lt;/em&gt;
+
+&lt;a href=&#34;https://openreview.net/attachment?id=TEs2WApmhX&amp;amp;name=pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Schulz-Kümpel, Fischer, Hornung, Boulesteix, Nagler, and Bischl.
 &lt;strong&gt;Constructing confidence intervals for &amp;lsquo;the&amp;rsquo; Generalization Error &amp;ndash; a comprehensive benchmark study.&lt;/strong&gt; &lt;em&gt;Data-centric Machine Learning Research (to appear)&lt;/em&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/2409.18836&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Herbinger, Wright, Nagler, Bischl, and Casalicchio.
-&lt;strong&gt;Decomposing global feature effects based on feature interactions.&lt;/strong&gt;
-&lt;em&gt;Journal of Machine Learning Research (to appear)&lt;/em&gt;
-
-&lt;a href=&#34;https://arxiv.org/abs/2306.00541&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;2024&#34;&gt;2024&lt;/h4&gt;
+&lt;p&gt;Herbinger, Wright, Nagler, Bischl, and Casalicchio.
+&lt;strong&gt;Decomposing global feature effects based on feature interactions.&lt;/strong&gt;
+&lt;em&gt;Journal of Machine Learning Research, 25(381):1−65.&lt;/em&gt; 
+&lt;a href=&#34;https://jmlr.org/papers/v25/23-0699.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Nagler, Schneider, Bischl, and Feurer.
 &lt;strong&gt;Reshuffling resampling splits can improve generalization of hyperparameter optimization.&lt;/strong&gt;
 &lt;em&gt;Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS)&lt;/em&gt; 
@@ -245,7 +252,7 @@
 &lt;em&gt;The 22nd Air Transport Research Society World Conference&lt;/em&gt; (ATRS 2018) 
 &lt;a href=&#34;https://arxiv.org/pdf/2206.09809.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Czado, Müller, and Nagler.
-&lt;strong&gt;Dependence modelling in ultra high dimensions with vine copulas.&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Dependence modelling in ultra high dimensions with vine copulas.&lt;/strong&gt;
 Book chapter in &lt;em&gt;High Performance Computing in Science and Engineering - on the Tier-2 System CoolMUC; Garching/Munich 2018&lt;/em&gt; 
 &lt;a href=&#34;https://mediatum.ub.tum.de/doc/1439506/1439506.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Möller, Spazzini, Kraus, Nagler, and Czado.
@@ -419,6 +426,8 @@ Generalized additive models for bivariate conditional dependence structures and 
 
 &lt;a href=&#34;mailto:hannah.kuempel@stat.uni-muenchen.de&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg&#34; alt=&#34;email&#34; width=&#34;17&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Hannah holds a BSc in Mathematics from Heidelberg University and an MSc in Statistics from LMU Munich. She is working on uncertainty quantification in interpretable ML.&lt;/p&gt;
+&lt;h5 id=&#34;anna-hunstig&#34;&gt;Anna Hunstig&lt;/h5&gt;
+&lt;p&gt;Anna holds BSc and MSc degrees in Mathematics from Paderborn University and RWTH Aachen. She is working on machine learning methods for improving sensor production pipelines at Bosch.&lt;/p&gt;
 &lt;!-- --- --&gt;
 &lt;!-- ## Student assistants
 
@@ -434,11 +443,11 @@ Generalized additive models for bivariate conditional dependence structures and 
       <guid>https://tnagler.com/teaching/</guid>
       <description>&lt;h2 id=&#34;current-courses&#34;&gt;Current courses&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Mathematical Statistics (Winter)&lt;/li&gt;
-&lt;li&gt;Fortgeschrittene Mathematische Methoden in der Statistik (Winter)&lt;/li&gt;
-&lt;li&gt;Seminar: Theoretical Foundations of Deep Learning (Winter)&lt;/li&gt;
 &lt;li&gt;Statistical Learning Theory (Summer)&lt;/li&gt;
 &lt;li&gt;Methoden der Linearen Algebra in der Statistik  (Summer)&lt;/li&gt;
+&lt;li&gt;Mathematical Statistics (Winter)&lt;/li&gt;
+&lt;li&gt;Seminar: Theoretical Foundations of Deep Learning (Winter)&lt;/li&gt;
+&lt;li&gt;Fortgeschrittene Mathematische Methoden in der Statistik (Winter)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;lecture-notes&#34;&gt;Lecture notes&lt;/h2&gt;
@@ -458,7 +467,7 @@ Generalized additive models for bivariate conditional dependence structures and 
 &lt;p&gt;Teacher of the Year 2020, &lt;em&gt;Faculty of Science, Leiden University&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;thesis-supervision&#34;&gt;Thesis supervision&lt;/h2&gt;
-&lt;p&gt;My group is supervising theses at both BSc and MSc levels, on a wide range of topics. Our group&amp;rsquo;s primary interest is in developing and understanding statistical methods and models. Here&amp;rsquo;s a non-exhaustive list of areas of particular interest:&lt;/p&gt;
+&lt;p&gt;My group is supervising theses at both BSc and MSc levels, on a wide range of topics. Our group&amp;rsquo;s primary interest is in developing statistical methods and studying their theoretical properties. Here&amp;rsquo;s a non-exhaustive list of areas of particular interest:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Copulas and other dependence models&lt;/li&gt;
 &lt;li&gt;Functional data analysis&lt;/li&gt;
@@ -467,16 +476,16 @@ Generalized additive models for bivariate conditional dependence structures and 
 &lt;li&gt;Statistical learning theory&lt;/li&gt;
 &lt;li&gt;Bootstrap, cross-validation, and other resampling methods&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- Theses about these topics may involve applications to real problems in environmental sciences, engineering, finance, insurance, etc. --&gt;
+&lt;p&gt;Theses about these topics may involve applications to real problems in environmental sciences, engineering, finance, insurance, etc.&lt;/p&gt;
 &lt;p&gt;Interested LMU students may send an email with a recent transcript and indication of their interests.&lt;/p&gt;
 &lt;h4 id=&#34;past-highlights&#34;&gt;Past highlights&lt;/h4&gt;
 &lt;p&gt;A. Razawy: 
 &lt;a href=&#34;../razawy-suffdr.pdf&#34;&gt;Spline Based Estimation for Sufficient Dimension Reduction&lt;/a&gt; &lt;br&gt;
-D. Krüger:  
+D. Krüger: 
 &lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1554813&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;General vine copula models for stationary multivariate time series&lt;/a&gt;&lt;br&gt;
 R. Weber: 
 &lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1467381&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value at Risk Estimation with Subset Simulation&lt;/a&gt; &lt;br&gt;
-A. Kreuzer:  
+A. Kreuzer: 
 &lt;a href=&#34;https://mediatum.ub.tum.de/node?id=1338821&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analysing the spatial dependency among fire danger indices&lt;/a&gt;&lt;br&gt;
 A. Brauer:  
 &lt;a href=&#34;https://mediatum.ub.tum.de/doc/1342845/1342845.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kernel estimation of conditional copula densities&lt;/a&gt;&lt;/p&gt;
