@@ -65,6 +65,9 @@
 &lt;p&gt;Gauss and Nagler. &lt;strong&gt;Asymptotics for estimating a diverging number of parameters—with and without sparsity.&lt;/strong&gt;
 
 &lt;a href=&#34;https://arxiv.org/abs/2411.17395&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nagler, Rügamer. &lt;strong&gt;Uncertainty quantification for prior-data fitted networks using martingale posteriors.&lt;/strong&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/2505.11325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Nagler, Claeskens, and Gijbels. &lt;strong&gt;On dimension reduction in conditional dependence models.&lt;/strong&gt; 
 &lt;a href=&#34;http://arxiv.org/abs/2505.01052&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Funk, Ludwig, Kuechenhoff, and Nagler.
@@ -73,16 +76,12 @@
 &lt;hr&gt;
 &lt;h4 id=&#34;2025&#34;&gt;2025&lt;/h4&gt;
 &lt;p&gt;Schulte, Rügamer, and Nagler. &lt;strong&gt;Adjustment for confounding using pre-trained representations.&lt;/strong&gt;
-&lt;em&gt;The 42nd International Conference on Machine Learning (ICML)&lt;/em&gt;.
+&lt;em&gt;The 42nd International Conference on Machine Learning (ICML)&lt;/em&gt;
 
 &lt;a href=&#34;../pretrained-icml.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Nagler. &lt;strong&gt;Simplified vine copula models: state of science and affairs.&lt;/strong&gt;
-&lt;em&gt;Risk Sciences (to appear).&lt;/em&gt; 
+&lt;em&gt;Risk Sciences (to appear)&lt;/em&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/2410.16806&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Nagler, Rügamer. &lt;strong&gt;Uncertainty quantification for prior-data fitted networks using martingale posteriors.&lt;/strong&gt;
-&lt;em&gt;ICLR Workshop on Frontiers in Probabilistic Inference&lt;/em&gt;
-
-&lt;a href=&#34;https://openreview.net/attachment?id=TEs2WApmhX&amp;amp;name=pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Schulz-Kümpel, Fischer, Hornung, Boulesteix, Nagler, and Bischl.
 &lt;strong&gt;Constructing confidence intervals for &amp;lsquo;the&amp;rsquo; Generalization Error &amp;ndash; a comprehensive benchmark study.&lt;/strong&gt; &lt;em&gt;Data-centric Machine Learning Research (to appear)&lt;/em&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/2409.18836&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
