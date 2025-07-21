@@ -73,11 +73,13 @@
 &lt;p&gt;Cheng, Vatter, Nagler, and Chen. &lt;strong&gt;Vine copulas as differentiable computational graphs.&lt;/strong&gt;
 
 &lt;a href=&#34;https://arxiv.org/abs/2506.13318&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Funk, Ludwig, Kuechenhoff, and Nagler.
-&lt;strong&gt;Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas.&lt;/strong&gt; 
-&lt;a href=&#34;https://arxiv.org/abs/2410.15931&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;2025&#34;&gt;2025&lt;/h4&gt;
+&lt;p&gt;Funk, Ludwig, Kuechenhoff, and Nagler.
+&lt;strong&gt;Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas.&lt;/strong&gt;
+&lt;em&gt;Journal of the Royal Statistical Society, Series C (Applied Statistics), to appear&lt;/em&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/2410.15931&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Arpogaus, Kneib, Nagler, and Rügamer.
 &lt;strong&gt;Hybrid Bernstein normalizing flows for flexible multivariate density regression with interpretable marginals.&lt;/strong&gt;
 &lt;em&gt;The 41st Conference on Uncertainty in Artificial Intelligence (UAI)&lt;/em&gt; 
