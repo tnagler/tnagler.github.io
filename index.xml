@@ -60,7 +60,17 @@
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://tnagler.com/publications/</guid>
       <description>&lt;h4 id=&#34;preprints&#34;&gt;Preprints&lt;/h4&gt;
-&lt;p&gt;Palm and Nagler. &lt;strong&gt;Central limit theorems under non-stationarity via relative weak convergence.&lt;/strong&gt; 
+&lt;p&gt;Gauss and Nagler. &lt;strong&gt;Properties of stepwise parameter estimation in high-dimensional vine copulas.&lt;/strong&gt; 
+&lt;a href=&#34;https://arxiv.org/abs/2511.17291&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vatter and Nagler. &lt;strong&gt;Throwing vines at the wall: structure learning via random search.&lt;/strong&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/2510.20035&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Min, Li, Nagler, and Li.
+&lt;strong&gt;Assessing climate-driven mortality risk: A stochastic
+approach with Distributed Lag Non-Linear Models.&lt;/strong&gt;
+
+&lt;a href=&#34;https://arxiv.org/pdf/2506.00561&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Palm and Nagler. &lt;strong&gt;Uniform central limit theorems for non-stationary processes via relative weak convergence.&lt;/strong&gt; 
 &lt;a href=&#34;http://arxiv.org/abs/2505.02197&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Gauss and Nagler. &lt;strong&gt;Asymptotics for estimating a diverging number of parameters—with and without sparsity.&lt;/strong&gt;
 
@@ -73,11 +83,14 @@
 &lt;p&gt;Cheng, Vatter, Nagler, and Chen. &lt;strong&gt;Vine copulas as differentiable computational graphs.&lt;/strong&gt;
 
 &lt;a href=&#34;https://arxiv.org/abs/2506.13318&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Funk, Ludwig, Kuechenhoff, and Nagler.
-&lt;strong&gt;Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas.&lt;/strong&gt; 
-&lt;a href=&#34;https://arxiv.org/abs/2410.15931&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;2025&#34;&gt;2025&lt;/h4&gt;
+&lt;p&gt;Funk, Ludwig, Kuechenhoff, and Nagler.
+&lt;strong&gt;Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas.&lt;/strong&gt;
+&lt;em&gt;Journal of the Royal Statistical Society, Series C (Applied Statistics), to appear&lt;/em&gt;
+
+&lt;a href=&#34;https://doi.org/10.1093/jrsssc/qlaf044&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
+&lt;a href=&#34;https://arxiv.org/abs/2410.15931&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Arpogaus, Kneib, Nagler, and Rügamer.
 &lt;strong&gt;Hybrid Bernstein normalizing flows for flexible multivariate density regression with interpretable marginals.&lt;/strong&gt;
 &lt;em&gt;The 41st Conference on Uncertainty in Artificial Intelligence (UAI)&lt;/em&gt; 
@@ -91,7 +104,7 @@
 &lt;a href=&#34;https://doi.org/10.1016/j.risk.2025.100022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[doi]&lt;/a&gt; 
 &lt;a href=&#34;https://arxiv.org/abs/2410.16806&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Schulz-Kümpel, Fischer, Hornung, Boulesteix, Nagler, and Bischl.
-&lt;strong&gt;Constructing confidence intervals for &amp;lsquo;the&amp;rsquo; Generalization Error &amp;ndash; a comprehensive benchmark study.&lt;/strong&gt; &lt;em&gt;Data-centric Machine Learning Research (to appear)&lt;/em&gt; 
+&lt;strong&gt;Constructing confidence intervals for &amp;lsquo;the&amp;rsquo; Generalization Error &amp;ndash; a comprehensive benchmark study.&lt;/strong&gt; &lt;em&gt;Data-centric Machine Learning Research&lt;/em&gt; 2(6):1-73, 2025. 
 &lt;a href=&#34;https://arxiv.org/abs/2409.18836&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;2024&#34;&gt;2024&lt;/h4&gt;
@@ -439,6 +452,8 @@ Generalized additive models for bivariate conditional dependence structures and 
 &lt;p&gt;Hannah holds a BSc in Mathematics from Heidelberg University and an MSc in Statistics from LMU Munich. She is working on uncertainty quantification in interpretable ML.&lt;/p&gt;
 &lt;h5 id=&#34;anna-hunstig&#34;&gt;Anna Hunstig&lt;/h5&gt;
 &lt;p&gt;Anna holds BSc and MSc degrees in Mathematics from Paderborn University and RWTH Aachen. She is working on machine learning methods for improving sensor production pipelines at Bosch.&lt;/p&gt;
+&lt;h5 id=&#34;tobias-brock&#34;&gt;Tobias Brock&lt;/h5&gt;
+&lt;p&gt;Tobias holds a B.A. in International Business from HS Heilbronn and an MSc degree in Statistics &amp;amp; Data Science from LMU Munich. He is working on statistical learning algorithms for nonstationary data.&lt;/p&gt;
 &lt;!-- --- --&gt;
 &lt;!-- ## Student assistants
 
