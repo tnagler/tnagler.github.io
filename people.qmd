@@ -1,0 +1,116 @@
+---
+title: "Team"
+# subtitle: "Who we are"
+#image: files/group.jpeg
+page-layout: full
+date-format: "YYYY-MM"
+# listing:  #an example of listing external links
+# #  template: item-default-external.ejs
+# - id: lab-member
+#   sort: "lastname asc"
+#   type: grid
+#   fields: [image, title, subtitle]
+#   grid-item-align: center
+#   grid-columns: 4
+#   image-height: 200px
+#   categories: true
+#  sort-ui: true
+#  filter-ui: true
+  # contents: 
+  #   - /people/pi.yml  # Use individual files here as you may use each person at different occasions such as events, news.
+  #   - /people/phd-student.yml
+  #   - /people/masters-student.yml
+  #   - /people/undergraduate-student.yml
+
+# - id: lab-alumni
+#   sort: 
+#     - "ended desc"
+#     - "lastname asc"  
+#   type: table
+#   fields: [image, title, subtitle, started, ended]
+#   grid-item-align: center  
+#   grid-columns: 4
+#   image-height: 25px
+#   field-display-names: 
+#       title: "Name"
+#       subtitle: "Role"
+#       started: "Started"
+#       ended: "Ended"
+# #  categories: true
+# #  sort-ui: true
+# #  filter-ui: true
+#   contents: 
+#     - /people/phd-alumni.yml
+#     - /people/masters-alumni.yml
+#     - /people/undergraduate-alumni.yml
+
+ 
+
+page-navigation: false
+title-block-banner: true
+toc: true
+
+format:
+  html:
+    link-external-newwindow: true
+---
+
+
+
+## PhD researchers
+
+#### Nicolai Palm 
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" alt="website" width="17"/>](https://nicolaipalm.github.io/) 
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg" alt="scholar" width="17"/>](https://scholar.google.de/citations?user=yLb7pfYAAAAJ&hl=de) 
+<!-- [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" alt="github" width="17"/>](https://github.com/nicolaipalm) -->
+<a href="mailto:n.palm@lmu.de">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" alt="github" width="17"/> </a>
+
+Nico holds a BSc and MSc in Mathematics from the University of Regensburg. He is  working on bootstrap methods and limit theorems for non-stationary time series.
+
+
+#### Jana Gauß
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg" alt="scholar" width="17"/>](https://scholar.google.com/citations?hl=en&user=gJ0vhXwAAAAJ) 
+<!-- [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" alt="github" width="17"/>](https://github.com/JanaGauss) -->
+<a href="mailto:jana.gauss@stat.uni-muenchen.de">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" alt="github" width="17"/> </a>
+
+Jana holds a BSc and MSc in Statistics from LMU Munich. She is working on statistical inference of high-dimensional parameters, with applications to copula models and functional data.
+
+
+<!-- #### Hannah Schulz-Kümpel   -->
+
+<!-- [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" alt="website" width="17"/>](https://11annah.github.io/)  -->
+<!-- [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg" alt="scholar" width="17"/>](https://11annah.github.io/publications/)  -->
+<!-- [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" alt="github" width="17"/>](https://github.com/11annah) -->
+<!-- [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" alt="email" width="17"/>](mailto:hannah.kuempel@stat.uni-muenchen.de) -->
+
+<!-- Hannah holds a BSc in Mathematics from Heidelberg University and an MSc in Statistics from LMU Munich. She is working on uncertainty quantification in interpretable ML. -->
+
+#### Tobias Brock
+<a href="mailto:tobias.brock@stat.uni-muenchen.de">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" alt="github" width="17"/> </a>
+
+Tobias holds a B.A. in International Business from HS Heilbronn and an MSc degree in Statistics & Data Science from LMU Munich. He is working on statistical learning algorithms for nonstationary data.
+
+#### Anna Hunstig
+
+Anna holds BSc and MSc degrees in Mathematics from Paderborn University and RWTH Aachen. She is working on machine learning methods for improving sensor production pipelines at Bosch.
+
+
+## Teaching assistants
+
+#### Eugen Gorich
+
+
+<!-- ## Team -->
+
+:::{#lab-member}
+:::
+
+
+<!-- ## Alumni -->
+
+<!-- :::{#lab-alumni} -->
+<!-- ::: -->
+

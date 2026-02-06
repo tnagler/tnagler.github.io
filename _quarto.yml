@@ -1,0 +1,119 @@
+project:
+  type: website
+  output-dir: docs
+
+# Meta
+description-meta: "Personal website of Thomas Nagler"
+author-meta: "Thomas Nagler"
+
+website:
+  title: "Thomas Nagler"
+  image: "https://quarto.org/quarto.png"
+  description: "Personal website of Thomas Nagler"
+ 
+  navbar:
+    background: light  # You can change the background color here
+
+    left:   # You can comment out all navigation items here if you just like to keep the index page only
+#      - text: Home
+#        href: index.qmd
+      - text: About
+        href: index.qmd
+       # menu:
+        #   - text: News
+        #     href: posts.qmd#category=news
+        #   - text: Events
+        #     href: posts.qmd#category=event      
+        #   - text: Contact
+        #     href: contact.qmd             
+      - text: Publications
+        # menu:
+        #   - text: List of Publications
+        href: publications.qmd
+          # - text: Selected Papers
+          #   href: posts.qmd#category=paper
+          # - text: Grants
+          #   href: projects.qmd     
+      - text: Software
+        href: software.qmd
+      - text: Teaching # Comment the Teaching part out to remove the Teaching page
+        href: teaching.qmd
+      # - text: Outreach
+      #   menu:        
+      #   - text: Presentations
+      #     href: posts.qmd#category=presentation                   
+      - text: Team   # Comment the Group part out to remove the Group page
+        href: people.qmd
+
+    # right: 
+    #   - text: CV
+    #     href: files/nsf-biosketch.pdf
+      # - icon: github
+      #   href: https://github.com/drganghe/quarto-academic-website-template
+      #   target: _blank
+      # - text: "{{< fa brands bluesky >}}"
+      #   href: https://bsky.app
+      #   target: _blank      
+      # - icon: rss
+      #   href: posts.xml
+      #   target: _blank
+  
+  page-navigation: true
+  
+  page-footer: 
+    left: "[Thomas Nagler](http://www.tnagler.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    # center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    # right:  
+    #   - icon: github
+    #     href: https://github.com/drganghe/quarto-academic-website-template
+    #     target: _blank
+    #   - text: "{{< fa brands bluesky >}}" 
+    #     href: https://bsky.app
+    #     target: _blank
+    #   - icon: rss
+    #     href: posts.xml
+    #     target: _blank  
+  
+  search: false
+  #   location: navbar
+  #   type: textbox
+  
+  reader-mode: false
+
+  draft-mode: unlinked
+  
+  repo-url: https://github.com/drganghe/quarto-academic-website-template
+#  repo-actions: [edit, issue, source]
+  
+  open-graph: true
+  
+  twitter-card: true 
+#  card-style: summary      
+  
+  site-url: "https://tnagler.com"
+  
+  google-analytics:
+    tracking-id: ""  # Please delete or replace with your own tracking ID
+    anonymize-ip: true 
+
+bibliography: references.bib  # Add references.bib to the root folder to enable the bibliography function
+
+format:
+  html:
+    respect-user-color-scheme: true
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
+    include-in-header: "files/includes/_academic.qmd"
+

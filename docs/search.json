@@ -1,0 +1,212 @@
+[
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "What’s New & Updated",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Preprints\n\n\n\nBrock and Nagler. Fast rates for nonstationary weighted risk minimization. [pdf]\nNagler and Langer. Optimal neural network approximation of smooth compositional functions on sets with low intrinsic dimension. [pdf]\nGauss and Nagler. Properties of stepwise parameter estimation in high-dimensional vine copulas. [pdf]\nVatter and Nagler. Throwing vines at the wall: structure learning via random search. [pdf]\nMin, Li, Nagler, and Li. Assessing climate-driven mortality risk: A stochastic approach with Distributed Lag Non-Linear Models. [pdf]\nPalm and Nagler. Uniform central limit theorems for non-stationary processes via relative weak convergence. [pdf]\nGauss and Nagler. Asymptotics for estimating a diverging number of parameters—with and without sparsity. [pdf]\nNagler and Rügamer. Uncertainty quantification for prior-data fitted networks using martingale posteriors. [pdf]\nNagler, Claeskens, and Gijbels. On dimension reduction in conditional dependence models. [pdf]\nCheng, Vatter, Nagler, and Chen. Vine copulas as differentiable computational graphs. [pdf]\n\n\n2025\n\n\n\nFunk, Ludwig, Kuechenhoff, and Nagler. Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas. Journal of the Royal Statistical Society, Series C (Applied Statistics) [doi] [pdf]\nArpogaus, Kneib, Nagler, and Rügamer. Hybrid Bernstein normalizing flows for flexible multivariate density regression with interpretable marginals. The 41st Conference on Uncertainty in Artificial Intelligence (UAI) [pdf]\nSchulte, Rügamer, and Nagler. Adjustment for confounding using pre-trained representations. The 42nd International Conference on Machine Learning (ICML) [pdf]\nNagler. Simplified vine copula models: state of science and affairs. Risk Sciences 1, 100022 [doi] [pdf]\nSchulz-Kümpel, Fischer, Hornung, Boulesteix, Nagler, and Bischl. Constructing confidence intervals for ‘the’ Generalization Error – a comprehensive benchmark study. Data-centric Machine Learning Research (DMLR) 2(6):1-73, 2025. [pdf]\n\n\n2024\n\n\n\nHerbinger, Wright, Nagler, Bischl, and Casalicchio. Decomposing global feature effects based on feature interactions. Journal of Machine Learning Research, 25(381):1−65. [doi]\nNagler, Schneider, Bischl, and Feurer. Reshuffling resampling splits can improve generalization of hyperparameter optimization. Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS) [pdf]\nKoshil, Nagler, Feurer, and Eggensperger. Towards localization via data embedding for TabPFN. 3rd Table Representation Learning Workshop at NeurIPS [pdf]\nPalm and Nagler. An online bootstrap for time series. The 27th International Conference on Artificial Intelligence and Statistics (AISTATS) [pdf] [doi]\nRügamer, Kolb, Weber, Kook, and Nagler. Generalizing orthogonalization for models with non-linearities. The 41st International Conference on Machine Learning (ICML). [pdf]\nSale, Hofman, Löhr, Wimmer, Nagler, and Hüllermeier. Label-wise aleatoric and epistemic uncertainty quantification. The 40th Conference on Uncertainty in Artificial Intelligence (UAI) [pdf]\nRundel, Kobialka, von Crailsheim, Feurer, Nagler, and Rügamer. Interpretable machine learning for TabPFN. The 2nd World Conference on eXplainable Artificial Intelligence (XAI) [pdf] [doi]\n\n\n2023\n\n\n\nNagler and Vatter. Solving estimating equations with copulas. Journal of the American Statistical Association 119(546), 1168–1180. [pdf] [doi]\nNagler. Statistical foundations of prior-data fitted networks. The 40th International Conference on Machine Learning (ICML), PMLR 202:25660-25676, 2023. [pdf] [doi]\nRodemann, Goschenhofer, Dorigatti, Nagler, and Augustin. Approximately Bayes-Optimal Pseudo Label Selection. The 39th Conference on Uncertainty in Artificial Intelligence (UAI) [pdf] [doi]\nZwep, Guo, Nagler, Knibbe, Meulman, and van Hasselt. Virtual Patient Simulation Using Copula Modeling. Clinical Pharmacology & Therapeutics. [pdf] [doi]\nSale, Hofman, Wimmer, Hüllermeier, and Nagler. Second-Order Uncertainty Quantification: Variance-Based Measures. Research report [pdf]\n\n\n2022\n\n\n\nNagler, Krüger, and Min. Stationary vine copula models for multivariate time series. Journal of Econometrics, 227(2):305-324 [doi] [pdf] [suppl.]\nCzado and Nagler. Vine copula based modeling. Annual Review of Statistics and Its Application 9, pp. 453-477 [doi] [pdf]\nCzado, Bax, Sahin, Nagler, Min, and Paterlini. Vine copula based dependence modeling in sustainable finance. The Journal of Finance and Data Science, 8:309.-330 [doi] [pdf]\nLotto, Nagler, and Radic. Modeling Stochastic Data Using Copulas For Application in Validation of Autonomous Driving. Electronics, 11(24):4154 [doi] [pdf]\nNguyen-Huy, Kath, Nagler, Khaung, Aung, Mushtaq, Marcussen, and Stone. A satellite-based Standardized Antecedent Precipitation Index (SAPI) for mapping extreme rainfall risk in Myanmar. Remote Sensing Applications: Society and Environment, 26 [doi] [pdf]\n\n\n2021\n\n\n\nMeyer, Nagler, and Hogan. Copula-based synthetic data augmentation for machine learning emulators. Geoscientific Model Development 14(8):5205–5215 [doi] [pdf]\nAas, Nagler, Jullum, and Løland. Explaining predictive models using Shapley values and non-parametric vine copulas. Dependence Modeling, 9:62–81 [doi] [pdf]\nNagler. R-friendly multi-threading in C++. Journal of Statistical Software, 97(c1) [doi] [pdf]\nMeyer and Nagler. Synthia: multidimensional synthetic data generation in Python. Journal of Open Source Software, 6(65), 2863 [doi] [pdf]\n\n\n2020\n\n\n\nVio, Nagler, and Andreani. Modeling high-dimensional dependence among astronomical data. Astronomy & Astrophysics, 642, A156 [doi] [pdf]\nEggersmann, Baumeister, Kumbringk, Mayr, Schmoeckel, Thaler, Dannecker, Jeschke, Nagler, Mahner, Sharaf, and Gallwas. Oropharyngeal HPV Detection Techniques in HPV-associated Head and Neck Cancer Patients. Anticancer Research, 40(4):2117-2123 [doi]\n\n\n2019\n\n\n\nNagler, Bumann, and Czado. Model selection for sparse high-dimensional vine copulas with application to portfolio risk. Journal of Multivariate Analysis, 172: 180-192 [doi] [pdf]\nJäger, Nagler, Czado, and McCall. A statistical simulation method for joint time series of non-stationary hourly wave parameters. Coastal Engineering, 146: 14-31 [doi] [pdf]\n\n\n2018\n\n\n\nUrbano and Nagler. Stochastic simulation of test collections: evaluation scores. The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, p. 695-704 [doi] [pdf]\nVatter and Nagler. Generalized additive models for pair-copula constructions. Journal of Computational and Graphical Statistics, 27(4): 715-727 [doi] [pdf]\nNagler. A generic approach to nonparametric function estimation with mixed data. Statistics & Probability Letters, 137:326–330 [doi] [pdf]\nNagler. Asymptotic analysis of the jittering kernel density estimator. Mathematical Methods of Statistics, 27(1): 32-46 [doi] [pdf]\nNagler. kdecopula: An R package for the kernel estimation of copula densities. Journal of Statistical Software, 48(7) [doi] [pdf]\nHöhndorf, Nagler, Koppitz, Czado, and Holzapfel. Statistical dependence analyses of operational flight data used for landing reconstruction enhancement. The 22nd Air Transport Research Society World Conference (ATRS 2018) [pdf]\nCzado, Müller, and Nagler. Dependence modelling in ultra high dimensions with vine copulas. Book chapter in High Performance Computing in Science and Engineering - on the Tier-2 System CoolMUC; Garching/Munich 2018 [pdf]\nMöller, Spazzini, Kraus, Nagler, and Czado. Vine copula based post-processing of ensemble forecasts for temperature. Research report [pdf]\nSchallhorn, Kraus, Nagler, and Czado. D-vine quantile regression with discrete variables. Research report [pdf]\nNagler. Nonparametric estimation in simplified vine copula models. PhD thesis, Technical University of Munich [pdf]\n\n\n2017\n\n\n\nNagler, Schellhase, and Czado. Nonparametric estimation of simplified vine copula models: comparison of methods. Dependence Modeling, 5:99-120 [doi] [pdf]\nNagler. Comment on “A coupled stochastic rainfall-evapotranspiration model for hydrological impact analysis” by Minh Tu Pham et al. Interactive comment on Hydrol. Earth Syst. Sci. Discuss. [doi] [pdf]\nKreuzer, Nagler, and Czado. Heavy tailed spatial autocorrelation models. Research report [pdf]\n\n\n2016\n\n\n\nNagler and Czado. Evading the curse of dimensionality in nonparametric density estimation with simplified vine copulas. Journal of Multivariate Analysis, 151:69-89 [doi] [pdf]\n\n\n2014\n\n\n\nNagler. Kernel methods for vine copula estimation. Master’s thesis, Technical University of Munich [pdf]"
+  },
+  {
+    "objectID": "publications.html#selected-work",
+    "href": "publications.html#selected-work",
+    "title": "Publications",
+    "section": "Selected Work",
+    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\n\nPreprints\nBrock and Nagler. Fast rates for nonstationary weighted risk minimization. [pdf]\nNagler and Langer. Optimal neural network approximation of smooth compositional functions on sets with low intrinsic dimension. [pdf]\nGauss and Nagler. Properties of stepwise parameter estimation in high-dimensional vine copulas. [pdf]\nVatter and Nagler. Throwing vines at the wall: structure learning via random search. [pdf]\nMin, Li, Nagler, and Li. Assessing climate-driven mortality risk: A stochastic approach with Distributed Lag Non-Linear Models. [pdf]\nPalm and Nagler. Uniform central limit theorems for non-stationary processes via relative weak convergence. [pdf]\nGauss and Nagler. Asymptotics for estimating a diverging number of parameters—with and without sparsity. [pdf]\nNagler and Rügamer. Uncertainty quantification for prior-data fitted networks using martingale posteriors. [pdf]\nNagler, Claeskens, and Gijbels. On dimension reduction in conditional dependence models. [pdf]\nCheng, Vatter, Nagler, and Chen. Vine copulas as differentiable computational graphs. [pdf]\n\n\n\n\n2025\nFunk, Ludwig, Kuechenhoff, and Nagler. Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas. Journal of the Royal Statistical Society, Series C (Applied Statistics) [doi] [pdf]\nArpogaus, Kneib, Nagler, and Rügamer. Hybrid Bernstein normalizing flows for flexible multivariate density regression with interpretable marginals. The 41st Conference on Uncertainty in Artificial Intelligence (UAI) [pdf]\nSchulte, Rügamer, and Nagler. Adjustment for confounding using pre-trained representations. The 42nd International Conference on Machine Learning (ICML) [pdf]\nNagler. Simplified vine copula models: state of science and affairs. Risk Sciences 1, 100022 [doi] [pdf]\nSchulz-Kümpel, Fischer, Hornung, Boulesteix, Nagler, and Bischl. Constructing confidence intervals for ‘the’ Generalization Error – a comprehensive benchmark study. Data-centric Machine Learning Research (DMLR) 2(6):1-73, 2025. [pdf]\n\n\n\n\n\n2024\nHerbinger, Wright, Nagler, Bischl, and Casalicchio. Decomposing global feature effects based on feature interactions. Journal of Machine Learning Research, 25(381):1−65. [doi]\nNagler, Schneider, Bischl, and Feurer. Reshuffling resampling splits can improve generalization of hyperparameter optimization. Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS) [pdf]\nKoshil, Nagler, Feurer, and Eggensperger. Towards localization via data embedding for TabPFN. 3rd Table Representation Learning Workshop at NeurIPS [pdf]\nPalm and Nagler. An online bootstrap for time series. The 27th International Conference on Artificial Intelligence and Statistics (AISTATS) [pdf] [doi]\nRügamer, Kolb, Weber, Kook, and Nagler. Generalizing orthogonalization for models with non-linearities. The 41st International Conference on Machine Learning (ICML). [pdf]\nSale, Hofman, Löhr, Wimmer, Nagler, and Hüllermeier. Label-wise aleatoric and epistemic uncertainty quantification. The 40th Conference on Uncertainty in Artificial Intelligence (UAI) [pdf]\nRundel, Kobialka, von Crailsheim, Feurer, Nagler, and Rügamer. Interpretable machine learning for TabPFN. The 2nd World Conference on eXplainable Artificial Intelligence (XAI) [pdf] [doi]\n\n\n\n\n\n2023\nNagler and Vatter. Solving estimating equations with copulas. Journal of the American Statistical Association 119(546), 1168–1180. [pdf] [doi]\nNagler. Statistical foundations of prior-data fitted networks. The 40th International Conference on Machine Learning (ICML), PMLR 202:25660-25676, 2023. [pdf] [doi]\nRodemann, Goschenhofer, Dorigatti, Nagler, and Augustin. Approximately Bayes-Optimal Pseudo Label Selection. The 39th Conference on Uncertainty in Artificial Intelligence (UAI) [pdf] [doi]\nZwep, Guo, Nagler, Knibbe, Meulman, and van Hasselt. Virtual Patient Simulation Using Copula Modeling. Clinical Pharmacology & Therapeutics. [pdf] [doi]\nSale, Hofman, Wimmer, Hüllermeier, and Nagler. Second-Order Uncertainty Quantification: Variance-Based Measures. Research report [pdf]\n\n\n\n\n\n2022\nNagler, Krüger, and Min. Stationary vine copula models for multivariate time series. Journal of Econometrics, 227(2):305-324 [doi] [pdf] [suppl.]\nCzado and Nagler. Vine copula based modeling. Annual Review of Statistics and Its Application 9, pp. 453-477 [doi] [pdf]\nCzado, Bax, Sahin, Nagler, Min, and Paterlini. Vine copula based dependence modeling in sustainable finance. The Journal of Finance and Data Science, 8:309.-330 [doi] [pdf]\nLotto, Nagler, and Radic. Modeling Stochastic Data Using Copulas For Application in Validation of Autonomous Driving. Electronics, 11(24):4154 [doi] [pdf]\nNguyen-Huy, Kath, Nagler, Khaung, Aung, Mushtaq, Marcussen, and Stone. A satellite-based Standardized Antecedent Precipitation Index (SAPI) for mapping extreme rainfall risk in Myanmar. Remote Sensing Applications: Society and Environment, 26 [doi] [pdf]\n\n\n\n\n\n2021\nMeyer, Nagler, and Hogan. Copula-based synthetic data augmentation for machine learning emulators. Geoscientific Model Development 14(8):5205–5215 [doi] [pdf]\nAas, Nagler, Jullum, and Løland. Explaining predictive models using Shapley values and non-parametric vine copulas. Dependence Modeling, 9:62–81 [doi] [pdf]\nNagler. R-friendly multi-threading in C++. Journal of Statistical Software, 97(c1) [doi] [pdf]\nMeyer and Nagler. Synthia: multidimensional synthetic data generation in Python. Journal of Open Source Software, 6(65), 2863 [doi] [pdf]\n\n\n\n\n\n2020\nVio, Nagler, and Andreani. Modeling high-dimensional dependence among astronomical data. Astronomy & Astrophysics, 642, A156 [doi] [pdf]\nEggersmann, Baumeister, Kumbringk, Mayr, Schmoeckel, Thaler, Dannecker, Jeschke, Nagler, Mahner, Sharaf, and Gallwas. Oropharyngeal HPV Detection Techniques in HPV-associated Head and Neck Cancer Patients. Anticancer Research, 40(4):2117-2123 [doi]\n\n\n\n\n\n2019\nNagler, Bumann, and Czado. Model selection for sparse high-dimensional vine copulas with application to portfolio risk. Journal of Multivariate Analysis, 172: 180-192 [doi] [pdf]\nJäger, Nagler, Czado, and McCall. A statistical simulation method for joint time series of non-stationary hourly wave parameters. Coastal Engineering, 146: 14-31 [doi] [pdf]\n\n\n\n\n\n2018\nUrbano and Nagler. Stochastic simulation of test collections: evaluation scores. The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, p. 695-704 [doi] [pdf]\nVatter and Nagler. Generalized additive models for pair-copula constructions. Journal of Computational and Graphical Statistics, 27(4): 715-727 [doi] [pdf]\nNagler. A generic approach to nonparametric function estimation with mixed data. Statistics & Probability Letters, 137:326–330 [doi] [pdf]\nNagler. Asymptotic analysis of the jittering kernel density estimator. Mathematical Methods of Statistics, 27(1): 32-46 [doi] [pdf]\nNagler. kdecopula: An R package for the kernel estimation of copula densities. Journal of Statistical Software, 48(7) [doi] [pdf]\nHöhndorf, Nagler, Koppitz, Czado, and Holzapfel. Statistical dependence analyses of operational flight data used for landing reconstruction enhancement. The 22nd Air Transport Research Society World Conference (ATRS 2018) [pdf]\nCzado, Müller, and Nagler. Dependence modelling in ultra high dimensions with vine copulas. Book chapter in High Performance Computing in Science and Engineering - on the Tier-2 System CoolMUC; Garching/Munich 2018 [pdf]\nMöller, Spazzini, Kraus, Nagler, and Czado. Vine copula based post-processing of ensemble forecasts for temperature. Research report [pdf]\nSchallhorn, Kraus, Nagler, and Czado. D-vine quantile regression with discrete variables. Research report [pdf]\nNagler. Nonparametric estimation in simplified vine copula models. PhD thesis, Technical University of Munich [pdf]\n\n\n\n\n\n2017\nNagler, Schellhase, and Czado. Nonparametric estimation of simplified vine copula models: comparison of methods. Dependence Modeling, 5:99-120 [doi] [pdf]\nNagler. Comment on “A coupled stochastic rainfall-evapotranspiration model for hydrological impact analysis” by Minh Tu Pham et al. Interactive comment on Hydrol. Earth Syst. Sci. Discuss. [doi] [pdf]\nKreuzer, Nagler, and Czado. Heavy tailed spatial autocorrelation models. Research report [pdf]\n\n\n\n\n\n2016\nNagler and Czado. Evading the curse of dimensionality in nonparametric density estimation with simplified vine copulas. Journal of Multivariate Analysis, 151:69-89 [doi] [pdf]\n\n\n\n\n\n2014\nNagler. Kernel methods for vine copula estimation. Master’s thesis, Technical University of Munich [pdf]"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n        \n         \n          Title\n        \n         \n          Team\n        \n         \n          Funder\n        \n         \n          Description\n        \n         \n          Start\n        \n         \n          End\n        \n         \n          Funding\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n \n\n\nTitle\n\n\nTeam\n\n\nFunder\n\n\nDescription\n\n\nFunding\n\n\nStart\n\n\nEnd\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/news-title/index.html",
+    "href": "posts/news-title/index.html",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/news-title/index.html#summary",
+    "href": "posts/news-title/index.html#summary",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/paper-title/index.html#abstract",
+    "href": "posts/paper-title/index.html#abstract",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Abstract",
+    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+  },
+  {
+    "objectID": "posts/paper-title/index.html#links",
+    "href": "posts/paper-title/index.html#links",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Links",
+    "text": "Links\nPublished paper"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Statistical Learning Theory (Summer)\nMethoden der Linearen Algebra in der Statistik (Summer)\nMathematical Statistics (Winter)\nSeminar: Statistics of Extremes (Summer)"
+  },
+  {
+    "objectID": "teaching.html#class-1",
+    "href": "teaching.html#class-1",
+    "title": "Teaching",
+    "section": "Class 1",
+    "text": "Class 1\n\n\n\n\n\nFall 2024,   Fall 2023\nClass 1 introduction."
+  },
+  {
+    "objectID": "teaching.html#class-2",
+    "href": "teaching.html#class-2",
+    "title": "Teaching",
+    "section": "Class 2",
+    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
+  },
+  {
+    "objectID": "teaching.html#class-3",
+    "href": "teaching.html#class-3",
+    "title": "Teaching",
+    "section": "Class 3",
+    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thomas Nagler",
+    "section": "",
+    "text": "I am Professor at the Department of Statistics, LMU Munich, and a principal investigator at the Munich Center for Machine Learning (MCML).\nMy main research areas are mathematical statistics and machine learning. I develop statistical methods, derive theoretical guarantees and scalable algorithms, and collaborate with domain experts to solve problems in diverse areas.\n\nResearch interests\n\nHigh-dimensional dependence models\nStatistical machine learning\nTime series and functional data\nStatistical computing\n\n\n\nShort CV\n\n2022–: Professor (W2), Department of Statistics, LMU Munich\n2021–2022: Assistant professor, DIAM, TU Delft\n2019–2021: Assistant professor, Mathematical Institute, Leiden University\n2014–2018: PhD Mathematical Statistics, TU Munich\n2012–2014: MSc Mathematical Finance, TU Munich\n2009–2012: BSc Mathematics, TU Munich\n\n\n\n\n\n\n\n\n\nOffice\nRoom 311 (3rd floor)\nAkademiestr. 7\n80799 Munich, Germany"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Prof. Dr. Thomas Nagler",
+    "section": "",
+    "text": "Researcher, Univerisity"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Prof. Dr. Thomas Nagler",
+    "section": "",
+    "text": "PhD, Univerisity"
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Quarto Academic, PhD",
+    "section": "Recent Posts",
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nAll Posts »"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Team",
+    "section": "",
+    "text": "Nico holds a BSc and MSc in Mathematics from the University of Regensburg. He is working on bootstrap methods and limit theorems for non-stationary time series.\n\n\n\n    \nJana holds a BSc and MSc in Statistics from LMU Munich. She is working on statistical inference of high-dimensional parameters, with applications to copula models and functional data.\n\n\n\n\n\n\n\n\n\n  \nTobias holds a B.A. in International Business from HS Heilbronn and an MSc degree in Statistics & Data Science from LMU Munich. He is working on statistical learning algorithms for nonstationary data.\n\n\n\nAnna holds BSc and MSc degrees in Mathematics from Paderborn University and RWTH Aachen. She is working on machine learning methods for improving sensor production pipelines at Bosch."
+  },
+  {
+    "objectID": "people.html#team",
+    "href": "people.html#team",
+    "title": "Team",
+    "section": "Team",
+    "text": "Team\n\n\n\n\n\n\n\n\n\n\nStudent A\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudent B\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudent C\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI Name\n\n\nPI\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni"
+  },
+  {
+    "objectID": "teaching.html#current-courses",
+    "href": "teaching.html#current-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "Statistical Learning Theory (Summer)\nMethoden der Linearen Algebra in der Statistik (Summer)\nMathematical Statistics (Winter)\nSeminar: Statistics of Extremes (Summer)"
+  },
+  {
+    "objectID": "teaching.html#lecture-notes",
+    "href": "teaching.html#lecture-notes",
+    "title": "Teaching",
+    "section": "Lecture notes",
+    "text": "Lecture notes\n\nMathematical Statistics\nStatistical Learning Theory\nLineare Algebra (German)\nStatistics for Astronomy and Physics students"
+  },
+  {
+    "objectID": "teaching.html#awards",
+    "href": "teaching.html#awards",
+    "title": "Teaching",
+    "section": "Awards",
+    "text": "Awards\n\nTeacher of the Year 2020, Faculty of Science, Leiden University"
+  },
+  {
+    "objectID": "teaching.html#thesis-supervision",
+    "href": "teaching.html#thesis-supervision",
+    "title": "Teaching",
+    "section": "Thesis supervision",
+    "text": "Thesis supervision\nMy group is supervising theses at both BSc and MSc levels, on a wide range of topics. Our group’s primary interest is in developing statistical methods and studying their theoretical properties. Here’s a non-exhaustive list of areas of particular interest:\n\nCopulas and other dependence models\nFunctional data analysis\nTime series\nProbabilistic machine learning\nStatistical learning theory\nBootstrap, cross-validation, and other resampling methods\n\nTheses about these topics may involve applications to real problems in environmental sciences, engineering, finance, insurance, etc.\nInterested LMU students may send an email with a recent transcript and indication of their interests.\n\nPast highlights\nA. Razawy: Spline Based Estimation for Sufficient Dimension Reduction\nD. Krüger: General vine copula models for stationary multivariate time series\nR. Weber: Value at Risk Estimation with Subset Simulation\nA. Kreuzer: Analysing the spatial dependency among fire danger indices\nA. Brauer: Kernel estimation of conditional copula densities"
+  },
+  {
+    "objectID": "people.html#phd-researchers",
+    "href": "people.html#phd-researchers",
+    "title": "Team",
+    "section": "",
+    "text": "Nico holds a BSc and MSc in Mathematics from the University of Regensburg. He is working on bootstrap methods and limit theorems for non-stationary time series.\n\n\n\n    \nJana holds a BSc and MSc in Statistics from LMU Munich. She is working on statistical inference of high-dimensional parameters, with applications to copula models and functional data.\n\n\n\n\n\n\n\n\n\n  \nTobias holds a B.A. in International Business from HS Heilbronn and an MSc degree in Statistics & Data Science from LMU Munich. He is working on statistical learning algorithms for nonstationary data.\n\n\n\nAnna holds BSc and MSc degrees in Mathematics from Paderborn University and RWTH Aachen. She is working on machine learning methods for improving sensor production pipelines at Bosch."
+  },
+  {
+    "objectID": "people.html#teaching-assistants",
+    "href": "people.html#teaching-assistants",
+    "title": "Team",
+    "section": "Teaching assistants",
+    "text": "Teaching assistants\n\nEugen Gorich"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "vinecopulib: High performance algorithms for vine copula modeling\n\nquickpool: Easy-to-use, header-only work stealing thread pool in C++11.\n\nwdm: Weighted dependence measures and related independence tests"
+  },
+  {
+    "objectID": "software.html#c",
+    "href": "software.html#c",
+    "title": "Software",
+    "section": "",
+    "text": "vinecopulib: High performance algorithms for vine copula modeling\n\nquickpool: Easy-to-use, header-only work stealing thread pool in C++11.\n\nwdm: Weighted dependence measures and related independence tests"
+  },
+  {
+    "objectID": "software.html#python",
+    "href": "software.html#python",
+    "title": "Software",
+    "section": "Python",
+    "text": "Python\npyvinecopulib: Python interface to the vinecopulib C++ library\n  \nSynthia: multidimensional synthetic data generation in Python"
+  },
+  {
+    "objectID": "software.html#r",
+    "href": "software.html#r",
+    "title": "Software",
+    "section": "R",
+    "text": "R\nRcppThread: R-friendly threading in C++\n\nVineCopula: Statistical inference of vine copulas\n\nrvinecopulib: R interface to the vinecopulib C++ library\n\nwdm: Weighted dependence measures and related independence tests \nkde1d: Univariate kernel density estimators for bounded and discrete data \nkdecopula: Kernel smoothing for bivariate copula densities\n\nsvines: Stationary vine copula models for multivariate time series \nvinereg: D-vine copula quantile regression\n\neecop: Copula based estimation equations\n\nVC2copula: Extend the ‘copula’ Package with models from ‘VineCopula’\n\nkdevine: Multivariate kernel density estimation with vine copulas\n\ncctools: Tools for continuous convolution in nonparametric estimation\n\n\ngamCopula: Generalized additive models for bivariate conditional dependence structures and vine copulas"
+  }
+]

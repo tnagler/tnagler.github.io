@@ -1,0 +1,114 @@
+---
+title: "Thomas Nagler"
+description-meta: "Personal Website"
+image: "files/images/avatar2.jpeg"
+page-navigation: true
+toc: false
+sidebar: false
+page-layout: full
+
+format:
+  html:
+    respect-user-color-scheme: true
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 53%
+  image-shape: rectangle
+  links:
+    # - icon: sun
+    #   text: Lab
+    #   href: https://www.github.com
+    #   target: _blank
+    # - icon: globe
+    #   text: Uprofile
+    #   href: https://baruch.cuny.edu
+    #   target: _blank
+    - icon: envelope
+      # text: E-mail
+      href: mailto:mail@tnagler.com   
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://linkedin.com
+    #   target: _blank
+    # - icon: youtube
+    #   text: YouTube
+    #   href: https://www.youtube.com     
+    #   target: _blank 
+    - text: "{{< ai orcid >}}"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+      href: https://orcid.org/0000-0003-1855-0046
+      target: _blank
+    # - text: "{{< ai clarivate >}} Web of Science"
+    #   href: https://www.webofscience.com  
+    #   target: _blank
+    - icon: "github"
+      href: https://github.com/tnagler
+      target: _blank
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=tZR1rZoAAAAJ&hl=en
+      target: _blank
+#    - text: "{{< ai researchgate >}} Research Gate"
+#      href: https://www.researchgate.net
+#      target: _blank
+    # - text: "{{< ai twitter >}} Twitter"
+    #   href: https://twitter.com/tnagler
+    #   target: _blank
+
+# listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+#   - id: recent-posts
+#     contents:
+#       - posts
+#       - posts/post-links.yml
+#     exclude:
+#       title: ""
+#     type: grid
+#     max-items: 3
+# #    image-height: 150px
+#     page-size: 3 #set same as max-times to remove the page number setting
+#     fields: [image, date, title, subtitle]
+#     max-description-length: 75
+#     sort:
+#       - "date desc"
+#       - "title asc"
+---
+
+
+
+:::{#hero-heading}
+
+
+I am Professor at the [Department of Statistics](https://www.en.statistik.uni-muenchen.de/index.html), [LMU Munich](https://www.lmu.de/), and a principal investigator at the [Munich Center for Machine Learning (MCML)](https://mcml.ai/).
+
+My main research areas are mathematical statistics and machine learning. I develop statistical methods, derive theoretical guarantees and scalable algorithms, and collaborate with domain experts to solve problems in diverse areas.
+
+
+### Research interests 
+  - High-dimensional dependence models
+  - Statistical machine learning
+  - Time series and functional data
+  - Statistical computing
+
+### Short CV
+
+- 2022--: *Professor (W2)*, Department of Statistics, [LMU Munich](https://www.en.statistik.uni-muenchen.de/index.html)
+- 2021--2022: *Assistant professor*, DIAM, [TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics) 
+- 2019--2021: *Assistant professor*, Mathematical Institute, [Leiden University](https://www.universiteitleiden.nl/en/science/mathematics)
+- 2014--2018: *PhD Mathematical Statistics*, [TU Munich](https://www.ma.tum.de/en)
+- 2012--2014: *MSc Mathematical Finance*, [TU Munich](https://www.ma.tum.de/en)
+- 2009--2012: *BSc Mathematics*, [TU Munich](https://www.ma.tum.de/en)
+
+
+:::
+
+<center><hr style="width:100%"></center>
+
+#### Office
+
+Room 311 (3rd floor)  
+Akademiestr. 7  
+80799 Munich, Germany
+
+
+
+
