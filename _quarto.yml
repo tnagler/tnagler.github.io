@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: docs
+  post-render:
+    - "cp docs/files/static/mathstat-lmu-2024.pdf docs/mathstat-lmu-2024.pdf"
+    - "cp docs/files/static/slt-2024.pdf docs/slt-2024.pdf"
+    - "cp docs/files/static/linalg-2024.pdf docs/linalg-2024.pdf"
+    - "cp docs/files/static/stan-2020.pdf docs/stan-2020.pdf"
 
 # Meta
 description-meta: "Personal website of Thomas Nagler"

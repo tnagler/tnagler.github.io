@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts.html</loc>
-    <lastmod>2026-02-06T10:51:00.446Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/publications.html</loc>
-    <lastmod>2026-02-06T11:42:47.740Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/projects.html</loc>
-    <lastmod>2026-02-06T10:51:00.450Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/index.html</loc>
-    <lastmod>2026-02-06T10:51:00.446Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/index.html</loc>
-    <lastmod>2026-02-06T10:51:00.450Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/teaching.html</loc>
-    <lastmod>2026-02-06T11:13:19.312Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/contact.html</loc>
-    <lastmod>2025-02-08T02:43:14.168Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/index.html</loc>
-    <lastmod>2026-02-06T10:51:00.446Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/index.html</loc>
-    <lastmod>2026-02-06T11:46:53.904Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/people.html</loc>
-    <lastmod>2026-02-06T11:39:46.692Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/software.html</loc>
-    <lastmod>2026-02-06T11:41:44.993Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tnagler.com/index.html</loc>
-    <lastmod>2026-02-06T12:18:40.167Z</lastmod>
-  </url>
-  <url>
     <loc>https://tnagler.com/publications.html</loc>
     <lastmod>2026-02-06T12:24:07.757Z</lastmod>
   </url>
@@ -61,7 +13,35 @@
     <lastmod>2026-02-06T12:24:55.336Z</lastmod>
   </url>
   <url>
+    <loc>https://tnagler.com/projects.html</loc>
+    <lastmod>2026-02-06T10:51:00.450Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tnagler.com/posts/event-title/index.html</loc>
+    <lastmod>2026-02-06T10:51:00.446Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tnagler.com/posts/news-title/index.html</loc>
+    <lastmod>2026-02-06T10:51:00.446Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tnagler.com/posts/paper-title/index.html</loc>
+    <lastmod>2026-02-06T10:51:00.450Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tnagler.com/index.html</loc>
+    <lastmod>2026-02-06T12:18:40.167Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tnagler.com/posts.html</loc>
+    <lastmod>2026-02-06T10:51:00.446Z</lastmod>
+  </url>
+  <url>
     <loc>https://tnagler.com/people.html</loc>
     <lastmod>2026-02-06T12:05:18.615Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tnagler.com/contact.html</loc>
+    <lastmod>2026-02-06T10:51:00.410Z</lastmod>
   </url>
 </urlset>

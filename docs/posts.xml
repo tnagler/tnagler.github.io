@@ -6,35 +6,35 @@
       version="2.0">
 <channel>
 <title>Thomas Nagler</title>
-<link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
-<atom:link href="https://drganghe.github.io/quarto-academic-website-template/posts.xml" rel="self" type="application/rss+xml"/>
-<description>Personal website of Prof. Dr. Thomas Nagler</description>
+<link>https://tnagler.com/posts.html</link>
+<atom:link href="https://tnagler.com/posts.xml" rel="self" type="application/rss+xml"/>
+<description>Personal website of Thomas Nagler</description>
 <image>
 <url>https://quarto.org/quarto.png</url>
 <title>Thomas Nagler</title>
-<link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
+<link>https://tnagler.com/posts.html</link>
 </image>
 <generator>quarto-1.5.57</generator>
 <lastBuildDate>Mon, 14 Oct 2024 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Quarto Academic Website Examples and Tips</title>
-  <link>https://drganghe.github.io/quarto-academic-website-template/</link>
+  <link>https://tnagler.com/</link>
   <description>Examples and tips for Quarto Academic Website</description>
   <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
+  <guid>https://tnagler.com/</guid>
   <pubDate>Mon, 14 Oct 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://tnagler.com/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Event item</title>
   <dc:creator>Event </dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</link>
+  <link>https://tnagler.com/posts/event-title/</link>
   <description><![CDATA[ 
 
 
 
 
-<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
+<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://tnagler.com/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -51,14 +51,14 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>event</category>
   <category>presentation</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</guid>
+  <guid>https://tnagler.com/posts/event-title/</guid>
   <pubDate>Mon, 02 Sep 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" medium="image"/>
+  <media:content url="https://tnagler.com/files/images/placeholder2.JPG" medium="image"/>
 </item>
 <item>
   <title>News item</title>
   <dc:creator>News </dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</link>
+  <link>https://tnagler.com/posts/news-title/</link>
   <description><![CDATA[ 
 
 
@@ -83,16 +83,16 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</guid>
+  <guid>https://tnagler.com/posts/news-title/</guid>
   <pubDate>Sun, 23 Jun 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder3.JPG" medium="image"/>
+  <media:content url="https://tnagler.com/files/images/placeholder3.JPG" medium="image"/>
 </item>
 <item>
   <title>Can quantum-mechanical description of physical reality be considered complete?</title>
   <dc:creator>Albert Einstein</dc:creator>
   <dc:creator>Boris Podolsky</dc:creator>
   <dc:creator>Nathan Rosen</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</link>
+  <link>https://tnagler.com/posts/paper-title/</link>
   <description><![CDATA[ 
 
 
@@ -145,9 +145,9 @@ Quantum-Mechanical Description of Physical Reality Be Considered
 Complete?”</span> <em>Physical Review</em> 47 (7938): 777–80. <a href="https://doi.org/10.1103/PhysRev.47.777">https://doi.org/10.1103/PhysRev.47.777</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</guid>
+  <guid>https://tnagler.com/posts/paper-title/</guid>
   <pubDate>Tue, 14 May 1935 23:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://tnagler.com/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

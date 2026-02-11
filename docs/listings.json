@@ -1,37 +1,14 @@
 [
   {
+    "listing": "/projects.html",
+    "items": []
+  },
+  {
     "listing": "/posts.html",
     "items": [
       "/posts/event-title/index.html",
       "/posts/news-title/index.html",
       "/posts/paper-title/index.html"
-    ]
-  },
-  {
-    "listing": "/projects.html",
-    "items": []
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/posts/event-title/index.html",
-      "/posts/news-title/index.html",
-      "/posts/paper-title/index.html"
-    ]
-  },
-  {
-    "listing": "/people.html",
-    "items": [
-      "/posts/news-title/index.html",
-      "/posts/event-title/index.html",
-      "/posts/paper-title/index.html",
-      "/projects.html",
-      "/index.html",
-      "/teaching.html",
-      "/posts.html",
-      "/404.html",
-      "/contact.html",
-      "/publications.html"
     ]
   }
 ]
