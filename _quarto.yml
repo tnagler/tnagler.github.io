@@ -15,7 +15,7 @@ website:
   title: "Thomas Nagler"
   image: "https://quarto.org/quarto.png"
   description: "Personal website of Thomas Nagler"
- 
+
   navbar:
     background: light  # You can change the background color here
 

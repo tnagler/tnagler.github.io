@@ -22,6 +22,11 @@ Nagler and Langer. **Optimal neural network approximation of smooth compositiona
 
 Gauss and Nagler. **Properties of stepwise parameter estimation in high-dimensional vine copulas.** [[pdf]](https://arxiv.org/abs/2511.17291)
 
+Palm and Nagler. **Uniform central limit theorems for non-stationary processes via relative weak convergence.** [[pdf]](http://arxiv.org/abs/2505.02197)
+
+Gauss and Nagler. **Asymptotics for estimating a diverging number of parameters—with and without sparsity.**
+[[pdf]](https://arxiv.org/abs/2411.17395)
+
 Vatter and Nagler. **Throwing vines at the wall: structure learning via random search.**
 [[pdf]](https://arxiv.org/abs/2510.20035)
 
@@ -30,20 +35,11 @@ Min, Li, Nagler, and Li.
 approach with Distributed Lag Non-Linear Models.**
 [[pdf]](https://arxiv.org/pdf/2506.00561)
 
-Palm and Nagler. **Uniform central limit theorems for non-stationary processes via relative weak convergence.** [[pdf]](http://arxiv.org/abs/2505.02197)
-
-Gauss and Nagler. **Asymptotics for estimating a diverging number of parameters—with and without sparsity.**
-[[pdf]](https://arxiv.org/abs/2411.17395)
 
 Nagler and Rügamer. **Uncertainty quantification for prior-data fitted networks using martingale posteriors.**
 [[pdf]](https://arxiv.org/abs/2505.11325)
 
 Nagler, Claeskens, and Gijbels. **On dimension reduction in conditional dependence models.** [[pdf]](http://arxiv.org/abs/2505.01052)
-
-Cheng, Vatter, Nagler, and Chen. **Vine copulas as differentiable computational graphs.**
-[[pdf]](https://arxiv.org/abs/2506.13318)
-
-
 
 
 ### 2025
@@ -67,6 +63,9 @@ Nagler. **Simplified vine copula models: state of science and affairs.**
 
 Schulz-Kümpel, Fischer, Hornung, Boulesteix, Nagler, and Bischl. 
 **Constructing confidence intervals for 'the' Generalization Error -- a comprehensive benchmark study.** *Data-centric Machine Learning Research (DMLR)* 2(6):1-73, 2025. [[pdf]](https://arxiv.org/abs/2409.18836)
+
+Cheng, Vatter, Nagler, and Chen. **Vine copulas as differentiable computational graphs.**
+*Technical report*. [[pdf]](https://arxiv.org/abs/2506.13318)
 
 
 ### 2024
