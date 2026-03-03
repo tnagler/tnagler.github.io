@@ -14,7 +14,7 @@
 <title>Thomas Nagler</title>
 <link>https://tnagler.com/posts.html</link>
 </image>
-<generator>quarto-1.5.57</generator>
+<generator>quarto-1.9.27</generator>
 <lastBuildDate>Mon, 14 Oct 2024 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Quarto Academic Website Examples and Tips</title>
@@ -30,6 +30,7 @@
   <dc:creator>Event </dc:creator>
   <link>https://tnagler.com/posts/event-title/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -64,6 +65,7 @@ https://quarto.org/docs/authoring/includes.html
 
 
 
+
 <section id="summary" class="level2">
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
 <p>About the news</p>
@@ -94,6 +96,7 @@ https://quarto.org/docs/authoring/includes.html
   <dc:creator>Nathan Rosen</dc:creator>
   <link>https://tnagler.com/posts/paper-title/</link>
   <description><![CDATA[ 
+
 
 
 

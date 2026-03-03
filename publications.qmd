@@ -14,6 +14,9 @@ css: custom.css
 ### Preprints
 <center><hr style="width:100%"></center>
 
+Nagler, Brock, and Palm. **Online bootstrap inference for the trend of nonstationary time series.**
+[[pdf]](https://arxiv.org/abs/2602.23911)
+
 Brock and Nagler. **Fast rates for nonstationary weighted risk minimization**.
 [[pdf]](https://arxiv.org/abs/2602.05742)
 
