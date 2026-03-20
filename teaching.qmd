@@ -13,6 +13,7 @@ title-block-banner: true
 - Mathematical Statistics (Winter)
 - Seminar: Statistics of Extremes (Summer)
 <!-- - Fortgeschrittene Mathematische Methoden in der Statistik (Winter) -->
+
 ---
 
 ## Lecture notes
@@ -21,6 +22,7 @@ title-block-banner: true
 - [Statistical Learning Theory](files/static/slt-2024.pdf)
 - [Lineare Algebra (German)](files/static/linalg-2024.pdf)
 - [Statistics for Astronomy and Physics students](files/static/stan-2020.pdf)
+
 ---
 
 ## Awards
