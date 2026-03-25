@@ -36,13 +36,22 @@ Vatter and Nagler. **Throwing vines at the wall: structure learning via random s
 Min, Li, Nagler, and Li.
 **Assessing climate-driven mortality risk: A stochastic
 approach with Distributed Lag Non-Linear Models.**
-[[pdf]](https://arxiv.org/pdf/2506.00561)
-
+[[pdf]](https://arxiv.org/abs/2506.00561)
 
 Nagler and Rügamer. **Uncertainty quantification for prior-data fitted networks using martingale posteriors.**
 [[pdf]](https://arxiv.org/abs/2505.11325)
 
-Nagler, Claeskens, and Gijbels. **On dimension reduction in conditional dependence models.** [[pdf]](http://arxiv.org/abs/2505.01052)
+
+### 2026
+<center><hr style="width:100%"></center>
+
+Nagler, Claeskens, and Gijbels. **On dimension reduction in conditional dependence models.** 
+*Statistical Dependence Modeling: Festschrift in Honor of Claudia Czado (to appear)*
+[[pdf]](http://arxiv.org/abs/2505.01052)
+
+Li, Nagler, and Czado. **Modeling cold-related excess deaths via stationary vine copulas.** 
+*Scandinavian Actuarial Journal (to appear)*
+[[pdf]](files/static/Modelling_cold_related_excess_deaths_by_major_causes_via_stationary_vine_copulas.pdf)
 
 
 ### 2025
