@@ -51,7 +51,7 @@ Nagler, Claeskens, and Gijbels. **On dimension reduction in conditional dependen
 
 Li, Nagler, and Czado. **Modeling cold-related excess deaths via stationary vine copulas.** 
 *Scandinavian Actuarial Journal (to appear)*
-[[pdf]](files/static/Modelling_cold_related_excess_deaths_by_major_causes_via_stationary_vine_copulas.pdf)
+[[pdf]](files/static/Modelling_cold_related_excess_deaths_by_major_causes_via_stationary_vine_copulas.pdf) [[doi]](https://www.tandfonline.com/doi/full/10.1080/03461238.2026.2650321)
 
 
 ### 2025
