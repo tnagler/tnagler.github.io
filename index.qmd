@@ -80,13 +80,13 @@ about:
 
 I am Professor at the [Department of Statistics](https://www.en.statistik.uni-muenchen.de/index.html), [LMU Munich](https://www.lmu.de/), and a principal investigator at the [Munich Center for Machine Learning (MCML)](https://mcml.ai/).
 
-My main research areas are mathematical statistics and machine learning. I develop statistical methods, derive theoretical guarantees and scalable algorithms, and collaborate with domain experts to solve problems in diverse areas.
+My main research areas are mathematical statistics and machine learning. I develop new methods, derive theoretical guarantees and scalable algorithms, and collaborate with domain experts to solve problems in diverse areas.
 
 
 ### Research interests 
+  - Statistical learning methods and theory
   - High-dimensional dependence models
-  - Statistical machine learning
-  - Time series and functional data
+  - Time series
   - Statistical computing
 
 ### Short CV

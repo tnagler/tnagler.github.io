@@ -20,15 +20,15 @@ Nagler, Brock, and Palm. **Online bootstrap inference for the trend of nonstatio
 Brock and Nagler. **Fast rates for nonstationary weighted risk minimization**.
 [[pdf]](https://arxiv.org/abs/2602.05742)
 
-Nagler and Langer. **Optimal neural network approximation of smooth compositional functions on sets with low intrinsic dimension.**
-[[pdf]](https://arxiv.org/abs/2602.03539)
-
 Gauss and Nagler. **Properties of stepwise parameter estimation in high-dimensional vine copulas.** [[pdf]](https://arxiv.org/abs/2511.17291)
 
 Palm and Nagler. **Uniform central limit theorems for non-stationary processes via relative weak convergence.** [[pdf]](http://arxiv.org/abs/2505.02197)
 
 Gauss and Nagler. **Asymptotics for estimating a diverging number of parameters—with and without sparsity.**
 [[pdf]](https://arxiv.org/abs/2411.17395)
+
+Nagler and Rügamer. **Uncertainty quantification for prior-data fitted networks using martingale posteriors.**
+[[pdf]](https://arxiv.org/abs/2505.11325)
 
 Vatter and Nagler. **Throwing vines at the wall: structure learning via random search.**
 [[pdf]](https://arxiv.org/abs/2510.20035)
@@ -38,12 +38,13 @@ Min, Li, Nagler, and Li.
 approach with Distributed Lag Non-Linear Models.**
 [[pdf]](https://arxiv.org/abs/2506.00561)
 
-Nagler and Rügamer. **Uncertainty quantification for prior-data fitted networks using martingale posteriors.**
-[[pdf]](https://arxiv.org/abs/2505.11325)
-
 
 ### 2026
 <center><hr style="width:100%"></center>
+
+Nagler and Langer. **Optimal neural network approximation of smooth compositional functions on sets with low intrinsic dimension.**
+[[pdf]](https://arxiv.org/abs/2602.03539)
+*The 39th Annual Conference on Learning Theory (COLT)*
 
 Nagler, Claeskens, and Gijbels. **On dimension reduction in conditional dependence models.** 
 *Statistical Dependence Modeling: Festschrift in Honor of Claudia Czado (to appear)*
