@@ -43,8 +43,7 @@ approach with Distributed Lag Non-Linear Models.**
 <center><hr style="width:100%"></center>
 
 Nagler and Langer. **Optimal neural network approximation of smooth compositional functions on sets with low intrinsic dimension.**
-[[pdf]](https://arxiv.org/abs/2602.03539)
-*The 39th Annual Conference on Learning Theory (COLT)*
+*The 39th Annual Conference on Learning Theory (COLT)* [[pdf]](https://arxiv.org/abs/2602.03539)
 
 Nagler, Claeskens, and Gijbels. **On dimension reduction in conditional dependence models.** 
 *Statistical Dependence Modeling: Festschrift in Honor of Claudia Czado (to appear)*
