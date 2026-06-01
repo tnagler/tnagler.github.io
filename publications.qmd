@@ -14,9 +14,6 @@ css: custom.css
 ### Preprints
 <center><hr style="width:100%"></center>
 
-Nagler, Brock, and Palm. **Online bootstrap inference for the trend of nonstationary time series.**
-[[pdf]](https://arxiv.org/abs/2602.23911)
-
 Brock and Nagler. **Fast rates for nonstationary weighted risk minimization**.
 [[pdf]](https://arxiv.org/abs/2602.05742)
 
@@ -41,6 +38,9 @@ approach with Distributed Lag Non-Linear Models.**
 
 ### 2026
 <center><hr style="width:100%"></center>
+
+Nagler, Brock, and Palm. **Online bootstrap inference for the trend of nonstationary time series.**
+*The 42nd Conference on Uncertainty in Artificial Intelligence (UAI)* [[pdf]](https://arxiv.org/abs/2602.23911)
 
 Nagler and Langer. **Optimal neural network approximation of smooth compositional functions on sets with low intrinsic dimension.**
 *The 39th Annual Conference on Learning Theory (COLT)* [[pdf]](https://arxiv.org/abs/2602.03539)
