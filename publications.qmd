@@ -30,14 +30,14 @@ Nagler and Rügamer. **Uncertainty quantification for prior-data fitted networks
 Vatter and Nagler. **Throwing vines at the wall: structure learning via random search.**
 [[pdf]](https://arxiv.org/abs/2510.20035)
 
-Min, Li, Nagler, and Li.
-**Assessing climate-driven mortality risk: A stochastic
-approach with Distributed Lag Non-Linear Models.**
-[[pdf]](https://arxiv.org/abs/2506.00561)
-
 
 ### 2026
 <center><hr style="width:100%"></center>
+
+Min, Li, Nagler, and Li.  **Assessing climate-driven mortality risk: A stochastic
+approach with Distributed Lag Non-Linear Models.** 
+*Journal of the Royal Statistical Society Series A: Statistics in Society (to appear)*
+[[pdf]](https://arxiv.org/abs/2506.00561)
 
 Nagler, Brock, and Palm. **Online bootstrap inference for the trend of nonstationary time series.**
 *The 42nd Conference on Uncertainty in Artificial Intelligence (UAI)* [[pdf]](https://arxiv.org/abs/2602.23911)
