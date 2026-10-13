@@ -8,10 +8,15 @@ title-block-banner: true
 
 ## Current courses
 
+I am on sabbatical leave in the winter term 2026/2027. 
+
+I'll resume teaching
+in the summer with the following courses:
+
 - Statistical Learning Theory (Summer)
-- Methoden der Linearen Algebra in der Statistik  (Summer) 
-- Mathematical Statistics (Winter)
-- Seminar: Statistics of Extremes (Summer)
+- Mathematical Statistics (Summer)
+- Analysis für Studierende der Statistik  (Winter) 
+<!-- - Seminar: Statistics of Extremes (Summer) -->
 <!-- - Fortgeschrittene Mathematische Methoden in der Statistik (Winter) -->
 
 ---
