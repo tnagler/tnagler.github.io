@@ -14,7 +14,13 @@ css: custom.css
 ### Preprints
 <center><hr style="width:100%"></center>
 
-Brock and Nagler. **Fast rates for nonstationary weighted risk minimization**.
+
+Brock and Nagler. **Beyond discrepancy: Oracle drift in nonstationary weighted risk minimization.** 
+[[pdf]](https://arxiv.org/abs/2610.13598)
+
+Hülskamp, Kobialka, Sommer, Nagler, Rügamer. **How well do prior-data fitted networks amortize Bayesian inference?** [[pdf]](https://arxiv.org/abs/2610.13764)
+
+Brock and Nagler. **Fast rates for nonstationary weighted risk minimization.**
 [[pdf]](https://arxiv.org/abs/2602.05742)
 
 Gauss and Nagler. **Properties of stepwise parameter estimation in high-dimensional vine copulas.** [[pdf]](https://arxiv.org/abs/2511.17291)
