@@ -59,21 +59,11 @@ format:
 
 ## PhD researchers
 
-#### Nicolai Palm 
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" alt="website" width="17"/>](https://nicolaipalm.github.io/) 
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg" alt="scholar" width="17"/>](https://scholar.google.de/citations?user=yLb7pfYAAAAJ&hl=de) 
-<!-- [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" alt="github" width="17"/>](https://github.com/nicolaipalm) -->
-<a href="mailto:n.palm@lmu.de">
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" alt="github" width="17"/> </a>
-
-Nico holds a BSc and MSc in Mathematics from the University of Regensburg. He is  working on bootstrap methods and limit theorems for non-stationary time series.
-
-
 #### Jana Gauß
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg" alt="scholar" width="17"/>](https://scholar.google.com/citations?hl=en&user=gJ0vhXwAAAAJ) 
+<!-- [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg" alt="scholar" width="17"/>](https://scholar.google.com/citations?hl=en&user=gJ0vhXwAAAAJ) 
 <!-- [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" alt="github" width="17"/>](https://github.com/JanaGauss) -->
-<a href="mailto:jana.gauss@stat.uni-muenchen.de">
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" alt="github" width="17"/> </a>
+<!-- <a href="mailto:jana.gauss@stat.uni-muenchen.de">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" alt="github" width="17"/> </a> --> 
 
 Jana holds a BSc and MSc in Statistics from LMU Munich. She is working on statistical inference of high-dimensional parameters, with applications to copula models and functional data.
 
@@ -88,14 +78,18 @@ Jana holds a BSc and MSc in Statistics from LMU Munich. She is working on statis
 <!-- Hannah holds a BSc in Mathematics from Heidelberg University and an MSc in Statistics from LMU Munich. She is working on uncertainty quantification in interpretable ML. -->
 
 #### Tobias Brock
-<a href="mailto:tobias.brock@stat.uni-muenchen.de">
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" alt="github" width="17"/> </a>
+<!-- <a href="mailto:tobias.brock@stat.uni-muenchen.de">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" alt="github" width="17"/> </a> -->
 
 Tobias holds a B.A. in International Business from HS Heilbronn and an MSc degree in Statistics & Data Science from LMU Munich. He is working on statistical learning algorithms for nonstationary data.
 
 #### Anna Hunstig
 
 Anna holds BSc and MSc degrees in Mathematics from Paderborn University and RWTH Aachen. She is working on machine learning methods for improving sensor production pipelines at Bosch.
+
+##### Manuel Hülskamp
+(co-supervised by Prof. David Rügamer)  
+Manuel holds a BSc in Computer Science and an MSc in Statistics & Data Science. He is working on Tabular Foundation Models for the Bavarian Foundation Model Inititative [AI.BAY](https://ai-bay.eu/).
 
 
 ## Teaching assistants
@@ -109,8 +103,9 @@ Anna holds BSc and MSc degrees in Mathematics from Paderborn University and RWTH
 :::
 
 
-<!-- ## Alumni -->
+## Alumni
 
 <!-- :::{#lab-alumni} -->
-<!-- ::: -->
+
+Dr. Nicolai Palm ($\rightarrow$ Allianz Global Investors)
 
